@@ -53,6 +53,9 @@
   margin-top: 1%;
 }
 
+.title .logo {
+}
+
 .title .lang {
   display: flex;
   width: 5%;
