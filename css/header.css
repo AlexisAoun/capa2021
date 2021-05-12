@@ -1,6 +1,7 @@
 :root {
   --mainColor: #cc3860;
   --secondaryColor: #4faee1;
+  --thirdColor : #EFBC12;
 }
 /* On importe la police pour le titre */
 @font-face {
@@ -44,22 +45,24 @@
   display: flex;
   justify-content: center;
   position: relative;
+  z-index: 100;
 }
 
 .title h1 {
   font-family: "onomatoshark";
   color: var(--mainColor);
-  font-size: 5.5vh;
+  font-size: clamp(40px, 3vw, 1000px);
   margin-top: 1%;
 }
 
-.title .logo {
+.title #logoImage {
+  width: 5%;
 }
 
 .title .lang {
   display: flex;
   width: 5%;
-  font-size: 2vh;
+  font-size: clamp(12px, 1vw, 1000px);
   justify-content: space-around;
   position: absolute;
   left: 7%;
@@ -67,24 +70,27 @@
 }
 
 .title .lang a:hover {
+  color: var(--thirdColor);
+}
+
+.title .lang a:active {
   color: var(--mainColor);
 }
 
 .nav {
   display: flex;
+  position: relative;
   width: 100%;
   height: 35%;
-  overflow: hidden;
   background-color: white;
   justify-content: center;
-  position: relative;
 }
 
 .nav .menu {
+  position: absolute;
+  bottom: 30%;
   display: flex;
-  position: relative;
   width: 70%;
-  margin-top: 0.5%;
   justify-content: space-around;
 }
 
@@ -93,26 +99,61 @@
 }
 
 .nav a {
-  font-weight: 700;
-  font-size: 2vh;
+  font-size: clamp(0.7em,1vw, 10000px);
 }
 
 .nav a:hover {
+  color: var(--thirdColor); 
+}
+
+.nav a:active {
+  color: var(--mainColor); 
+}
+
+.nav .menu i {
+  font-size: clamp(1.2em, 1.3vw, 1000px);
+}
+
+.nav .menu i:active{
   color: var(--mainColor);
 }
 
+.nav .dropSub{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  position: absolute;
+  background-image:linear-gradient(var(--secondaryColor), #98E5ED);
+  left : 5%;
+  z-index: 10;
+  visibility: hidden;
+  height: 500%;
+  width: 22%;
+  align-items: center;
+  border-radius: 20px;
+  border: 3px solid #EFBC12;
+}
+
+
+.nav .dropMenu:hover > .dropSub{
+  visibility: visible;
+}
 .nav .socialIcons {
   display: flex;
   justify-content: space-around;
   width: 7.5%;
-  bottom: 35%;
   position: absolute;
+  bottom: 35%;
   right: 5%;
 }
 
-.nav i {
+.nav .socialIcons i {
   color: var(--secondaryColor);
-  font-size: 2.5vh;
+  font-size: clamp(1.2em,1.5vw, 10000px);
+}
+
+.nav i:hover{
+  color: var(--thirdColor);
 }
 
 .navBackTop {

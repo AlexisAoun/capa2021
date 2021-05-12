@@ -7,10 +7,12 @@ const mouseThreshold = 130;
 
 var navMenu = document.getElementById("navMenu");
 
-var logoImage = '<img id="logo" src="img/logo.jpg" alt="logo capa">';
-var title = '<h1 id="logo">CAPA 2021</h1>';
+var logoImage = '<img id="logoImage" src="img/logo.jpg" alt="logo capa">';
+var logoText = '<h1 id="logoText">CAPA 2021</h1>';
         
-var logo = document.getElementById("logo");
+var logo = document.getElementById("logoText");
+
+
 
 function navOnScroll(scrollPos) {
   navMenu.style.transition = "height 0.6s linear 0s";
@@ -18,13 +20,13 @@ function navOnScroll(scrollPos) {
   if (scrollPos > scrollThreshold){
       navMenu.style.height = "0";
       logo.outerHTML = logoImage;
-      logo = document.getElementById("logo");
+      logo = document.getElementById("logoImage");
     }
 
   else {
       navMenu.style.height = navMenuHeight;
-      logo.outerHTML = title;
-      logo = document.getElementById("logo");
+      logo.outerHTML = logoText;
+      logo = document.getElementById("logoText");
   }
 }
 
@@ -54,3 +56,4 @@ document.addEventListener("scroll", function (e) {
 window.addEventListener("mousemove", function (e) {
   navOnHover(e);
 });
+
