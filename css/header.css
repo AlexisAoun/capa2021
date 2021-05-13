@@ -1,3 +1,7 @@
+body::after{
+  position:absolute; width:0; height:0; overflow:hidden; z-index:-1;
+  content:url(../img/logo.jpg) url(../img/logo.png);
+}
 :root {
   --mainColor: #cc3860;
   --secondaryColor: #4faee1;
@@ -38,7 +42,7 @@
 
 
 /* Le titre "CAPA 2021" */
-.title {
+#header .title {
   background-color: white;
   width: 100%;
   height: 65%;
@@ -48,18 +52,18 @@
   z-index: 100;
 }
 
-.title h1 {
+#header .title h1 {
   font-family: "onomatoshark";
   color: var(--mainColor);
   font-size: clamp(40px, 3vw, 1000px);
   margin-top: 1%;
 }
 
-.title #logoImage {
+#header .title #logoImage {
   width: 5%;
 }
 
-.title .lang {
+#header .title .lang {
   display: flex;
   width: 5%;
   font-size: clamp(12px, 1vw, 1000px);
@@ -69,11 +73,11 @@
   top: 40%;
 }
 
-.title .lang a:hover {
+#header .title .lang a:hover {
   color: var(--thirdColor);
 }
 
-.title .lang a:active {
+#header .title .lang a:active {
   color: var(--mainColor);
 }
 
