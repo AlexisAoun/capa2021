@@ -28,6 +28,7 @@ body::after {
   padding: 0;
   text-decoration: none;
   color: black;
+  box-sizing: border-box;
 
   font-family: "Montserrat", "Arial", serif;
 }
@@ -191,15 +192,51 @@ body::after {
 }
 
 @media screen and (max-width: 800px) {
-  .nav {
-    display: none;
+
+  body{
+    overflow: hidden;
   }
-  .links a {
-    font-size: 20px;
+
+  #header .title h1 {
+    margin-top: 2%;
   }
-  .title :checked ~ .links {
-    bottom: 0;
+
+  #header .title .lang{
+    width: 15%;
   }
+  .nav{
+    float: none;
+    position: absolute;
+    top: 65%;
+    height: 100vh; 
+  }
+
+  .nav .menu{
+    flex-direction: column;
+    height: 70%;
+    top: 0;
+    align-items: center;
+  }
+
+  .menu a{
+    font-size: clamp(0.7em, 4vw, 10000px);
+  }
+
+  .nav .menu i{
+    font-size: clamp(1.2em, 7vw, 1000px);
+  }
+
+  .nav .socialIcons{
+    position: absolute;
+    width: 60%;
+    bottom : 15%;
+    right:  20%; 
+  }
+
+  .nav .socialIcons i{
+    font-size: clamp(1.2em, 10vw, 10000px);
+  }
+
   .title .icon-burger {
     display: block;
   }
