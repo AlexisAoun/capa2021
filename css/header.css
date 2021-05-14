@@ -1,7 +1,15 @@
+body::after {
+  position: absolute;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+  z-index: -1;
+  content: url(../img/logo.jpg) url(../img/logo.png);
+}
 :root {
   --mainColor: #cc3860;
   --secondaryColor: #4faee1;
-  --thirdColor : #EFBC12;
+  --thirdColor: #efbc12;
 }
 /* On importe la police pour le titre */
 @font-face {
@@ -36,9 +44,8 @@
   top: 0%;
 }
 
-
 /* Le titre "CAPA 2021" */
-.title {
+#header .title {
   background-color: white;
   width: 100%;
   height: 65%;
@@ -48,18 +55,18 @@
   z-index: 100;
 }
 
-.title h1 {
+#header .title h1 {
   font-family: "onomatoshark";
   color: var(--mainColor);
   font-size: clamp(40px, 3vw, 1000px);
   margin-top: 1%;
 }
 
-.title #logoImage {
+#header .title #logoImage {
   width: 5%;
 }
 
-.title .lang {
+#header .title .lang {
   display: flex;
   width: 5%;
   font-size: clamp(12px, 1vw, 1000px);
@@ -69,11 +76,11 @@
   top: 40%;
 }
 
-.title .lang a:hover {
+#header .title .lang a:hover {
   color: var(--thirdColor);
 }
 
-.title .lang a:active {
+#header .title .lang a:active {
   color: var(--mainColor);
 }
 
@@ -99,43 +106,42 @@
 }
 
 .nav a {
-  font-size: clamp(0.7em,1vw, 10000px);
+  font-size: clamp(0.7em, 1vw, 10000px);
 }
 
 .nav a:hover {
-  color: var(--thirdColor); 
+  color: var(--thirdColor);
 }
 
 .nav a:active {
-  color: var(--mainColor); 
+  color: var(--mainColor);
 }
 
 .nav .menu i {
   font-size: clamp(1.2em, 1.3vw, 1000px);
 }
 
-.nav .menu i:active{
+.nav .menu i:active {
   color: var(--mainColor);
 }
 
-.nav .dropSub{
+.nav .dropSub {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
   position: absolute;
-  background-image:linear-gradient(var(--secondaryColor), #98E5ED);
-  left : 5%;
+  background-image: linear-gradient(var(--secondaryColor), #98e5ed);
+  left: 5%;
   z-index: 10;
   visibility: hidden;
   height: 500%;
   width: 22%;
   align-items: center;
   border-radius: 20px;
-  border: 3px solid #EFBC12;
+  border: 3px solid #efbc12;
 }
 
-
-.nav .dropMenu:hover > .dropSub{
+.nav .dropMenu:hover > .dropSub {
   visibility: visible;
 }
 .nav .socialIcons {
@@ -149,10 +155,10 @@
 
 .nav .socialIcons i {
   color: var(--secondaryColor);
-  font-size: clamp(1.2em,1.5vw, 10000px);
+  font-size: clamp(1.2em, 1.5vw, 10000px);
 }
 
-.nav i:hover{
+.nav i:hover {
   color: var(--thirdColor);
 }
 
@@ -160,4 +166,50 @@
   width: 100%;
   height: 14%;
   background-color: var(--mainColor);
+}
+
+#nav-toggle {
+  position: absolute;
+  top: -100px;
+}
+
+.title .icon-burger {
+  display: none;
+  position: absolute;
+  right: 5%;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.title .icon-burger .line {
+  width: 30px;
+  height: 5px;
+  background-color: var(--secondaryColor);
+  margin: 5px;
+  border-radius: 3px;
+  transition: all 0.3s ease-in-out;
+}
+
+@media screen and (max-width: 800px) {
+  .nav {
+    display: none;
+  }
+  .links a {
+    font-size: 20px;
+  }
+  .title :checked ~ .links {
+    bottom: 0;
+  }
+  .title .icon-burger {
+    display: block;
+  }
+  .title :checked ~ .icon-burger .line:nth-child(1) {
+    transform: translateY(10px) rotate(225deg);
+  }
+  .title :checked ~ .icon-burger .line:nth-child(3) {
+    transform: translateY(-10px) rotate(-225deg);
+  }
+  .title :checked ~ .icon-burger .line:nth-child(2) {
+    opacity: 0;
+  }
 }
