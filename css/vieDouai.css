@@ -1,0 +1,124 @@
+:root {
+    --mainColor: #CC3860;
+    --secondaryColor: #4FAEE1;
+    --thirdColor: #efbc12;
+}
+
+#content{
+    background-image: linear-gradient(var(--mainColor),var(--secondaryColor));
+    width: 100%;
+}
+
+.content-header{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+  width: 70%;
+}
+
+.content-body{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin: auto;
+  width: 70%;
+  padding-bottom: 4vh;
+}
+
+.content-title{
+  font-family: Arial;
+  font-size: 5vh;
+  color: var(--secondaryColor);
+  text-align: center;
+  margin-top:3vh;
+  margin-bottom:3vh;
+  font-weight: 900;
+}
+
+.content-text{
+  font-family: Arial;
+  font-size: 3vh;
+  color: white;
+  text-align: center;
+  margin-top:3vh;
+  margin-bottom:3vh;
+}
+.content-text b{
+  font-family: Arial;
+  font-size: 3vh;
+  color: white;
+  font-weight: 900;
+}
+
+.album-container h2{
+  font-family: Arial;
+  font-size: 5vh;
+  color: var(--thirdColor);
+  margin-top:3vh;
+  margin-bottom:3vh;
+  font-weight: 900;
+  text-align: center;
+}
+
+.album-container h3{
+  font-family: Arial;
+  font-size: 4vh;
+  color: white;
+  margin-top:3vh;
+  margin-bottom:3vh;
+  font-weight: 900;
+  text-align: left;
+}
+
+.album-container h4{
+  font-family: Arial;
+  font-size: 2vh;
+  color: white;
+  margin-top:2vh;
+  margin-bottom:3vh;
+  font-weight: 900;
+  text-align: left;
+}
+
+.photos-row{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  margin: auto;
+}
+
+.photos-row img{
+  width: 48%;
+  margin-top:1vh;
+  margin-bottom:1vh;
+}
+
+.photo-alone-big{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  width: 100%;
+  margin: auto;
+}
+
+.photo-alone-big img{
+  width: 100%;
+  margin-top:1vh;
+  margin-bottom:1vh;
+}
+
+.photo-alone-small{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  margin: auto;
+}
+
+.photo-alone-small img{
+  width: 48%;
+  margin-top:1vh;
+  margin-bottom:1vh;
+}
