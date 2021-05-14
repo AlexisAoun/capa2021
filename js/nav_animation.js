@@ -8,6 +8,7 @@ const mouseThreshold = 130;
 var res = window.matchMedia("(max-width: 800px)")
 
 var navMenu = document.getElementById("navMenu");
+var burger = document.getElementById("icon-burger");
 
 var logoImage = '<img id="logoImage" src="./img/logo.jpg" alt="logo capa">';
 var logoText = '<h1 id="logoText">CAPA 2021</h1>';
@@ -60,4 +61,8 @@ document.addEventListener("scroll", function (e) {
 
 window.addEventListener("mousemove", function (e) {
   navOnHover(e);
+});
+
+burger.addEventListener("click", () => {
+  navMenu.classList.toggle('nav-active');
 });
