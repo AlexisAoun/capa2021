@@ -5,6 +5,12 @@
   text-align: center;
 }
 
+#content {
+  background-image: linear-gradient(var(--mainColor), var(--secondaryColor));
+  width: 100%;
+  height: auto;
+}
+
 .mur{
   width: 100%;
   height: auto;
