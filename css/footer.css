@@ -28,6 +28,7 @@
 #footer .logoTitle img {
   width: 17%;
   height: auto;
+  align-self: flex-start;
 }
 
 #footer .logoTitle h1 {
