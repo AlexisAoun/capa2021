@@ -61,8 +61,3 @@ document.addEventListener("scroll", function (e) {
 window.addEventListener("mousemove", function (e) {
   navOnHover(e);
 });
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 1cc68bb2734d3a36628f7032804b6a1e2cf5c5eb

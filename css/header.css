@@ -192,8 +192,7 @@ body::after {
 }
 
 @media screen and (max-width: 800px) {
-
-  body{
+  body {
     overflow: hidden;
   }
 
@@ -201,39 +200,61 @@ body::after {
     margin-top: 2%;
   }
 
-  #header .title .lang{
+  #header .title .lang {
     width: 15%;
   }
-  .nav{
+  .nav {
     float: none;
     position: absolute;
     top: 65%;
-    height: 100vh; 
+    height: 100vh;
   }
 
-  .nav .menu{
+  .nav .menu {
     flex-direction: column;
     height: 70%;
     top: 0;
     align-items: center;
   }
 
-  .menu a{
+  .menu a {
     font-size: clamp(0.7em, 4vw, 10000px);
   }
 
-  .nav .menu i{
+  .nav .menu i {
     font-size: clamp(1.2em, 7vw, 1000px);
   }
 
-  .nav .socialIcons{
-    position: absolute;
-    width: 60%;
-    bottom : 15%;
-    right:  20%; 
+  .nav .dropMenu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .nav .dropSub {
+    all: inherit;
+    display: none;
   }
 
-  .nav .socialIcons i{
+  .nav .dropMenu:hover {
+    height: 30%;
+  }
+
+  .nav .dropMenu:hover > .dropSub {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 100%;
+    margin-top: 10%;
+  }
+
+  .nav .socialIcons {
+    position: absolute;
+    width: 60%;
+    bottom: 15%;
+    right: 20%;
+  }
+
+  .nav .socialIcons i {
     font-size: clamp(1.2em, 10vw, 10000px);
   }
 
