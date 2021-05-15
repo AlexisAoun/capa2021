@@ -10,7 +10,14 @@ var res = window.matchMedia("(max-width: 800px)")
 var navMenu = document.getElementById("navMenu");
 var burger = document.getElementById("icon-burger");
 
-var logoImage = '<img id="logoImage" src="./img/logo.jpg" alt="logo capa">';
+var path = window.location.pathname;
+var page = path.split("/").pop();
+
+if(page == "index")
+  var logoImage = '<img id="logoImage" src="img/logo.jpg" alt="logo capa">';
+else 
+  var logoImage = '<img id="logoImage" src="../img/logo.jpg" alt="logo capa">';
+
 var logoText = '<h1 id="logoText">CAPA 2021</h1>';
 
 var logo = document.getElementById("logoText");
