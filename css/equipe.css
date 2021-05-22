@@ -1,11 +1,10 @@
-
 #content {
   background-image: linear-gradient(var(--mainColor), var(--secondaryColor));
   width: 100%;
   height: auto;
 }
 
-#accueil{
+#accueil {
   width: 90%;
   height: auto;
   margin-top: 2%;
@@ -13,65 +12,64 @@
   text-align: center;
 }
 
-.imgtype1{
+.imgtype1 {
   width: 100%;
   height: auto;
   text-align: center;
 }
 
-.titre_page{
+.titre_page {
   display: flex;
   flex-direction: column;
   justify-content: center;
   text-align: center;
-  margin-bottom:5%;
+  margin-bottom: 5%;
 }
 
-h1{
+h1 {
   color: #3480eb;
   font-size: 300%;
   font-weight: bolder;
   text-decoration: none;
-
 }
 
-.texte-integration{
+.texte-integration {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  text-align: center
-  margin:10%;
-  padding:1%;
+  text-align: center;
+  margin: 10%;
+  padding: 1%;
 }
 
-p{
+p {
   margin-left: 20%;
   margin-right: 20%;
   color: white;
   text-align: center;
 }
 
-B{
-  color:white;
-  font-wieght: 600%;
+B {
+  color: white;
+  font-weight: 600%;
 }
 
-.video_gauche{
+.video_gauche {
   display: flex;
   flex-direction: row;
   justify-content: left;
   text-align: center;
-  margin:3%;
+  margin: 3%;
   margin-left: 10%;
   margin-right: 10%;
 }
 
-.video_droite{
+.video_droite {
   display: flex;
   flex-direction: row;
   justify-content: center;
   text-align: center;
-  margin:3%;
+  margin: 3%;
   margin-left: 10%;
   margin-right: 10%;
 }
@@ -83,17 +81,17 @@ B{
   justify-content: center;
 }
 
-.video_droite .bloc_text h2{
+.video_droite .bloc_text h2 {
   margin-left: 40%;
   text-align: left;
 }
 
-.video_gauche .bloc_text h2{
+.video_gauche .bloc_text h2 {
   margin-right: 40%;
   text-align: right;
 }
 
-.bloc_video{
+.bloc_video {
   width: 40%;
   display: flex;
   flex-direction: column;
@@ -101,13 +99,13 @@ B{
   text-align: center;
 }
 
-.video{
+.video {
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */
   height: 0;
 }
 
-.video iframe{
+.video iframe {
   position: absolute;
   top: 0;
   left: 0;
@@ -115,7 +113,7 @@ B{
   height: 100%;
 }
 
-h2{
+h2 {
   color: #faed00;
   font-size: 3vh;
   font-weight: max;

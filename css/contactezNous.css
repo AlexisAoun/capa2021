@@ -1,15 +1,15 @@
 :root {
-    --mainColor: #CC3860;
-    --secondaryColor: #4FAEE1;
-    --thirdColor: #efbc12;
+  --mainColor: #cc3860;
+  --secondaryColor: #4faee1;
+  --thirdColor: #efbc12;
 }
 
-#content{
-    background-image: linear-gradient(var(--mainColor),var(--secondaryColor));
-    width: 100%;
+#content {
+  background-image: linear-gradient(var(--mainColor), var(--secondaryColor));
+  width: 100%;
 }
 
-.content-header{
+#content .content-header {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -17,7 +17,7 @@
   width: 70%;
 }
 
-.content-body{
+#content .content-body {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -25,7 +25,7 @@
   width: 70%;
 }
 
-.content-adresses{
+#content .content-adresses {
   display: flex;
   flex-direction: column;
   justify-content: left;
@@ -33,7 +33,7 @@
   width: 70%;
 }
 
-.image-header-container{
+#content .image-header-container {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -42,65 +42,65 @@
   width: 80%;
 }
 
-.image-header{
+#content .image-header {
   width: 100%;
 }
 
-.content-title{
+#content .content-title {
   font-family: Arial;
   font-size: 4vh;
   color: white;
   text-align: center;
-  margin-top:3vh;
-  margin-bottom:3vh;
+  margin-top: 3vh;
+  margin-bottom: 3vh;
   font-weight: 900;
 }
 
-.content-title em{
+#content .content-title em {
   font-weight: 900;
 }
 
-.content-subtitle{
+#content .content-subtitle {
   font-family: Arial;
   font-size: 3vh;
   color: white;
   text-align: center;
-  margin-top:3vh;
-  margin-bottom:3vh;
+  margin-top: 3vh;
+  margin-bottom: 3vh;
   font-weight: 900;
 }
 
-.content-subtitle em{
+#content .content-subtitle em {
   font-weight: 900;
 }
 
-.left{
+#content .left {
   text-align: left;
 }
 
-em{
+#content em {
   font-family: Arial;
   color: var(--thirdColor);
   font-style: normal;
 }
 
-.e-mail{
+#content .e-mail {
   font-size: 1.9vh;
 }
 
-p{
+#content p {
   font-family: Arial;
   font-size: 2vh;
   color: white;
   text-align: left;
-  margin-top:1vh;
-  margin-bottom:1vh;
+  margin-top: 1vh;
+  margin-bottom: 1vh;
 }
 
-ul{
+#content ul {
   list-style: circle;
 }
 
-li{
+#content li {
   color: "#a9a9a9";
 }
