@@ -7,7 +7,7 @@ class MenuHome extends HTMLElement {
             <a href="index.html"><i class="fa fa-home" aria-hidden="true"></i></a>
           </li>
           <li class="dropMenu">
-            <a href="#">Informations &nbsp; &nbsp; v</a>
+            <a href="html/information.html">Informations &nbsp; &nbsp; v</a>
             <ul class="dropSub">
               <li><a href="#">Guide meudien</a></li>
               <li><a href="#">Questionnaire Parrain-fillot</a></li>
@@ -33,7 +33,7 @@ class MenuPage extends HTMLElement {
             <a href="../index.html"><i class="fa fa-home" aria-hidden="true"></i></a>
           </li>
           <li class="dropMenu">
-            <a href="#">Informations &nbsp; &nbsp; v</a>
+            <a href="information.html">Informations &nbsp; &nbsp; v</a>
             <ul class="dropSub">
               <li><a href="#">Guide meudien</a></li>
               <li><a href="#">Questionnaire Parrain-fillot</a></li>
