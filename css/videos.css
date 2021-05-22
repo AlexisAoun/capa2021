@@ -1,5 +1,4 @@
-
-.titre_page{
+#content .titre_page {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -12,37 +11,36 @@
   height: auto;
 }
 
-.titre{
-  margin:5%;
+#content .titre {
+  margin: 5%;
 }
 
-h1{
+#content h1 {
   color: #3480eb;
   font-size: 200%;
-
 }
 
-h3{
-  color:white;
+#content h3 {
+  color: white;
   text-decoration: underline;
-  margin:1%;
+  margin: 1%;
   text-align: center;
 }
 
-.bloc_video{
+#content .bloc_video {
   display: flex;
   flex-direction: column;
   justify-content: center;
   text-align: center;
 }
 
-.video{
+#content .video {
   text-align: center;
   width: auto;
   height: 600px;
   margin-bottom: -15%;
 }
 
-iframe{
-  text-align:center;
+#content iframe {
+  text-align: center;
 }
