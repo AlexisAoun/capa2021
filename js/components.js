@@ -6,14 +6,7 @@ class MenuHome extends HTMLElement {
           <li>
             <a href="index.html"><i class="fa fa-home" aria-hidden="true"></i></a>
           </li>
-          <li class="dropMenu">
-            <a href="html/information.html">Informations &nbsp; &nbsp; v</a>
-            <ul class="dropSub">
-              <li><a href="#">Guide meudien</a></li>
-              <li><a href="#">Questionnaire Parrain-fillot</a></li>
-              <li><a href="#">FAQ</a></li>
-            </ul>
-          </li>
+          <li><a href="html/information.html">Informations</a></li>
           <li><a href="html/videos.html">Vidéos</a></li>
           <li><a href="html/equipe.html">L'équipe</a></li>
           <li><a href="html/vieDouai.html">La vie à Douai</a></li>
@@ -32,14 +25,7 @@ class MenuPage extends HTMLElement {
           <li>
             <a href="../index.html"><i class="fa fa-home" aria-hidden="true"></i></a>
           </li>
-          <li class="dropMenu">
-            <a href="information.html">Informations &nbsp; &nbsp; v</a>
-            <ul class="dropSub">
-              <li><a href="#">Guide meudien</a></li>
-              <li><a href="#">Questionnaire Parrain-fillot</a></li>
-              <li><a href="#">FAQ</a></li>
-            </ul>
-          </li>
+          <li><a href="information.html">Informations</a></li>
           <li><a href="videos.html">Vidéos</a></li>
           <li><a href="equipe.html">L'équipe</a></li>
           <li><a href="vieDouai.html">La vie à Douai</a></li>
