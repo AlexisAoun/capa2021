@@ -94,11 +94,20 @@ body::after {
   justify-content: center;
 }
 
+menu-home{
+  width: 100%;
+}
+
+menu-page{
+  width: 100%;
+}
+
 .nav .menu {
   position: absolute;
   bottom: 30%;
   display: flex;
   width: 70%;
+  margin-left: 15%;
   justify-content: space-around;
 }
 
