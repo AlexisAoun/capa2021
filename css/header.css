@@ -94,11 +94,11 @@ body::after {
   justify-content: center;
 }
 
-menu-home{
+menu-home {
   width: 100%;
 }
 
-menu-page{
+menu-page {
   width: 100%;
 }
 
@@ -201,7 +201,6 @@ menu-page{
 }
 
 @media screen and (max-width: 800px) {
-
   #header .title h1 {
     margin-top: 2%;
   }

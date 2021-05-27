@@ -59,3 +59,23 @@
   border-radius: 5px;
   padding: 3%;
 }
+
+#content .vid{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 5%;
+}
+
+#content .vid p{
+  font-weight: bold;
+  font-size: 1.5vw;
+}
+
+#content iframe{
+  margin-top: 2%;
+  width: 50%;
+}
+
+#content .quiSommesNous{
+}
