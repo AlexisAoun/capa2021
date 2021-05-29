@@ -25,7 +25,7 @@
   justify-content: space-around;
 }
 
-#content h1 {
+#content .intro h1 {
   color: var(--secondaryColor);
 }
 
@@ -34,7 +34,7 @@
   font-weight: 500;
 }
 
-#content p {
+#content .intro p {
   color: white;
 }
 
@@ -69,8 +69,9 @@
 }
 
 #content .vid p{
+  color: white;
   font-weight: bold;
-  font-size: 1.5vw;
+  font-size: clamp(1.2em, 1.5vw, 1000em);
 }
 
 #content iframe{
@@ -103,7 +104,7 @@
 #content .quiSommesNous-content h1{
   color: white;
   text-align: center;
-  font-size: 3vw;
+  font-size: clamp(1.3em, 3vw, 1000em);
 }
 
 #content .quiSommesNous-content h3 {
@@ -113,7 +114,7 @@
   margin-left: 25%;
   text-align: center;
   font-weight: 500;
-  font-size: 1.5vw;
+  font-size: clamp(1em, 1.5vw, 1000em);
 }
 
 #content .whoAreWe{
@@ -123,7 +124,62 @@
   margin: auto; 
   margin-top: 5%;
   padding: 1%;
-  font-size: 1vw;
+  font-size: clamp(1em, 1vw, 1000em);
 }
 
 
+@media screen and (max-width: 900px) {
+   #content .intro{
+     flex-direction: column-reverse;
+     width: 80%;
+   }
+   #content .intro h1{
+     text-align: center;
+   }
+   #content .intro p{
+     text-align: center;
+     margin-top: 10%; }
+
+  #content .twoButtons{
+    margin-top: 10%;
+    flex-direction: column;
+  }
+  #content .whyMEUD{
+    margin-top: 10%;
+  }
+
+  #content .bigLogo img{
+    width: 100%;
+    height: auto;
+  }
+
+  #content .vid{
+    margin-top: 10%
+  }
+
+  #content iframe{
+    width: 90%;
+    height: 100%;
+  }
+
+  #content .quiSommesNous{
+  }
+
+  #content .quiSommesNous-content{
+    position: relative;
+    margin-top: 100%;
+  }
+
+  #content .quiSommesNous-content h3{
+    margin-top: 8%;
+    width: 80%;
+    margin-left: 10%;
+  }
+
+  #content .quiSommesNous-content .whoAreWe{
+    margin-bottom: 5%;
+    background-color: var(--mainColor);
+    padding: 3%;
+  }
+
+}
