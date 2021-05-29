@@ -13,7 +13,7 @@ var burger = document.getElementById("icon-burger");
 var path = window.location.pathname;
 var page = path.split("/").pop();
 
-if(page == "index.html")
+if(page == "index.html" || page == "")
   var logoImage = '<img id="logoImage" src="img/logo.jpg" alt="logo capa">';
 else 
   var logoImage = '<img id="logoImage" src="../img/logo.jpg" alt="logo capa">';
