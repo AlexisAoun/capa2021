@@ -7,7 +7,7 @@
 #content {
   background-image: linear-gradient(var(--mainColor), var(--secondaryColor));
   width: 100%;
-  height: 400vh;
+  height: auto;
 }
 
 #content .intro {
@@ -50,6 +50,7 @@
   background-color: var(--secondaryColor);
   border: 0px;
   border-radius: 5px;
+  width: auto;
   padding: 3%;
 }
 
@@ -78,4 +79,51 @@
 }
 
 #content .quiSommesNous{
+  margin-top: 5%;
 }
+
+#content .quiSommesNous {
+  background-image: url(../img/CAPA21.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center, center;
+  width: 100%;
+  padding-top: 66.6666%;
+  position: relative;
+}
+
+#content .quiSommesNous-content{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  position: absolute;
+  bottom: 13%;
+}
+
+#content .quiSommesNous-content h1{
+  color: white;
+  text-align: center;
+  font-size: 3vw;
+}
+
+#content .quiSommesNous-content h3 {
+  color: white;
+  width: 50%;
+  margin-top: 3%;
+  margin-left: 25%;
+  text-align: center;
+  font-weight: 500;
+  font-size: 1.5vw;
+}
+
+#content .whoAreWe{
+  background-color: var(--secondaryColor);
+  border: 0px;
+  border-radius: 3px;
+  margin: auto; 
+  margin-top: 5%;
+  padding: 1%;
+  font-size: 1vw;
+}
+
+
