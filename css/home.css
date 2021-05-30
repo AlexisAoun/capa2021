@@ -84,13 +84,13 @@
 }
 
 #content .quiSommesNous {
-  background-image: url(../img/CAPA21.jpg);
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center, center;
   width: 100%;
-  padding-top: 66.6666%;
   position: relative;
+}
+
+#content .teamCAPA{
+  width: 100%;
+  height: auto;
 }
 
 #content .quiSommesNous-content{
@@ -124,7 +124,7 @@
   margin: auto; 
   margin-top: 5%;
   padding: 1%;
-  font-size: clamp(1em, 1vw, 1000em);
+  font-size: clamp(0.8em, 1vw, 1000em);
 }
 
 
@@ -163,16 +163,14 @@
   }
 
   #content .quiSommesNous{
-    margin-top: -50%;
   }
 
   #content .quiSommesNous-content{
+    margin-top: 5%;
     position: relative;
-    margin-top: 100%;
   }
 
   #content .quiSommesNous-content h3{
-    margin-top: 8%;
     width: 80%;
     margin-left: 10%;
   }
