@@ -1,3 +1,9 @@
+:root {
+  --mainColor: #cc3860;
+  --secondaryColor: #4faee1;
+  --thirdColor: #efbc12;
+}
+
 #content .imgtype1 {
   width: 100%;
   height: auto;
@@ -61,7 +67,7 @@
 
 #content h1 {
   margin-bottom: 5%;
-  color: #3480eb;
+  color: var(--secondaryColor);
   font-size: 300%;
   font-weight: max;
 }
@@ -80,13 +86,13 @@
 #content h2 {
   margin-top: 5%;
   margin-bottom: 5%;
-  color: #faed00;
+  color: var(--thirdColor);
   font-size: 300%;
   font-weight: max;
 }
 
 #content a .button {
-  background-color: #faed00;
+  background-color: var(--thirdColor);
   border: none;
   color: white;
   padding: 15px 32px;
@@ -130,13 +136,13 @@
 }
 
 #content .lien_pied_page:link {
-  color: #faed00;
+  color: var(--thirdColor);
 }
 
 #content .lien_pied_page:visited {
-  color: #faed00;
+  color: var(--thirdColor);
 }
 
 #content a:focus {
-  background: #faed00;
+  background: var(--thirdColor);
 }
