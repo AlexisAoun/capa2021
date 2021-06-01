@@ -116,14 +116,16 @@
 
   #content .bloc_video {
     width: 80%;
-    display: flex;
-    flex-direction: column;
     justify-content: center;
     text-align: center;
     margin-top: 5%;
     margin-left: 10%;
-    justify-self: flex-start;
+  }
+
+  #content .bloc_video img{
+    width: 100%;
     height: auto;
+    justify-self: flex-start;
   }
   #content .video_droite .bloc_text h2 {
     text-align: center;
