@@ -94,6 +94,8 @@
   flex-direction: column;
   justify-content: center;
   text-align: center;
+  align-self: flex-start;
+  height: auto;
 }
 
 #content h2 {
@@ -120,6 +122,8 @@
     text-align: center;
     margin-top: 5%;
     margin-left: 10%;
+    justify-self: flex-start;
+    height: auto;
   }
   #content .video_droite .bloc_text h2 {
     text-align: center;

@@ -91,6 +91,7 @@
 
 .photos-row img {
   width: 48%;
+  align-self: flex-start;
   margin-top: 1vh;
   margin-bottom: 1vh;
 }
@@ -99,6 +100,7 @@
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
+  align-self: flex-start;
   width: 100%;
   margin: auto;
 }
@@ -107,12 +109,14 @@
   width: 100%;
   margin-top: 1vh;
   margin-bottom: 1vh;
+  align-self: flex-start;
 }
 
 .photo-alone-small {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  align-self: flex-start;
   width: 100%;
   margin: auto;
 }
@@ -140,14 +144,20 @@
     flex-direction: column;
   }
   .photos-row img {
+    justify-self: flex-start;
     width: 80%;
+    height: auto;
     margin-left: 10%;
   }
   .photo-alone-big{
+    height: auto;
+    justify-self: flex-start;
     width: 80%;
   }
 
   .photo-alone-small img {
+    height: auto;
+    justify-self: flex-start;
     width: 80%;
   }
 }
