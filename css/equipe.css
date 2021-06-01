@@ -33,7 +33,7 @@
 
 #content h1 {
   color: var(--secondaryColor);
-  font-size: clamp(1.5em, 3vw, 10000em);  
+  font-size: clamp(1.5em, 3vw, 10000em);
   font-weight: bold;
 }
 
@@ -49,7 +49,7 @@
 
 #content p {
   color: white;
-  font-size: clamp(1em, 1.2vw, 10000em);  
+  font-size: clamp(1em, 1.2vw, 10000em);
   text-align: center;
 }
 
@@ -96,23 +96,36 @@
   text-align: center;
 }
 
-#content .video {
-  position: relative;
-  padding-bottom: 56.25%; /* 16:9 */
-  height: 0;
-}
-
-#content .video iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
 #content h2 {
   color: var(--thirdColor);
-  font-size: clamp(1em, 3vw, 1000em);
+  font-size: clamp(2em, 3vw, 1000em);
   font-weight: max;
   font-family: "onomatoshark";
+}
+
+@media screen and (max-width: 800px) {
+  #content .video_droite {
+    flex-direction: column;
+  }
+
+  #content .video_gauche {
+    flex-direction: column-reverse;
+  }
+
+  #content .bloc_video {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 10%;
+  }
+  #content .video_droite .bloc_text h2 {
+    text-align: center;
+  }
+
+  #content .video_gauche .bloc_text h2 {
+    text-align: center;
+  }
 }
