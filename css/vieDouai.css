@@ -122,3 +122,32 @@
   margin-top: 1vh;
   margin-bottom: 1vh;
 }
+
+@media screen and (max-width: 800px) {
+  .content-body {
+    width: 100%;
+  }
+
+  .album-page h4{
+    margin-left: 5%
+  }
+
+  .sub-album-container h3{
+    width: 80%;
+    margin-left: 10%;
+  }
+  .photos-row {
+    flex-direction: column;
+  }
+  .photos-row img {
+    width: 80%;
+    margin-left: 10%;
+  }
+  .photo-alone-big{
+    width: 80%;
+  }
+
+  .photo-alone-small img {
+    width: 80%;
+  }
+}
