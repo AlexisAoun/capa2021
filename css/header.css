@@ -67,7 +67,7 @@ body::after {
 }
 
 #header .title .lang {
-  display: flex;
+  display: none;
   width: 5%;
   font-size: clamp(12px, 1vw, 1000px);
   justify-content: space-around;
