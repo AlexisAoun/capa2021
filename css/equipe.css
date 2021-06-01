@@ -1,3 +1,9 @@
+:root {
+  --mainColor: #cc3860;
+  --secondaryColor: #4faee1;
+  --thirdColor: #efbc12;
+}
+
 #content {
   background-image: linear-gradient(var(--mainColor), var(--secondaryColor));
   width: 100%;
@@ -9,7 +15,6 @@
   height: auto;
   margin-top: 2%;
   margin-bottom: 5%;
-  text-align: center;
 }
 
 #content .imgtype1 {
@@ -23,29 +28,28 @@
   flex-direction: column;
   justify-content: center;
   text-align: center;
-  margin-bottom: 5%;
+  margin: 5%;
 }
 
 #content h1 {
-  color: #3480eb;
-  font-size: 300%;
-  font-weight: bolder;
-  text-decoration: none;
+  color: var(--secondaryColor);
+  font-size: clamp(1.5em, 3vw, 10000em);
+  font-weight: bold;
 }
 
 #content .texte-integration {
   display: flex;
+  width: 80%;
   flex-direction: column;
   justify-content: center;
   text-align: center;
-  margin: 10%;
-  padding: 1%;
+  margin-top: 5%;
+  margin-left: 10%;
 }
 
 #content p {
-  margin-left: 20%;
-  margin-right: 20%;
   color: white;
+  font-size: clamp(1em, 1.2vw, 10000em);
   text-align: center;
 }
 
@@ -57,37 +61,30 @@
 #content .video_gauche {
   display: flex;
   flex-direction: row;
-  justify-content: left;
+  justify-content: space-around;
   text-align: center;
   margin: 3%;
-  margin-left: 10%;
-  margin-right: 10%;
 }
 
 #content .video_droite {
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-around;
   text-align: center;
   margin: 3%;
-  margin-left: 10%;
-  margin-right: 10%;
 }
 
 #content .bloc_text {
-  width: 60%;
   display: flex;
   flex-direction: column;
   justify-content: center;
 }
 
 #content .video_droite .bloc_text h2 {
-  margin-left: 40%;
   text-align: left;
 }
 
 #content .video_gauche .bloc_text h2 {
-  margin-right: 40%;
   text-align: right;
 }
 
@@ -99,22 +96,36 @@
   text-align: center;
 }
 
-#content .video {
-  position: relative;
-  padding-bottom: 56.25%; /* 16:9 */
-  height: 0;
-}
-
-#content .video iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
 #content h2 {
-  color: #faed00;
-  font-size: 3vh;
+  color: var(--thirdColor);
+  font-size: clamp(2em, 3vw, 1000em);
   font-weight: max;
+  font-family: "onomatoshark";
+}
+
+@media screen and (max-width: 800px) {
+  #content .video_droite {
+    flex-direction: column;
+  }
+
+  #content .video_gauche {
+    flex-direction: column-reverse;
+  }
+
+  #content .bloc_video {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 10%;
+  }
+  #content .video_droite .bloc_text h2 {
+    text-align: center;
+  }
+
+  #content .video_gauche .bloc_text h2 {
+    text-align: center;
+  }
 }

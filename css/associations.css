@@ -190,6 +190,7 @@
 .associations-info-popup {
   background: var(--secondaryColor);
   display: none;
+  overflow-x: scroll;
   height: 100%;
   width: 100%;
   justify-content: center;
@@ -219,27 +220,29 @@
 }
 
 .associations-info-main {
-  height: 80%;
-  width: 80%;
+  height: 100%;
+  width: 100%;
   margin: auto;
   display: flex;
   flex-direction: row;
 }
 
 .associations-info-logo-container {
+  width: 30%;
   flex: 1;
   display: flex;
-  flex-direction: column;
 }
 
 .associations-info-logo {
   margin-top: auto;
   margin-bottom: auto;
-  width: 30vh;
-  height: 30vh;
+  width: 50%;
+  height: auto;
+  margin-left: 25%;
 }
 
 .associations-info-text {
+  padding: 3%;
   margin-top: auto;
   margin-bottom: auto;
   flex: 2;
@@ -259,9 +262,44 @@
 
 .associations-info-text p {
   font-family: Arial;
-  font-size: 3vh;
+  font-size: clamp(1em,2vw,1000em);
   color: white;
   text-align: justify;
   margin-top: 3vh;
   margin-bottom: 3vh;
+}
+
+@media screen and (max-width: 800px) {
+
+  .associations-blob-menu {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 3vh;
+  }
+
+  .blob-container{
+    margin-top: 5%;
+  }
+
+  .associations-info-main{
+    flex-direction: column;
+  }
+
+  .associations-info-logo-container{
+    width: 80%;
+    margin-top: 20%;
+    margin-left: 10%;
+  }
+  .associations-info-logo{
+    width: 50%;
+    height: auto;
+    margin-left: 25%;
+  }
+
+  .associations-info-text p{
+    width: 90%;
+    margin-left: 5%;
+  }
+
 }

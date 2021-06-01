@@ -1,3 +1,9 @@
+:root {
+  --mainColor: #cc3860;
+  --secondaryColor: #4faee1;
+  --thirdColor: #efbc12;
+}
+
 #content .titre_page {
   display: flex;
   flex-direction: column;
@@ -12,12 +18,12 @@
 }
 
 #content .titre {
-  margin: 5%;
+  margin-top: 5%;
 }
 
 #content h1 {
-  color: #3480eb;
-  font-size: 200%;
+  color: var(--secondaryColor);
+  font-size: clamp(1.2em, 2vw, 1000em);
 }
 
 #content h3 {
@@ -32,15 +38,21 @@
   flex-direction: column;
   justify-content: center;
   text-align: center;
+  margin-top: 5%;
+  width: 70%;
+  margin-left: 15%;
 }
 
 #content .video {
-  text-align: center;
-  width: auto;
-  height: 600px;
-  margin-bottom: -15%;
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
 }
 
 #content iframe {
-  text-align: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
