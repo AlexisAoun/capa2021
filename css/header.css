@@ -153,7 +153,7 @@ menu-page {
 .nav .dropMenu:hover > .dropSub {
   visibility: visible;
 }
-.nav .socialIcons {
+.nav social-icons {
   display: flex;
   justify-content: space-around;
   width: 7.5%;
@@ -162,7 +162,7 @@ menu-page {
   right: 5%;
 }
 
-.nav .socialIcons i {
+.nav social-icons i {
   color: var(--secondaryColor);
   font-size: clamp(1.2em, 1.5vw, 10000px);
 }
@@ -256,14 +256,14 @@ menu-page {
     margin-top: 10%;
   }
 
-  .nav .socialIcons {
+  .nav social-icons {
     position: absolute;
     width: 60%;
     bottom: 15%;
     right: 20%;
   }
 
-  .nav .socialIcons i {
+  .nav social-icons i {
     font-size: clamp(1.2em, 10vw, 10000px);
   }
 

@@ -64,16 +64,16 @@ class Footer extends HTMLElement {
           </p>
         </div>
         <div class="socialIcons">
-          <a href="#">
+          <a href="https://instagram.com/capa2021imtld?utm_medium=copy_link" target="_blank">
             <i class="fa fa-instagram" aria-hidden="true"></i>
           </a>
-          <a href="#">
+          <a href="#" target="_blank">
             <i class="fa fa-facebook" aria-hidden="true"></i>
           </a>
-          <a href="#">
+          <a href="https://www.youtube.com/channel/UCFL8feTx-XsWBdZkZzEOZeQ" target="_blank">
             <i class="fa fa-youtube-play" aria-hidden="true"></i>
           </a>
-          <a href="#">
+          <a href="#" target="_blank">
             <i class="fa fa-cloud" aria-hidden="true"></i>
           </a>
         </div>
@@ -112,16 +112,16 @@ class FooterHome extends HTMLElement {
           </p>
         </div>
         <div class="socialIcons">
-          <a href="#">
+          <a href="https://instagram.com/capa2021imtld?utm_medium=copy_link" target="_blank">
             <i class="fa fa-instagram" aria-hidden="true"></i>
           </a>
-          <a href="#">
+          <a href="#" target="_blank">
             <i class="fa fa-facebook" aria-hidden="true"></i>
           </a>
-          <a href="#">
+          <a href="https://www.youtube.com/channel/UCFL8feTx-XsWBdZkZzEOZeQ" target="_blank">
             <i class="fa fa-youtube-play" aria-hidden="true"></i>
           </a>
-          <a href="#">
+          <a href="#" target="_blank">
             <i class="fa fa-cloud" aria-hidden="true"></i>
           </a>
         </div>
@@ -131,8 +131,30 @@ class FooterHome extends HTMLElement {
     `;
   }
 }
+
+class SocialIcons extends HTMLElement {
+  constructor() {
+    super();
+    this.innerHTML = `
+          <a href="https://instagram.com/capa2021imtld?utm_medium=copy_link" target="_blank">
+            <i class="fa fa-instagram" aria-hidden="true"></i>
+          </a>
+          <a href="#" target="_blank">
+            <i class="fa fa-facebook" aria-hidden="true"></i>
+          </a>
+          <a href="https://www.youtube.com/channel/UCFL8feTx-XsWBdZkZzEOZeQ" target="_blank">
+            <i class="fa fa-youtube-play" aria-hidden="true"></i>
+          </a>
+          <a href="#" target="_blank">
+            <i class="fa fa-cloud" aria-hidden="true"></i>
+          </a>
+    `
+  }
+
+}
 customElements.define("menu-home", MenuHome);
 customElements.define("menu-page", MenuPage);
 customElements.define("pied-de-page", Footer);
 customElements.define("pied-de-page-home", FooterHome);
+customElements.define("social-icons", SocialIcons);
 
