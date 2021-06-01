@@ -44,23 +44,32 @@
 
 #content .twoButtons{
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 #content .download{
   background-color: var(--secondaryColor);
   border: 0px;
   border-radius: 5px;
   width: auto;
-  padding: 3%;
+  padding: 2.5%;
+  cursor: pointer;
 }
 
 #content .whyMEUD{
   background-color: white;
   border: 0px;
   border-radius: 5px;
-  padding: 3%;
+  padding: 2.5%;
+  cursor: pointer;
 }
 
+#content .download:hover {
+  transform: translateY(-5px);
+}
+
+#content .whyMEUD:hover {
+  transform: translateY(-5px);
+}
 #content .vid{
   display: flex;
   flex-direction: column;
@@ -125,8 +134,12 @@
   margin-top: 5%;
   padding: 1%;
   font-size: clamp(0.8em, 1vw, 1000em);
+  cursor: pointer;
 }
 
+#content .whoAreWe:hover{
+  transform: translateY(-5px);
+}
 
 @media screen and (max-width: 900px) {
    #content .intro{
@@ -160,9 +173,6 @@
   #content iframe{
     width: 90%;
     height: 100%;
-  }
-
-  #content .quiSommesNous{
   }
 
   #content .quiSommesNous-content{
