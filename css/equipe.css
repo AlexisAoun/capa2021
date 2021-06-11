@@ -97,11 +97,9 @@
 }
 
 #content .bloc_video img{
-  width: 100%;
-  height: auto;
-  align-self: flex-start;
+  flex: 1;
 }
- 
+
 #content h2 {
   color: var(--thirdColor);
   font-size: clamp(2em, 3vw, 1000em);
