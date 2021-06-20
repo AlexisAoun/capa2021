@@ -75,28 +75,99 @@
   color: var(--mainColor);
 }
 
-.associations-blob-menu {
+.blobMenu {
   display: flex;
-  flex-direction: row;
-  width: 100%;
+  flex-direction: column;
   margin: 3vh;
 }
 
-.blob-container {
-  flex: 1;
+
+.subMenuContainer{
+  height: 30vh;
+  margin:10vh;
   display: flex;
-  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+}
+
+.BlobContainer{
+  position: absolute;
+}
+
+.BlobContainer.sub{
+  height: 10vh;
+  width: 10vh;
+}
+
+.BlobContainer.main{
+  height: 20vh;
+  width: 20vh;
+}
+
+.one{
+  left: -13vh;
+  top: -5vh;
+}
+
+.two {
+    top: -15vh;
+    left: 6vh;
+}
+
+.three {
+    right: -12vh;
+    top: -6vh;
+}
+
+
+.four {
+    left: -12vh;
+    bottom: -6vh;
+}
+
+.five {
+    bottom: -15vh;
+    left: 6vh;
+}
+
+.six {
+    right: -10vh;
+    bottom: -10vh;
+}
+
+.flexEnd{
+  justify-content: flex-end;
+}
+
+.flexStart{
+  justify-content: flex-start;
 }
 
 .blob {
   background: linear-gradient(45deg, var(--secondaryColor) 0%, white 100%);
-  border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
-  height: 20vh;
+  border-radius: 50%;
+  height: 100%;
   transition: all 1s ease-in-out;
-  width: 20vh;
+  width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
+}
+
+.blob.morph1{
+  animation: morph1 10s ease-in-out infinite;
+}
+
+.blob.morph2{
+  animation: morph2 10s ease-in-out infinite;
+}
+
+.blob.morph3{
+  animation: morph3 10s ease-in-out infinite;
+}
+
+.blob.morph4{
+  animation: morph4 10s ease-in-out infinite;
 }
 
 .blob:hover {
@@ -113,22 +184,6 @@
   color: white;
   text-align: center;
   font-weight: 900;
-}
-
-#BDE-shortcut {
-  animation: morph1 10s ease-in-out infinite;
-}
-
-#BDA-shortcut {
-  animation: morph2 10s ease-in-out infinite;
-}
-
-#BDS-shortcut {
-  animation: morph3 10s ease-in-out infinite;
-}
-
-#BDH-shortcut {
-  animation: morph4 10s ease-in-out infinite;
 }
 
 @keyframes morph1 {
