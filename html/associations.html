@@ -68,6 +68,35 @@
       </div>
       <div class="content-body">
         <div class="blobMenu">
+          <div id="app">
+    <graph-bubblecloud
+            :width="500"
+            :height="500"
+            :padding-top="5"
+            :padding-bottom="0"
+            :padding-left="0"
+            :padding-right="0"
+            :values="values"
+            :colors="colors"
+            :styles="styles"
+            :render-interval="0"
+            @click="onClickEvent">
+    </graph-bubblecloud>
+</div>
+<div id="app">
+<graph-bubblecloud
+  :width="500"
+  :height="500"
+  :padding-top="5"
+  :padding-bottom="0"
+  :padding-left="0"
+  :padding-right="0"
+  :values="values"
+  :colors="colors"
+  :render-interval="0"
+  @click="onClickEvent">
+</graph-bubblecloud>
+</div>
           <!-- BDE club submenu !-->
           <div class="subMenuContainer flexEnd">
             <div class="BlobContainer main">
@@ -392,5 +421,8 @@
     <script type="text/javascript" src="../src/clubData.json"></script>
     <script type="text/javascript" src="../src/associationData.json"></script>
     <script type="text/javascript" src="../js/associations/clublist.js"></script>
+    <script src="../js/associations/lib/vue.js"></script>
+    <script src="../js/associations/lib/vue-graph.js"></script>
+    <script src="../js/associations/bubblecloud.js"></script>
   </body>
 </html>
