@@ -12672,8 +12672,6 @@ var JUIBuilder = {
                 // SVG 기본 테마 설정
                 this.svg.root.css({
                     "font-family": this.theme("fontFamily") + "," + _options.icon.type,
-                    background: this.theme("backgroundColor"),
-                    opacity: 1
                 });
 
                 // SVG 메인/서브 렌더링
