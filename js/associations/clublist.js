@@ -6,7 +6,7 @@ dataObjectclub.forEach(buildNewClub);
 function buildNewClub(item, index) {
   var listItem = $('<li>' + listClubString + '</li>');
   var listItemName = $('.nameContainer', listItem);
-  listItemName.html('<a id="' + item.clubName + '"><h1>' + item.clubName + '</h1></a>');
+  listItemName.html('<a id="' + item.clubName + '"><h1>' + item.clubName + '</h1></a> <a href="#' + item.parrent + 'cloud"><h1>(up)</h1></a>');
   var listItemImage = $('.imageContainer', listItem);
   listItemImage.html('<img class="club_image" src="' + item.clubImage  + '">');
   var listItemdescription = $('.descriptionContainer', listItem);
@@ -23,7 +23,7 @@ dataObjectasso.forEach(buildNewAsso);
 function buildNewAsso(item, index) {
   var listItem = $(listAssoString);
   var listItemName = $('.nameContainer', listItem);
-  listItemName.html('<a id="' + item.BDX + '"><h1>' + item.assoName + '</h1></a>');
+  listItemName.html('<a id="' + item.BDX + '"><h1>' + item.assoName + '</h1></a> <a href="#' + item.BDX + 'cloud"><h1>(up)</h1></a>');
   var listItemImage = $('.imageContainer', listItem);
   listItemImage.html('<img class="image" src="' + item.assoImage  + '">');
   var listItemdescription = $('.descriptionContainer', listItem);
