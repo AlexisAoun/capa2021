@@ -1,12 +1,23 @@
+var dataObjectclub = clubData;
+var dataObjectasso = associationData;
+
 var vm = new Vue({
     el: "#app",
     data: {
         values: [
-            [ "app1.jsp", 10, 1000 ],
-            [ "app2.jsp", 20, 2000 ],
-            [ "app3.jsp", 15, 3000 ],
-            [ "app4.jsp", 5, 4000 ],
-            [ "app5.jsp", 50, 5000 ]
+            [ "BDE", 30, 1000 ],
+            [ "IMT'ernational", 15, 2000 ],
+            [ "Cotrad", 15, 3000 ],
+            [ "ZeGreenPeas", 15, 4000 ],
+            [ "Egal’IMT", 15, 5000 ],
+            [ "ARTEMIS", 15, 5000 ],
+            [ "Le Caméléon déchaîné", 15, 5000 ],
+            [ "Douai Moustache Club", 15, 5000 ],
+            [ "Bar", 15, 5000 ],
+            [ "IMTalks", 15, 5000 ],
+            [ "Club robotique", 15, 5000 ],
+            [ "Gala", 15, 5000 ],
+            [ "Club des brasseurs", 15, 5000 ],
         ],
         colors: function(data) {
             if(data[2] > 4000) {
@@ -19,13 +30,13 @@ var vm = new Vue({
         styles: {
           titleFontSize: 15,
           titleFontWeight: 'bold',
-          backgroundColor : "#cc3860",
-          backgroundOpacity : 1,
         }
     },
     methods: {
         onClickEvent: function(obj, e) {
             console.log(obj.data);
+            var top = document.getElementById(obj.data[0]).offsetTop;
+            window.scrollTo(0, top);
         }
     }
 });

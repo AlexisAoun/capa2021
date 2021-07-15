@@ -67,37 +67,23 @@
         </p>
       </div>
       <div class="content-body">
-        <div class="blobMenu">
-          <div id="app">
-    <graph-bubblecloud
-            :width="500"
-            :height="500"
+        <div id="app">
+          <graph-bubblecloud
+            :width="1000"
+            :height="1000"
             :padding-top="5"
             :padding-bottom="0"
             :padding-left="0"
             :padding-right="0"
             :values="values"
             :colors="colors"
-            :styles="styles"
             :render-interval="0"
             @click="onClickEvent">
-    </graph-bubblecloud>
-</div>
-<div id="app">
-<graph-bubblecloud
-  :width="500"
-  :height="500"
-  :padding-top="5"
-  :padding-bottom="0"
-  :padding-left="0"
-  :padding-right="0"
-  :values="values"
-  :colors="colors"
-  :render-interval="0"
-  @click="onClickEvent">
-</graph-bubblecloud>
-</div>
-          <!-- BDE club submenu !-->
+          </graph-bubblecloud>
+        </div>
+        <!-- Old blobMenu !-->
+        <!--<div class="blobMenu">
+
           <div class="subMenuContainer flexEnd">
             <div class="BlobContainer main">
               <a class="blob morph1" id="BDE-shortcut">
@@ -134,72 +120,128 @@
                 </a>
               </div>
             </div>
-            <div class="nav" id="navMenu">
-                <menu-page></menu-page>
-                <social-icons></social-icons>
-            </div>
-        </div>
-        <div class="navBackTop"></div>
+          </div>
 
-        <div id="content">
-            <div class="content-header">
-                <h2 class="content-title">
-                    L'associatif est omniprésent à IMT Lille Douai, il y en a
-                    pour tous les goûts !
-                </h2>
-                <p class="content-text">
-                    Il y a une
-                    <b>multitude d'associations, de comités et de clubs</b> au
-                    sein de l'école. Qui que tu sois, tu trouveras ton bonheur :
-                    <b
-                        >art, sport, humanitaire, sociétal, tu as l'embarras du
-                        choix.
-                        <br />
-                        Tu n'auras pas le temps de t'ennuyer !</b
-                    >
-                </p>
-                <p class="content-text">
-                    Tu trouveras ici le document qui t'explique
-                    <b>pourquoi cotiser aux différents bureaux :</b>
-                </p>
-                <a
-                    id="blue-button"
-                    href="../src/Plaquette-pourquoi-cotiser.pdf"
-                    target="_blank"
-                >
-                    Pourquoi cotiser ?
+          <div class="subMenuContainer flexStart">
+            <div class="BlobContainer main">
+              <a class="blob morph2" id="BDA-shortcut">
+                <p>BDA</p>
+              </a>
+              <div class="BlobContainer sub one">
+                <a class="blob morph3" id="">
+                  <p>1</p>
+                </a>
+              </div>
+              <div class="BlobContainer sub two">
+                <a class="blob morph1" id="">
+                  <p>2</p>
+                </a>
+              </div>
+              <div class="BlobContainer sub three">
+                <a class="blob morph3" id="">
+                  <p>3</p>
+                </a>
+              </div>
+              <div class="BlobContainer sub four">
+                <a class="blob morph4" id="">
+                  <p>4</p>
+                </a>
+              </div>
+              <div class="BlobContainer sub five">
+                <a class="blob morph1" id="">
+                  <p>5</p>
+                </a>
+              </div>
+              <div class="BlobContainer sub six">
+                <a class="blob morph4" id="">
+                  <p>6</p>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div class="subMenuContainer flexEnd">
+            <div class="BlobContainer main">
+              <a class="blob morph3" id="BDS-shortcut">
+                <p>BDS</p>
+              </a>
+              <div class="BlobContainer sub one">
+                <a class="blob morph4" id="">
+                  <p>1</p>
+                </a>
+              </div>
+              <div class="BlobContainer sub two">
+                <a class="blob morph3" id="">
+                  <p>2</p>
+                </a>
+              </div>
+              <div class="BlobContainer sub three">
+                <a class="blob morph2" id="">
+                  <p>3</p>
+                </a>
+              </div>
+              <div class="BlobContainer sub four">
+                <a class="blob morph4" id="">
+                  <p>4</p>
+                </a>
+              </div>
+              <div class="BlobContainer sub five">
+                <a class="blob morph1" id="">
+                  <p>5</p>
+                </a>
+              </div>
+              <div class="BlobContainer sub six">
+                <a class="blob morph4" id="">
+                  <p>6</p>
                 </a>
                 <p class="content-text">
                     <b>Voici la présentation des associations de l'école :</b>
                 </p>
                 <h2 class="comming_soon">Bientôt disponible !</h2>
             </div>
-            <div class="content-body">
-                <div class="associations-blob-menu">
-                    <div class="blob-container">
-                        <a class="blob trigger_popup_fricc" id="BDE-shortcut">
-                            <p>BDE</p>
-                        </a>
-                    </div>
-                    <div class="blob-container">
-                        <a class="blob" id="BDA-shortcut">
-                            <p>BDA</p>
-                        </a>
-                    </div>
-                    <div class="blob-container">
-                        <a class="blob" id="BDS-shortcut">
-                            <p>BDS</p>
-                        </a>
-                    </div>
-                    <div class="blob-container">
-                        <a class="blob" id="BDH-shortcut">
-                            <p>BDH</p>
-                        </a>
-                    </div>
-                </div>
+          </div>
+
+          <div class="subMenuContainer flexStart">
+            <div class="BlobContainer main">
+              <a class="blob morph4" id="BDH-shortcut">
+                <p>BDH</p>
+              </a>
+              <div class="BlobContainer sub one">
+                <a class="blob morph4" id="">
+                  <p>1</p>
+                </a>
+              </div>
+              <div class="BlobContainer sub two">
+                <a class="blob morph1" id="">
+                  <p>2</p>
+                </a>
+              </div>
+              <div class="BlobContainer sub three">
+                <a class="blob morph2" id="">
+                  <p>3</p>
+                </a>
+              </div>
+              <div class="BlobContainer sub four">
+                <a class="blob morph4" id="">
+                  <p>4</p>
+                </a>
+              </div>
+              <div class="BlobContainer sub five">
+                <a class="blob morph1" id="">
+                  <p>5</p>
+                </a>
+              </div>
+              <div class="BlobContainer sub six">
+                <a class="blob morph4" id="">
+                  <p>6</p>
+                </a>
+              </div>
             </div>
+          </div>
+
         </div>
-      </div>
+      </div>!-->
+      <!-- Old blobMenu !-->
       <!-- BDE Asso and club info START !-->
       <div id="assoBDE" class="listAsso"></div>
       <ul id="listClubBDE" class="listClub"></ul>
