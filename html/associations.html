@@ -67,37 +67,23 @@
         </p>
       </div>
       <div class="content-body">
-        <div class="blobMenu">
-          <div id="app">
-    <graph-bubblecloud
-            :width="500"
-            :height="500"
+        <div id="app">
+          <graph-bubblecloud
+            :width="1000"
+            :height="1000"
             :padding-top="5"
             :padding-bottom="0"
             :padding-left="0"
             :padding-right="0"
             :values="values"
             :colors="colors"
-            :styles="styles"
             :render-interval="0"
             @click="onClickEvent">
-    </graph-bubblecloud>
-</div>
-<div id="app">
-<graph-bubblecloud
-  :width="500"
-  :height="500"
-  :padding-top="5"
-  :padding-bottom="0"
-  :padding-left="0"
-  :padding-right="0"
-  :values="values"
-  :colors="colors"
-  :render-interval="0"
-  @click="onClickEvent">
-</graph-bubblecloud>
-</div>
-          <!-- BDE club submenu !-->
+          </graph-bubblecloud>
+        </div>
+        <!-- Old blobMenu !-->
+        <!--<div class="blobMenu">
+
           <div class="subMenuContainer flexEnd">
             <div class="BlobContainer main">
               <a class="blob morph1" id="BDE-shortcut">
@@ -135,7 +121,7 @@
               </div>
             </div>
           </div>
-          <!-- BDA club submenu !-->
+
           <div class="subMenuContainer flexStart">
             <div class="BlobContainer main">
               <a class="blob morph2" id="BDA-shortcut">
@@ -173,7 +159,7 @@
               </div>
             </div>
           </div>
-          <!-- BDS club submenu !-->
+
           <div class="subMenuContainer flexEnd">
             <div class="BlobContainer main">
               <a class="blob morph3" id="BDS-shortcut">
@@ -211,7 +197,7 @@
               </div>
             </div>
           </div>
-          <!-- BDH club submenu START !-->
+
           <div class="subMenuContainer flexStart">
             <div class="BlobContainer main">
               <a class="blob morph4" id="BDH-shortcut">
@@ -249,9 +235,10 @@
               </div>
             </div>
           </div>
-          <!-- BDH club submenu ENDING !-->
+
         </div>
-      </div>
+      </div>!-->
+      <!-- Old blobMenu !-->
       <!-- BDE Asso and club info START !-->
       <div id="assoBDE" class="listAsso"></div>
       <ul id="listClubBDE" class="listClub"></ul>
