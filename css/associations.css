@@ -133,6 +133,13 @@ div.templates {
   font-weight: 900;
 }
 
+.shortcutMenu{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 #blue-button {
   display: block;
   padding: 2vh;
