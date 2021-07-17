@@ -50,17 +50,18 @@
   background-color: var(--secondaryColor);
   border: 0px;
   border-radius: 5px;
-  width: auto;
-  padding: 2.5%;
+  padding: 2%;
   cursor: pointer;
+  width: 45%;
 }
 
 #content .whyMEUD{
   background-color: white;
   border: 0px;
   border-radius: 5px;
-  padding: 2.5%;
+  padding: 2%;
   cursor: pointer;
+  width: 45%;
 }
 
 #content .download:hover {
@@ -69,6 +70,18 @@
 
 #content .whyMEUD:hover {
   transform: translateY(-5px);
+}
+
+#content .bigLogo {
+  margin-top: 5%;
+  width: 60%;
+}
+#content .bigLogo img{
+  width: 100%;
+  justify-self: flex-start;
+  height: auto;
+  margin-left: 15%;
+
 }
 #content .vid{
   display: flex;
@@ -168,12 +181,22 @@
     flex-direction: column;
   }
   #content .whyMEUD{
+    width: 100%;
     margin-top: 10%;
+  }
+
+  #content .download{
+    width: 100%;
+  }
+  #content .bigLogo{
+    width: 100%;
   }
 
   #content .bigLogo img{
     width: 100%;
+    align-self: flex-start;
     height: auto;
+    margin: 0;
   }
 
   #content .vid{

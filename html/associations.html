@@ -1,352 +1,255 @@
 <
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Capa 2021</title>
-    <link rel="icon" type="image/png" href="../img/logo.png" />
-    <link rel="stylesheet" href="../css/header.css" />
-    <link rel="stylesheet" href="../css/footer.css" />
-    <link rel="stylesheet" href="../css/associations.css" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap"
-      rel="stylesheet"
-    />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
-    />
-  </head>
-  <body>
-    <div id="header">
-      <div class="title">
-        <input id="nav-toggle" type="checkbox" />
-        <h1 id="logoText">CAPA 2021</h1>
-        <div class="lang">
-          <a href="#">FR</a>
-          <p>|</p>
-          <a href="#">EN</a>
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Capa 2021</title>
+        <link rel="icon" type="image/png" href="../img/logo.png" />
+        <link rel="stylesheet" href="../css/header.css" />
+        <link rel="stylesheet" href="../css/footer.css" />
+        <link rel="stylesheet" href="../css/associations.css" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap"
+            rel="stylesheet"
+        />
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+        />
+    </head>
+    <body>
+        <div id="header">
+            <div class="title">
+                <input id="nav-toggle" type="checkbox" />
+                <h1 id="logoText">CAPA 2021</h1>
+                <div class="lang">
+                    <a href="#">FR</a>
+                    <p>|</p>
+                    <a href="#">EN</a>
+                </div>
+                <label for="nav-toggle" class="icon-burger" id="icon-burger">
+                    <div class="line"></div>
+                    <div class="line"></div>
+                    <div class="line"></div>
+                </label>
+            </div>
+            <div class="nav" id="navMenu">
+                <menu-page></menu-page>
+                <social-icons></social-icons>
+            </div>
         </div>
-        <label for="nav-toggle" class="icon-burger" id="icon-burger">
-          <div class="line"></div>
-          <div class="line"></div>
-          <div class="line"></div>
-        </label>
-      </div>
-      <div class="nav" id="navMenu">
-        <menu-page></menu-page>
-        <social-icons></social-icons>
-      </div>
-    </div>
-    <div class="navBackTop"></div>
+        <div class="navBackTop"></div>
 
-    <div id="content">
-      <div class="content-header">
-        <h2 class="content-title">
-          L'associatif est omniprésent à IMT Lille Douai, il y en a pour tous
-          les goûts !
-        </h2>
-        <p class="content-text">
-          Il y a une <b>multitude d'associations, de comités et de clubs</b> au
-          sein de l'école. Qui que tu sois, tu trouveras ton bonheur :
-          <b
-            >art, sport, humanitaire, sociétal, tu as l'embarras du choix.
-            <br />
-            Tu n'auras pas le temps de t'ennuyer !</b
-          >
-        </p>
-        <p class="content-text">
-          Tu trouveras ici le document qui t'explique
-          <b>pourquoi cotiser aux différents bureaux :</b>
-        </p>
-        <a id="blue-button" href="#"> Pourquoi cotiser ? </a>
-        <p class="content-text">
-          <b>Voici la présentation des associations de l'école :</b>
-        </p>
-      </div>
-      <div class="content-body">
-        <div class="blobMenu">
-          <!-- BDE club submenu !-->
-          <div class="subMenuContainer flexEnd">
-            <div class="BlobContainer main">
-              <a class="blob morph1" id="BDE-shortcut">
-                <p>BDE</p>
-              </a>
-              <div class="BlobContainer sub one">
-                <a class="blob morph4" id="">
-                  <p>1</p>
+        <div id="content">
+            <div class="content-header">
+                <h2 class="content-title">
+                    L'associatif est omniprésent à IMT Lille Douai, il y en a
+                    pour tous les goûts !
+                </h2>
+                <p class="content-text">
+                    Il y a une
+                    <b>multitude d'associations, de comités et de clubs</b> au
+                    sein de l'école. Qui que tu sois, tu trouveras ton bonheur :
+                    <b
+                        >art, sport, humanitaire, sociétal, tu as l'embarras du
+                        choix.
+                        <br />
+                        Tu n'auras pas le temps de t'ennuyer !</b
+                    >
+                </p>
+                <p class="content-text">
+                    Tu trouveras ici le document qui t'explique
+                    <b>pourquoi cotiser aux différents bureaux :</b>
+                </p>
+                <a
+                    id="blue-button"
+                    href="../src/Plaquette-pourquoi-cotiser.pdf"
+                    target="_blank"
+                >
+                    Pourquoi cotiser ?
                 </a>
-              </div>
-              <div class="BlobContainer sub two">
-                <a class="blob morph1" id="">
-                  <p>2</p>
-                </a>
-              </div>
-              <div class="BlobContainer sub three">
-                <a class="blob morph2" id="">
-                  <p>3</p>
-                </a>
-              </div>
-              <div class="BlobContainer sub four">
-                <a class="blob morph4" id="">
-                  <p>4</p>
-                </a>
-              </div>
-              <div class="BlobContainer sub five">
-                <a class="blob morph1" id="">
-                  <p>5</p>
-                </a>
-              </div>
-              <div class="BlobContainer sub six">
-                <a class="blob morph4" id="">
-                  <p>6</p>
-                </a>
-              </div>
+                <p class="content-text">
+                    <b>Voici la présentation des associations de l'école :</b>
+                </p>
+                <h2 class="comming_soon">Bientôt disponible !</h2>
             </div>
-          </div>
-          <!-- BDA club submenu !-->
-          <div class="subMenuContainer flexStart">
-            <div class="BlobContainer main">
-              <a class="blob morph2" id="BDA-shortcut">
-                <p>BDA</p>
-              </a>
-              <div class="BlobContainer sub one">
-                <a class="blob morph3" id="">
-                  <p>1</p>
-                </a>
-              </div>
-              <div class="BlobContainer sub two">
-                <a class="blob morph1" id="">
-                  <p>2</p>
-                </a>
-              </div>
-              <div class="BlobContainer sub three">
-                <a class="blob morph3" id="">
-                  <p>3</p>
-                </a>
-              </div>
-              <div class="BlobContainer sub four">
-                <a class="blob morph4" id="">
-                  <p>4</p>
-                </a>
-              </div>
-              <div class="BlobContainer sub five">
-                <a class="blob morph1" id="">
-                  <p>5</p>
-                </a>
-              </div>
-              <div class="BlobContainer sub six">
-                <a class="blob morph4" id="">
-                  <p>6</p>
-                </a>
-              </div>
+            <div class="content-body">
+                <div class="associations-blob-menu">
+                    <div class="blob-container">
+                        <a class="blob trigger_popup_fricc" id="BDE-shortcut">
+                            <p>BDE</p>
+                        </a>
+                    </div>
+                    <div class="blob-container">
+                        <a class="blob" id="BDA-shortcut">
+                            <p>BDA</p>
+                        </a>
+                    </div>
+                    <div class="blob-container">
+                        <a class="blob" id="BDS-shortcut">
+                            <p>BDS</p>
+                        </a>
+                    </div>
+                    <div class="blob-container">
+                        <a class="blob" id="BDH-shortcut">
+                            <p>BDH</p>
+                        </a>
+                    </div>
+                </div>
             </div>
-          </div>
-          <!-- BDS club submenu !-->
-          <div class="subMenuContainer flexEnd">
-            <div class="BlobContainer main">
-              <a class="blob morph3" id="BDS-shortcut">
-                <p>BDS</p>
-              </a>
-              <div class="BlobContainer sub one">
-                <a class="blob morph4" id="">
-                  <p>1</p>
-                </a>
-              </div>
-              <div class="BlobContainer sub two">
-                <a class="blob morph3" id="">
-                  <p>2</p>
-                </a>
-              </div>
-              <div class="BlobContainer sub three">
-                <a class="blob morph2" id="">
-                  <p>3</p>
-                </a>
-              </div>
-              <div class="BlobContainer sub four">
-                <a class="blob morph4" id="">
-                  <p>4</p>
-                </a>
-              </div>
-              <div class="BlobContainer sub five">
-                <a class="blob morph1" id="">
-                  <p>5</p>
-                </a>
-              </div>
-              <div class="BlobContainer sub six">
-                <a class="blob morph4" id="">
-                  <p>6</p>
-                </a>
-              </div>
-            </div>
-          </div>
-          <!-- BDH club submenu START !-->
-          <div class="subMenuContainer flexStart">
-            <div class="BlobContainer main">
-              <a class="blob morph4" id="BDH-shortcut">
-                <p>BDH</p>
-              </a>
-              <div class="BlobContainer sub one">
-                <a class="blob morph4" id="">
-                  <p>1</p>
-                </a>
-              </div>
-              <div class="BlobContainer sub two">
-                <a class="blob morph1" id="">
-                  <p>2</p>
-                </a>
-              </div>
-              <div class="BlobContainer sub three">
-                <a class="blob morph2" id="">
-                  <p>3</p>
-                </a>
-              </div>
-              <div class="BlobContainer sub four">
-                <a class="blob morph4" id="">
-                  <p>4</p>
-                </a>
-              </div>
-              <div class="BlobContainer sub five">
-                <a class="blob morph1" id="">
-                  <p>5</p>
-                </a>
-              </div>
-              <div class="BlobContainer sub six">
-                <a class="blob morph4" id="">
-                  <p>6</p>
-                </a>
-              </div>
-            </div>
-          </div>
-          <!-- BDH club submenu ENDING !-->
         </div>
-      </div>
-    </div>
 
-    <!-- Popup !-->
-    <div class="associations-info-popup" id="BDE">
-      <a class="popup-close-button" id="BDE-close" href="#">&times;</a>
-      <div class="associations-info-main">
-        <div class="associations-info-logo-container">
-          <img class="associations-info-logo" src="../img/logoAsso/bde.png" />
+        <!-- Popup !-->
+        <div class="associations-info-popup" id="BDE">
+            <a class="popup-close-button" id="BDE-close" href="#">&times;</a>
+            <div class="associations-info-main">
+                <div class="associations-info-logo-container">
+                    <img
+                        class="associations-info-logo"
+                        src="../img/logoAsso/bde.png"
+                    />
+                </div>
+                <div class="associations-info-text">
+                    <h2>BDE</h2>
+                    <p class="content-text">
+                        Yo les fillots ! <br />
+                        Bienvenue dans cette belle région qu’est le Nord et
+                        bravo à toi pour avoir intégré notre très chère École !
+                        Alors le BDE c’est quoi ? Le Bureau Des Élèves (ou BDE
+                        en 3 lettres) est surement une association dont tu as
+                        déjà entendu parler et que l’on retrouve dans toutes les
+                        écoles. C’est ainsi que les Men IMT Black et ses
+                        meilleurs agents se chargeront de te faire passer une
+                        année que tu n’es pas près d’oublier ! Tu te sentiras
+                        tellement bien à la Maison Des Élèves (aka la MEUD) que
+                        tu finiras par te promener pieds nus, en sous-vêtement
+                        dans les couloirs. Tu pourras également découvrir une
+                        vie associative des plus riche ! Enfin ton BDE
+                        intergalactique t’organisera des soirées incroyables à
+                        Douai et à Lille, dont on espère, tu n’oublieras rien.
+                        Une association, un club, un comité te fait envie ?
+                        Celui-ci t’accueillera avec grand plaisir ! Et si tu
+                        n’es pas satisfait et que tu trouves qu’il serait
+                        intéressant de créer un nouveau comité ou club. Alors
+                        ton BDE sera derrière toi pour réaliser ce projet !
+                        Enfin, un point qui n’est pas des moindres, surtout
+                        après le début de la pandémie, si tu as un problème
+                        quelle que soit sa nature ou son envergure, le BDE sera
+                        là pour t’aider et répondre à tes questions ! Nous
+                        sommes ici pour te défendre toi et ce à ce que tu tiens
+                        auprès de l’administration. <br />
+                        Kiss in Black
+                    </p>
+                </div>
+            </div>
         </div>
-        <div class="associations-info-text">
-          <h2>BDE</h2>
-          <p class="content-text">
-            Yo les fillots ! <br> Bienvenue dans cette belle région qu’est le Nord et
-            bravo à toi pour avoir intégré notre très chère École ! Alors le BDE
-            c’est quoi ? Le Bureau Des Élèves (ou BDE en 3 lettres) est surement
-            une association dont tu as déjà entendu parler et que l’on retrouve
-            dans toutes les écoles. C’est ainsi que les Men IMT Black et ses
-            meilleurs agents se chargeront de te faire passer une année que tu
-            n’es pas près d’oublier ! Tu te sentiras tellement bien à la Maison
-            Des Élèves (aka la MEUD) que tu finiras par te promener pieds nus,
-            en sous-vêtement dans les couloirs. Tu pourras également découvrir
-            une vie associative des plus riche ! Enfin ton BDE intergalactique
-            t’organisera des soirées incroyables à Douai et à Lille, dont on
-            espère, tu n’oublieras rien. Une association, un club, un comité te
-            fait envie ? Celui-ci t’accueillera avec grand plaisir ! Et si tu
-            n’es pas satisfait et que tu trouves qu’il serait intéressant de
-            créer un nouveau comité ou club. Alors ton BDE sera derrière toi
-            pour réaliser ce projet ! Enfin, un point qui n’est pas des
-            moindres, surtout après le début de la pandémie, si tu as un
-            problème quelle que soit sa nature ou son envergure, le BDE sera là
-            pour t’aider et répondre à tes questions ! Nous sommes ici pour te
-            défendre toi et ce à ce que tu tiens auprès de l’administration. <br>
-            Kiss in Black
-          </p>
+        <div class="associations-info-popup" id="BDA">
+            <a class="popup-close-button" id="BDA-close" href="#">&times;</a>
+            <div class="associations-info-main">
+                <div class="associations-info-logo-container">
+                    <img
+                        class="associations-info-logo"
+                        src="../img/logoAsso/bda.png"
+                    />
+                </div>
+                <div class="associations-info-text">
+                    <h2>BDA</h2>
+                    <p class="content-text">
+                        Le bureau des Arts s'occupe de faire vivre la vie
+                        culturelle de l'école. Responsable de révéler les
+                        talents les plus croustillants de la MEUD, il organise
+                        aussi la semaine des arts, des voyages, des sorties, des
+                        évènements musicaux... Prépare toi, cette belle bande
+                        chocolatée t'en fera voir de toutes les couleurs !
+                    </p>
+                </div>
+            </div>
         </div>
-      </div>
-    </div>
-    <div class="associations-info-popup" id="BDA">
-      <a class="popup-close-button" id="BDA-close" href="#">&times;</a>
-      <div class="associations-info-main">
-        <div class="associations-info-logo-container">
-          <img class="associations-info-logo" src="../img/logoAsso/bda.png" />
+        <div class="associations-info-popup" id="BDS">
+            <a class="popup-close-button" id="BDS-close" href="#">&times;</a>
+            <div class="associations-info-main">
+                <div class="associations-info-logo-container">
+                    <img
+                        class="associations-info-logo"
+                        src="../img/logoAsso/bds.png"
+                    />
+                </div>
+                <div class="associations-info-text">
+                    <h2>BDS</h2>
+                    <p class="content-text">
+                        Salut Champion.ne,<br />
+                        Bravo pour ton intégration dans cette école mythique :
+                        IMT Lille Douai. Dans cette école tu vas enfin, après
+                        deux ou trois ans de travail acharné, découvrir une
+                        vraie vie étudiante, grâce aux nombreuses soirées,
+                        événements et sorties organisés par les différents
+                        bureaux/assos/comités. En plus, tu vas pouvoir reprendre
+                        le sport, car ici il est obligatoire. Mais ne t’inquiète
+                        pas, sportif.ve ou non, ton BDS préféré sera là pour
+                        toi. Notre rôle à l’école est d’encadrer le sport,
+                        c’est-à-dire que si tu as cotisé, nous te fournissons ta
+                        licence pour participer aux compétitions et porter haut
+                        les couleurs de notre école. Nous gérons aussi toute la
+                        logistique pour les rencontres sportives inter-écoles et
+                        les championnats qui seront nombreux. Avec l’aide des
+                        capitaines, nous nous occupons du matériel sportif, donc
+                        s’il y a un soucis avec, préviens-le et on s’en occupe !
+                        Outre le sport, nous sommes aussi là pour que tu
+                        profites de la vie associative Douaisienne. Nous allons
+                        organiser des sorties tout au long de l’année et tu peux
+                        en profiter à prix réduit, si tu es cotisant. Nous
+                        proposerons des activités telles que du paintball,
+                        karting, sorties pour aller voir des matchs à Lille ou
+                        Lens et des diffusions de match (foot, rugby, basket,
+                        handball, formule 1 etc.) au bar de Lavoisier. Nous
+                        avons aussi une salle de musculation à Lavoisier, avec
+                        du nouveau matériel, qui te permettra de reprendre le
+                        sport tranquillement à côté de chez toi. Profite bien de
+                        ta liberté cet été et on t’attend avec impatience à
+                        Douai pour kiffer ton intégration ! <br />
+                        Alas’kiss
+                    </p>
+                </div>
+            </div>
         </div>
-        <div class="associations-info-text">
-          <h2>BDA</h2>
-          <p class="content-text">
-            Le bureau des Arts s'occupe de faire vivre la vie culturelle de
-            l'école. Responsable de révéler les talents les plus croustillants
-            de la MEUD, il organise aussi la semaine des arts, des voyages, des
-            sorties, des évènements musicaux... Prépare toi, cette belle bande
-            chocolatée t'en fera voir de toutes les couleurs !
-          </p>
+        <div class="associations-info-popup" id="BDH">
+            <a class="popup-close-button" id="BDH-close" href="#">&times;</a>
+            <div class="associations-info-main">
+                <div class="associations-info-logo-container">
+                    <img
+                        class="associations-info-logo"
+                        src="../img/logoAsso/bdh.png"
+                    />
+                </div>
+                <div class="associations-info-text">
+                    <h2>BDH</h2>
+                    <p class="content-text">
+                        Holà fillot ! Holà fillote ! <br />Ici pour embraser la
+                        Maison des Elèves, le BDH, ou plutôt Bureau de
+                        l'Humanitaire, est le Bureau qui te fera soutenir des
+                        causes caritatives dans ta vie associative de l’école.
+                        Sidaction, Clowns de l’espoir, Resto du cœur, Bouchons
+                        d’amour, Lutte contre le cancer du sein ou encore
+                        Amnesty International, toutes les raisons sont bonnes
+                        pour récolter des fonds pour ces associations ! Tu
+                        préfères le concret ? Nous te proposerons des missions
+                        de bénévolats pendant ton temps libre à l’IMT. Et qui
+                        sait, pourquoi pas lister et faire partie de ce brulant
+                        bureau? L’Embraz’mant ne fait que commencer Embraz’kiss
+                        ,
+                        <br />
+                        BDH
+                    </p>
+                </div>
+            </div>
         </div>
-      </div>
-    </div>
-    <div class="associations-info-popup" id="BDS">
-      <a class="popup-close-button" id="BDS-close" href="#">&times;</a>
-      <div class="associations-info-main">
-        <div class="associations-info-logo-container">
-          <img class="associations-info-logo" src="../img/logoAsso/bds.png" />
-        </div>
-        <div class="associations-info-text">
-          <h2>BDS</h2>
-          <p class="content-text">
-            Salut Champion.ne,<br />
-            Bravo pour ton intégration dans cette école mythique : IMT Lille
-            Douai. Dans cette école tu vas enfin, après deux ou trois ans de
-            travail acharné, découvrir une vraie vie étudiante, grâce aux
-            nombreuses soirées, événements et sorties organisés par les
-            différents bureaux/assos/comités. En plus, tu vas pouvoir reprendre
-            le sport, car ici il est obligatoire. Mais ne t’inquiète pas,
-            sportif.ve ou non, ton BDS préféré sera là pour toi. Notre rôle à
-            l’école est d’encadrer le sport, c’est-à-dire que si tu as cotisé,
-            nous te fournissons ta licence pour participer aux compétitions et
-            porter haut les couleurs de notre école. Nous gérons aussi toute la
-            logistique pour les rencontres sportives inter-écoles et les
-            championnats qui seront nombreux. Avec l’aide des capitaines, nous
-            nous occupons du matériel sportif, donc s’il y a un soucis avec,
-            préviens-le et on s’en occupe ! Outre le sport, nous sommes aussi là
-            pour que tu profites de la vie associative Douaisienne. Nous allons
-            organiser des sorties tout au long de l’année et tu peux en profiter
-            à prix réduit, si tu es cotisant. Nous proposerons des activités
-            telles que du paintball, karting, sorties pour aller voir des matchs
-            à Lille ou Lens et des diffusions de match (foot, rugby, basket,
-            handball, formule 1 etc.) au bar de Lavoisier. Nous avons aussi une
-            salle de musculation à Lavoisier, avec du nouveau matériel, qui te
-            permettra de reprendre le sport tranquillement à côté de chez toi.
-            Profite bien de ta liberté cet été et on t’attend avec impatience à
-            Douai pour kiffer ton intégration ! <br />
-            Alas’kiss
-          </p>
-        </div>
-      </div>
-    </div>
-    <div class="associations-info-popup" id="BDH">
-      <a class="popup-close-button" id="BDH-close" href="#">&times;</a>
-      <div class="associations-info-main">
-        <div class="associations-info-logo-container">
-          <img class="associations-info-logo" src="../img/logoAsso/bdh.png" />
-        </div>
-        <div class="associations-info-text">
-          <h2>BDH</h2>
-          <p class="content-text">
-            Holà fillot ! Holà fillote ! <br />Ici pour embraser la Maison des
-            Elèves, le BDH, ou plutôt Bureau de l'Humanitaire, est le Bureau qui
-            te fera soutenir des causes caritatives dans ta vie associative de
-            l’école. Sidaction, Clowns de l’espoir, Resto du cœur, Bouchons
-            d’amour, Lutte contre le cancer du sein ou encore Amnesty
-            International, toutes les raisons sont bonnes pour récolter des
-            fonds pour ces associations ! Tu préfères le concret ? Nous te
-            proposerons des missions de bénévolats pendant ton temps libre à
-            l’IMT. Et qui sait, pourquoi pas lister et faire partie de ce
-            brulant bureau? L’Embraz’mant ne fait que commencer Embraz’kiss ,
-            <br />
-            BDH
-          </p>
-        </div>
-      </div>
-    </div>
-    <!-- Popup !-->
+        <!-- Popup !-->
 
-    <pied-de-page></pied-de-page>
-    <script src="../js/nav_animation.js"></script>
-    <script src="../js/associations/popup.js"></script>
-    <script src="../js/components.js"></script>
-  </body>
+        <pied-de-page></pied-de-page>
+        <script src="../js/nav_animation.js"></script>
+        <script src="../js/associations/popup.js"></script>
+        <script src="../js/components.js"></script>
+    </body>
 </html>
