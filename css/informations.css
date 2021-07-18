@@ -74,6 +74,11 @@
   font-size: clamp(2em, 3vw, 1000em);
 }
 
+#content h3{
+  color: white;
+  font-size: clamp(1em, 1.5vw, 1000em);
+}
+
 #content p {
   color: white;
   font-size: clamp(1em, 1.2vw, 1000em);
@@ -119,18 +124,11 @@
   transform: translateY(-5px);
 }
 
-#content a:hover .button {
-  color: pink;
-}
 
 #content ul {
-  width: 80%;
   color: white;
   display: flex;
   flex-direction: column;
-  text-align: left;
-  margin-top: 10%;
-  margin-left: 10%;
 }
 
 #content li {
@@ -140,9 +138,11 @@
 }
 
 #content a {
-  outline: none;
-  text-decoration: none;
-  padding: 2px 1px 0;
+  text-decoration: underline;
+}
+
+#content a:hover{
+  color: var(--thirdColor);
 }
 
 #content .lien_pied_page:link {
