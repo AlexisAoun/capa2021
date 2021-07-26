@@ -67,7 +67,7 @@ class Footer extends HTMLElement {
           <a href="https://instagram.com/capa2021imtld?utm_medium=copy_link" target="_blank">
             <i class="fa fa-instagram" aria-hidden="true"></i>
           </a>
-          <a href="#" target="_blank">
+          <a href="https://www.facebook.com/CAPA-2021-IMT-Lille-Douai-104418761871650/" target="_blank">
             <i class="fa fa-facebook" aria-hidden="true"></i>
           </a>
           <a href="https://www.youtube.com/channel/UCFL8feTx-XsWBdZkZzEOZeQ" target="_blank">
@@ -115,7 +115,7 @@ class FooterHome extends HTMLElement {
           <a href="https://instagram.com/capa2021imtld?utm_medium=copy_link" target="_blank">
             <i class="fa fa-instagram" aria-hidden="true"></i>
           </a>
-          <a href="#" target="_blank">
+          <a href="https://www.facebook.com/CAPA-2021-IMT-Lille-Douai-104418761871650/" target="_blank">
             <i class="fa fa-facebook" aria-hidden="true"></i>
           </a>
           <a href="https://www.youtube.com/channel/UCFL8feTx-XsWBdZkZzEOZeQ" target="_blank">
@@ -139,7 +139,7 @@ class SocialIcons extends HTMLElement {
           <a href="https://instagram.com/capa2021imtld?utm_medium=copy_link" target="_blank">
             <i class="fa fa-instagram" aria-hidden="true"></i>
           </a>
-          <a href="#" target="_blank">
+          <a href="https://www.facebook.com/CAPA-2021-IMT-Lille-Douai-104418761871650/" target="_blank">
             <i class="fa fa-facebook" aria-hidden="true"></i>
           </a>
           <a href="https://www.youtube.com/channel/UCFL8feTx-XsWBdZkZzEOZeQ" target="_blank">
