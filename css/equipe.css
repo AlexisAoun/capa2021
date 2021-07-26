@@ -104,7 +104,7 @@
  
 #content h2 {
   color: var(--thirdColor);
-  font-size: clamp(2em, 5vw, 1000em);
+  font-size: clamp(2em, 3vw, 1000em);
   font-weight: max;
   font-family: "onomatoshark";
 }

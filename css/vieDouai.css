@@ -128,26 +128,6 @@
   margin-bottom: 1%;
 }
 
-#content .blueButton{
-  margin-top: 2%;
-  background-color: var(--secondaryColor);
-  border: 0;
-  padding: 0.8%;
-  border-radius: 10px;
-  color:  black;
-  cursor: pointer;
-}
-
-#content .blueButton:hover{
-  transform: translateY(-5px);
-}
-
-#content #visite_virtuelle{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
 @media screen and (max-width: 800px) {
   .content-body {
     width: 100%;

@@ -101,7 +101,7 @@ div.templates {
 }
 
 .content-body {
-  display: none; /*temporaire, was flex*/
+  display: flex;
   flex-direction: column;
   justify-content: center;
   margin: auto;
@@ -165,17 +165,72 @@ div.templates {
   color: var(--mainColor);
 }
 
-.associations-blob-menu {
+.blobMenu {
   display: flex;
-  flex-direction: row;
-  width: 100%;
+  flex-direction: column;
   margin: 3vh;
 }
 
-.blob-container {
-  flex: 1;
+
+.subMenuContainer{
+  height: 30vh;
+  margin:10vh;
   display: flex;
-  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+}
+
+.BlobContainer{
+  position: absolute;
+}
+
+.BlobContainer.sub{
+  height: 10vh;
+  width: 10vh;
+}
+
+.BlobContainer.main{
+  height: 20vh;
+  width: 20vh;
+}
+
+.one{
+  left: -13vh;
+  top: -5vh;
+}
+
+.two {
+    top: -15vh;
+    left: 6vh;
+}
+
+.three {
+    right: -12vh;
+    top: -6vh;
+}
+
+
+.four {
+    left: -12vh;
+    bottom: -6vh;
+}
+
+.five {
+    bottom: -15vh;
+    left: 6vh;
+}
+
+.six {
+    right: -10vh;
+    bottom: -10vh;
+}
+
+.flexEnd{
+  justify-content: flex-end;
+}
+
+.flexStart{
+  justify-content: flex-start;
 }
 
 .blob {

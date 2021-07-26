@@ -11,7 +11,7 @@ class MenuHome extends HTMLElement {
           <li><a href="html/equipe.html">L'équipe</a></li>
           <li><a href="html/vieDouai.html">La vie à Douai</a></li>
           <li><a href="html/associations.html">Associations</a></li>
-          <li><a href="html/contactezNous.html">Contactez-nous</a></li>
+          <li><a href="html/contactezNous">Contactez-nous</a></li>
         </ul>
     `;
   }
