@@ -1,4 +1,4 @@
-clubData=[
+clubData =[
   {
     "clubName": "Club méca",
     "clubID": 1,
