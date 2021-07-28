@@ -91,6 +91,13 @@
   color: var(--mainColor);
 }
 
+#sommaire{
+  display: flex;
+  width: 80%;
+  margin-left: 10%;
+  justify-content: space-between;
+}
+
 ul {
  list-style: none;
 }
