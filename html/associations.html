@@ -1,4 +1,3 @@
-<
 <html lang="en">
     <head>
         <meta charset="UTF-8" />
@@ -73,13 +72,122 @@
                 <p class="content-text">
                     <b>Voici la présentation des associations de l'école :</b>
                 </p>
-                <h2 class="comming_soon">Bientôt disponible !</h2>
+            </div>
+            <div id="sommaire">
+               <div class = "half">
+                   <div class="bde">
+                      <a href="#BDE"><h2>BDE</h2></a> 
+                      <ul>
+                          <li><a href="#Club méca">Club Méca</a></li> 
+                          <li><a href="#IMT'ernational">IMT'ernational</a></li> 
+                          <li><a href="#Cotrad">Comité Tradition</a></li> 
+                          <li><a href="#ZeGreenPeas">ZeGreenPeas</a></li> 
+                          <li><a href="#Egal’IMT">Egal'IMT</a></li> 
+                          <li><a href="#ARTEMIS">ARTEMIS</a></li> 
+                          <li><a href="#Le Caméléon déchaîné">Le Caméléon déchaîné</a></li> 
+                          <li><a href="#Douai Moustache Club">Douai Moustache Club</a></li> 
+                          <li><a href="#Bar">Le Bar</a></li> 
+                          <li><a href="#IMTalks">IMTalks</a></li> 
+                          <li><a href="#Club robotique">Club robotique</a></li> 
+                          <li><a href="#Gala">Gala</a></li> 
+                          <li><a href="#Club des brasseurs">Club des brasseurs</a></li> 
+                      </ul>
+                   </div>  
+                   <div class="bds">
+                      <a href="#BDS"><h2>BDS</h2></a> 
+                      <ul>
+                          <li><a href="#Supporters">Club Supporters</a></li> 
+                          <li><a href="#Club Rugby">Club Rugby</a></li> 
+                          <li><a href="#Club Poker">Club Poker</a></li> 
+                          <li><a href="#IMTLD E-sport">IMTLD E-sport</a></li> 
+                          <li><a href="#Comité CCE">Comité CCE</a></li> 
+                          <li><a href="#Comité Cartel">Comité Cartel</a></li> 
+                          <li><a href="#IMT Lille Maurice">IMT Lille Maurice</a></li> 
+                          <li><a href="#Pompoms">Pompoms</a></li> 
+                          <li><a href="#Weski">Weski</a></li> 
+                          <li><a href="#Club cirque">Club cirque</a></li> 
+                      </ul>
+                   </div>  
+               </div>
+               <div class = "half">
+                   <div class="bda">
+                      <a href="#BDA"><h2>BDA</h2></a> 
+                      <ul>
+                          <li><a href="#Club vidéo">Club vidéo</a></li> 
+                          <li><a href="#Dance with mines">Dance with mines</a></li> 
+                          <li><a href="#Club théâtre">Club théâtre</a></li> 
+                          <li><a href="#Chorale">Chorale</a></li> 
+                          <li><a href="#Imterlude">Imterlude</a></li> 
+                          <li><a href="#Club Sépia">Comité Sépia</a></li> 
+                          <li><a href="#L’Artelier">L'Artelier</a></li> 
+                          <li><a href="#Cousu’mines">Cousu'mines</a></li> 
+                          <li><a href="#Club oenologie">Club oenologie</a></li> 
+                          <li><a href="#IMTremplin">IMTremplin</a></li> 
+                          <li><a href="#Club Sono Parkin’Son">Club Sono Parkin'Son</a></li> 
+                          <li><a href="#Chess’Mate">Chess'Mate</a></li> 
+                          <li><a href="#La Mine aux merveilles">La Mine aux merveilles</a></li> 
+                          <li><a href="#Club débats">Club débats</a></li> 
+                          <li><a href="#Chess’Mate">Cuis'mines</a></li> 
+                      </ul>
+                   </div>  
+                   <div class="bdh">
+                      <a href="#BDH"><h2>BDH</h2></a> 
+                      <ul>
+                          <li><a href="#Téléthon">Téléthon</a></li> 
+                          <li><a href="#4L trophy">4L Trophy</a></li> 
+                      </ul>
+                   </div>  
+               </div>
+            </div>
+            <!-- BDE Asso and club info START !-->
+            <div id="assoBDE" class="listAsso"></div>
+            <ul id="listClubBDE" class="listClub"></ul>
+            <!-- BDE Asso and club info ENDING !-->
+            <!-- BDA Asso and club info START !-->
+            <div id="assoBDA" class="listAsso"></div>
+            <ul id="listClubBDA" class="listClub"></ul>
+            <!-- BDA Asso and club info ENDING !-->
+            <!-- BDS Asso and club info START !-->
+            <div id="assoBDS" class="listAsso"></div>
+            <ul id="listClubBDS" class="listClub"></ul>
+            <!-- BDS Asso and club info ENDING !-->
+            <!-- BDH Asso and club info START !-->
+            <div id="assoBDH" class="listAsso"></div>
+            <ul id="listClubBDH" class="listClub"></ul>
+            <!-- BDH Asso and club info ENDING !-->
+            <div class="templates">
+              <div id="listClub">
+                <div class="body">
+                  <div class="column1">
+                    <div class="nameContainer"></div>
+                    <div class="imageContainer"></div>
+                  </div>
+                  <div class="column2">
+                    <div class="descriptionContainer"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="listAsso">
+                <div class="body">
+                  <div class="column1">
+                    <div class="nameContainer"></div>
+                    <div class="imageContainer"></div>
+                  </div>
+                  <div class="column2">
+                    <div class="descriptionContainer"></div>
+                  </div>
+                </div>
+              </div>
             </div>
         </div>
 
+
         <pied-de-page></pied-de-page>
         <script src="../js/nav_animation.js"></script>
-        <script src="../js/associations/popup.js"></script>
+        <script type="text/javascript" src="../js/associations/lib/jquery.min.js"></script>
+        <script type="text/javascript" src="../src/clubData.json"></script>
+        <script type="text/javascript" src="../src/associationData.json"></script>
+        <script src="../js/associations/clublist.js"></script>
         <script src="../js/components.js"></script>
     </body>
 </html>
