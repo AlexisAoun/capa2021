@@ -1,4 +1,3 @@
-<
 <html lang="en">
     <head>
         <meta charset="UTF-8" />
@@ -73,13 +72,56 @@
                 <p class="content-text">
                     <b>Voici la présentation des associations de l'école :</b>
                 </p>
-                <h2 class="comming_soon">Bientôt disponible !</h2>
+            </div>
+            <!-- BDE Asso and club info START !-->
+            <div id="assoBDE" class="listAsso"></div>
+            <ul id="listClubBDE" class="listClub"></ul>
+            <!-- BDE Asso and club info ENDING !-->
+            <!-- BDA Asso and club info START !-->
+            <div id="assoBDA" class="listAsso"></div>
+            <ul id="listClubBDA" class="listClub"></ul>
+            <!-- BDA Asso and club info ENDING !-->
+            <!-- BDS Asso and club info START !-->
+            <div id="assoBDS" class="listAsso"></div>
+            <ul id="listClubBDS" class="listClub"></ul>
+            <!-- BDS Asso and club info ENDING !-->
+            <!-- BDH Asso and club info START !-->
+            <div id="assoBDH" class="listAsso"></div>
+            <ul id="listClubBDH" class="listClub"></ul>
+            <!-- BDH Asso and club info ENDING !-->
+            <div class="templates">
+              <div id="listClub">
+                <div class="body">
+                  <div class="column1">
+                    <div class="nameContainer"></div>
+                    <div class="imageContainer"></div>
+                  </div>
+                  <div class="column2">
+                    <div class="descriptionContainer"></div>
+                  </div>
+                </div>
+              </div>
+              <div id="listAsso">
+                <div class="body">
+                  <div class="column1">
+                    <div class="nameContainer"></div>
+                    <div class="imageContainer"></div>
+                  </div>
+                  <div class="column2">
+                    <div class="descriptionContainer"></div>
+                  </div>
+                </div>
+              </div>
             </div>
         </div>
 
+
         <pied-de-page></pied-de-page>
         <script src="../js/nav_animation.js"></script>
-        <script src="../js/associations/popup.js"></script>
+        <script type="text/javascript" src="../js/associations/lib/jquery.min.js"></script>
+        <script type="text/javascript" src="../src/clubData.json"></script>
+        <script type="text/javascript" src="../src/associationData.json"></script>
+        <script src="../js/associations/clublist.js"></script>
         <script src="../js/components.js"></script>
     </body>
 </html>

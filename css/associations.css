@@ -4,6 +4,14 @@
   --thirdColor: #efbc12;
 }
 
+.body {
+  display: flex;
+  flex-direction: row;
+  margin-left: 2vh;
+  margin-right: 2vh;
+  margin-top: 5vh;
+}
+
 #content {
   background-image: linear-gradient(var(--mainColor), var(--secondaryColor));
   width: 100%;
@@ -81,6 +89,75 @@
 
 #blue-button:active {
   color: var(--mainColor);
+}
+
+ul {
+ list-style: none;
+}
+
+.listClub h1{
+  font-family: Arial;
+  font-size: 2vh;
+  color: white;
+  text-align: center;
+  margin-bottom: 3vh;
+  font-weight: 900;
+}
+
+.listClub p{
+  font-family: Arial;
+  font-size: 2vh;
+  color: white;
+  text-align: left;
+  margin-left: 5vh;
+  margin-right: 5vh;
+  font-weight: 500;
+}
+
+.listClub img{
+  width: 60%;
+  height: auto;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.listAsso h1{
+  font-family: Arial;
+  font-size: 3vh;
+  color: white;
+  text-align: center;
+  margin-bottom: 3vh;
+  font-weight: 900;
+}
+
+.listAsso p{
+  font-family: Arial;
+  font-size: 2vh;
+  color: white;
+  text-align: left;
+  margin-left: 5vh;
+  margin-right: 5vh;
+  font-weight: 500;
+}
+
+.listAsso img{
+  width: 100%;
+  height: auto;
+}
+
+.column1{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.column2{
+  flex: 4;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 @media screen and (max-width: 800px) {
