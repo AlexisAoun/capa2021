@@ -230,7 +230,7 @@ ul {
   }
   
   .listClub p{
-    font-size: clamp(1.5vw, 1.5em, 10000em);
+    font-size: clamp(1.5vw, 1.1em, 10000em);
     margin-top: 5%;
     width: 90%;
     margin-left: 5%;
