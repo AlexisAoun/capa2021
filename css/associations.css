@@ -4,13 +4,6 @@
   --thirdColor: #efbc12;
 }
 
-.body {
-  display: flex;
-  flex-direction: row;
-  margin-left: 2vh;
-  margin-right: 2vh;
-  margin-top: 5vh;
-}
 
 #content {
   background-image: linear-gradient(var(--mainColor), var(--secondaryColor));
@@ -98,8 +91,34 @@
   justify-content: space-between;
 }
 
+.half {
+  display: flex;
+  width: 40%;
+  justify-content: space-between;    
+}
+
+#sommaire h2{
+  color: white;
+  margin: 3% 0 15% 0;
+}
+
+#sommaire li{
+  margin-bottom: 10%;
+}
+#sommaire a{
+  color: white;
+}
+
 ul {
  list-style: none;
+}
+
+.body {
+  display: flex;
+  flex-direction: row;
+  margin-left: 2vh;
+  margin-right: 2vh;
+  margin-top: 5vh;
 }
 
 .listClub h1{
@@ -169,5 +188,52 @@ ul {
 
 @media screen and (max-width: 800px) {
 
+  #sommaire{
+    flex-direction: column;
+  }
 
+  .half{
+    width: 100%;  
+  }
+
+  #sommaire .BDS{
+    margin-left: 10%;
+  }
+
+  #sommaire li{
+    margin-bottom: 30%;
+  }
+
+  .body {
+    flex-direction: column;
+  }
+
+  .listAsso img{
+    width: 80%;
+    margin-left: 10%;
+  }
+
+  .listAsso h1{
+     font-size: clamp(2vw, 2em , 10000em);
+  }
+  
+  .listAsso p{
+    font-size: clamp(1.5vw, 1.2em, 10000em);
+    margin-top: 5%;
+    width: 90%;
+    margin-left: 5%;
+    text-align: center;
+  }
+  
+  .listClub h1{
+     font-size: clamp(2vw, 2em , 10000em);
+  }
+  
+  .listClub p{
+    font-size: clamp(1.5vw, 1.2em, 10000em);
+    margin-top: 5%;
+    width: 90%;
+    margin-left: 5%;
+    text-align: center;
+  }
 }
