@@ -35,7 +35,7 @@
 }
 
 .content-title {
-  font-family: Arial;
+  font-family: montserrat;
   font-size: 5vh;
   color: var(--secondaryColor);
   text-align: center;
@@ -45,7 +45,7 @@
 }
 
 .content-text {
-  font-family: Arial;
+  font-family: montserrat;
   font-size: 3vh;
   color: white;
   text-align: center;
@@ -53,7 +53,7 @@
   margin-bottom: 3vh;
 }
 .content-text b {
-  font-family: Arial;
+  font-family: montserrat;
   font-size: 3vh;
   color: white;
   font-weight: 900;
@@ -66,7 +66,7 @@
   padding-right: 8vh;
   text-align: center;
   background-color: var(--secondaryColor);
-  font-family: Arial;
+  font-family: montserrat;
   font-size: 3vh;
   font-weight: bold;
   color: white;
@@ -121,7 +121,7 @@ ul {
 }
 
 .listClub h1{
-  font-family: Arial;
+  font-family: montserrat;
   font-size: 2vh;
   color: white;
   text-align: center;
@@ -130,7 +130,7 @@ ul {
 }
 
 .listClub p{
-  font-family: Arial;
+  font-family: montserrat;
   font-size: 2vh;
   color: white;
   text-align: left;
@@ -147,7 +147,7 @@ ul {
 }
 
 .listAsso h1{
-  font-family: Arial;
+  font-family: montserrat;
   font-size: 3vh;
   color: white;
   text-align: center;
@@ -156,7 +156,7 @@ ul {
 }
 
 .listAsso p{
-  font-family: Arial;
+  font-family: montserrat;
   font-size: 2vh;
   color: white;
   text-align: left;
