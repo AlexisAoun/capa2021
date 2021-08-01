@@ -24,7 +24,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Fillotte, Fillot,<br>Cela fait 2, voire 3 ans que tu passes tes journées le cul vissé sur une chaise ? Ce temps est révolu, car cette année, tu vas danser. Que tu sois débutant.e, motivé.e à enflammer le dancefloor, ou bien confirmé.e, rejoins Dance With Mines, le club de danse de l’école !<br>Cette année, des cours de rock sont proposés. Nous t’apprendrons nos passes les plus classes, que tu pourras caler dans tes meilleures soirées.<br>Cependant Dance With Mines c’est bien plus que ça : c’est le comité qui t’accompagnera dans ta pratique, quel que soit ton style de danse.<br>D'ailleurs, Dance With Mines veut de la diversité ! Si tu es féru.e de tango, de street, de salsa, de modern jazz, de … menuet (pourquoi pas) ou de tout autre danse, le club t'accueillera avec plaisir pour que tu puisses partager avec tous ta passion !<br>Enfin bref t’as compris, Dance With Mines c’est de la danse et de la bonne humeur.<br>Hâte de te voir<br>Colin & Amandine",
-    "clubImage":"../img/logoAsso/dance.jpg",
+    "clubImage":"../img/logoAsso/dance.png",
   },
   {
     "clubName": "Club théâtre",
@@ -36,13 +36,13 @@ clubData =[
     "clubImage":"../img/logoAsso/theatre.jpg",
   },
   {
-    "clubName": "IMT'ernational",
+    "clubName": "IMT'ERNATIONAL",
     "clubID": 5,
     "parrent": "BDE",
     "facebook": "N/A",
     "insta": "N/A",
-    "clubDescription":"",
-    "clubImage":"../img/logoAsso/soon.png",
+    "clubDescription":"Coucou les fillots !<br>C'est super de vous voir sur le campus ! IMT’ERNATIONAL vous souhaite la bienvenue ! <br>IMT’ERNATIONAL, c’est quoi ? C’est tout simplement le comité des étudiants internationaux de l’École. SI tu viens d’autre part et que tu brûles d’envie de t’installer en France au plus vite, nous sommes là pour toi !<br>Chaque année, nous accueillons une centaine d'étudiants internationaux du monde entier, qui apportent avec eux toute une palette de compétences et de talents qui enrichissent notre communauté à l’IMT. Pendant ta rentrée, c’est nous ton contact privilégié pour toutes les démarches administratives pour commencer ta vie étudiante !<br>Mais on s’arrête pas là ! Pendant l’année scolaire, nous organisons des événements avec les autres clubs qui seront à thème international, où ils peuvent mieux se connaître et rencontrer d'autres étudiants d’autres cultures, en parallèle de découvrir toute la culture française qui nous entoure !<br>Si tout ça te tente, n’hésite pas à nous rejoindre, on vous attend avec impatience !<br>IMTER’Kiss",
+    "clubImage":"../img/logoAsso/imternational.png",
   },
   {
     "clubName": "Chorale",
@@ -68,7 +68,7 @@ clubData =[
     "parrent": "BDS",
     "facebook": "N/A",
     "insta": "N/A",
-    "clubDescription":"Un match se joue sur et en dehors du terrain, ainsi ce n’est qu’une fois joueurs et supporters rassemblés que la magie opérera et Douai triomphera. Alors si le son des filets te fait vibrer, qu’à chaque action ton cœur peut chavirer, n’hésite plus, rejoins nous et viens t’enivrer de la ferveur du kop de Douai.En rejoignant nos rangs, tu te déplaceras où qu’aillent les délégations de l’école pour défendre nos couleurs, clamer ton amour à l’arbitre et aux joueurs adverses.<br />Munis toi de ta voix et nous ferons de toi un vrai ultra.<br />Fumigène’kiss<br />Clément Dohollou",
+    "clubDescription":"Un match se joue sur et en dehors du terrain, ainsi ce n’est qu’une fois joueurs et supporters rassemblés que la magie opérera et Douai triomphera. Alors si le son des filets te fait vibrer, qu’à chaque action ton cœur peut chavirer, n’hésite plus, rejoins nous et viens t’enivrer de la ferveur du kop de Douai. En rejoignant nos rangs, tu te déplaceras où qu’aillent les délégations de l’école pour défendre nos couleurs, clamer ton amour à l’arbitre et aux joueurs adverses.<br />Munis toi de ta voix et nous ferons de toi un vrai ultra.<br />Fumigène’kiss<br />Clément Dohollou",
     "clubImage":"../img/logoAsso/supporter.png",
   },
   {
@@ -104,7 +104,7 @@ clubData =[
     "parrent": "BDA",
     "facebook": "N/A",
     "insta": "N/A",
-    "clubDescription":"Fillote, fillot,<br />La musique fait partie de ta vie ? Tu es en manque de concerts ? Tu as délaissé ton instrument pendant tes deux ou trois années de prépa ? Alors le comité musique te permettra de retrouver cette saveur oubliée et d’exprimer tes talents à l’aide de nos deux salles de musique et de nos instruments !<br />Que tu joues du jazz, du rock, du métal, du classique ou que tu sois rap ou pop, tu seras le bienvenue et tu pourras profiter des deux salles à n’importe quelle heure du jour ou de la nuit ! Guitares, pianos, batterie, amplis et micros… Peu importe ton style, seul ou en groupe, tu pourras exprimer ton âme d’artiste et libérer ta créativité!<br />Le comité se fera un plaisr de te rencontrer et de discuter musique avec toi… et pourquoi pas te retrouver pendant les différents concerts et Jams de l’année où tu pourras exprimer ton talent !<br />Amnéziki’kiss<br />Théo",
+    "clubDescription":"Fillote, fillot,<br />La musique fait partie de ta vie ? Tu es en manque de concerts ? Tu as délaissé ton instrument pendant tes deux ou trois années de prépa ? Alors le comité musique te permettra de retrouver cette saveur oubliée et d’exprimer tes talents à l’aide de nos deux salles de musique et de nos instruments !<br />Que tu joues du jazz, du rock, du métal, du classique ou que tu sois rap ou pop, tu seras le bienvenue et tu pourras profiter des deux salles à n’importe quelle heure du jour ou de la nuit ! Guitares, pianos, batterie, amplis et micros… Peu importe ton style, seul ou en groupe, tu pourras exprimer ton âme d’artiste et libérer ta créativité!<br />Le comité se fera un plaisir de te rencontrer et de discuter musique avec toi… et pourquoi pas te retrouver pendant les différents concerts et Jams de l’année où tu pourras exprimer ton talent !<br />Amnéziki’kiss<br />Théo",
     "clubImage":"../img/logoAsso/amnezik.png",
   },
   {
@@ -185,11 +185,11 @@ clubData =[
     "parrent": "BDS",
     "facebook": "N/A",
     "insta": "N/A",
-    "clubDescription":"Salut à toi jeune mineur ! Alors si aujourd'hui tu lis ces lignes c'est pour une raison très simple : j'ai une grosse opportunité pour toi pour financer tes bières. En effet, l'association de poker de l'IMT t'ouvre ses potes avec de grands joueurs prêt à jouer avec toi dans la bonne ambiance. Que tu sois un total débutant  ou bien un de ces fameux 'sharks', une chaise et des jetons seront là à t'attendre. Si tu hésites toujours à nous rejoindre, et bien sache que pour moi, la question elle est vite répondue.",
+    "clubDescription":"Salut à toi jeune mineur ! Alors si aujourd'hui tu lis ces lignes c'est pour une raison très simple : j'ai une grosse opportunité pour toi pour financer tes bières. En effet, l'association de poker de l'IMT t'ouvre ses potes avec de grands joueurs prêts à jouer avec toi dans la bonne ambiance. Que tu sois un total débutant  ou bien un de ces fameux 'sharks', une chaise et des jetons seront là à t'attendre. Si tu hésites toujours à nous rejoindre, et bien sache que pour moi, la question elle est vite répondue.",
     "clubImage":"../img/logoAsso/poker.jpg",
   },
   {
-    "clubName": "ARTEMIS",
+    "clubName": "Junior-Entreprise ARTEMIS",
     "clubID": 22,
     "parrent": "BDE",
     "facebook": "N/A",
@@ -221,7 +221,7 @@ clubData =[
     "parrent": "BDE",
     "facebook": "N/A",
     "insta": "N/A",
-    "clubDescription":"Salut à toi fillot ! J’ai l’honneur de te présenter le bar. Un lieu de vie incontournable de la meud qui nous a beaucoup manqué l’année dernière dans lequel tu auras l’occasion de passer des moments mémorables que tu oublieras aussi parfois. La bière y coule à flot et elle est servie par une équipe d’une vingtaine d’abrutis ayant traversé des moments flous et parfois sombres mais surtout très fun.<br />Peu importe qui tu es, tu y trouveras ton bonheur, tu y feras des rencontres et peut-être même que tu tomberas amoureux de ce comptoir. <br />Tu souhaites déjà en faire partie ? Chaque chose en son temps. Tu verras au cours de l’année comment passer de l’autre côté du bar si jamais tu le désire.<br />Mais cette petite présentation ne peut pas réellement te montrer ce qu’est le bar, alors on compte sur toi pour venir te payer quelques bières et voir par toi-même ce que bar signifie réellement à la meud. <br />Tom Boring",
+    "clubDescription":"Salut à toi fillot ! J’ai l’honneur de te présenter le bar. Un lieu de vie incontournable de la meud qui nous a beaucoup manqué l’année dernière dans lequel tu auras l’occasion de passer des moments mémorables que tu oublieras aussi parfois. La bière y coule à flot et elle est servie par une équipe d’une vingtaine d’abrutis ayant traversé des moments flous et parfois sombres mais surtout très fun.<br />Peu importe qui tu es, tu y trouveras ton bonheur, tu y feras des rencontres et peut-être même que tu tomberas amoureux de ce comptoir. <br />Tu souhaites déjà en faire partie ? Chaque chose en son temps. Tu verras au cours de l’année comment passer de l’autre côté du bar si jamais tu le désires.<br />Mais cette petite présentation ne peut pas réellement te montrer ce qu’est le bar, alors on compte sur toi pour venir te payer quelques bières et voir par toi-même ce que bar signifie réellement à la meud. <br />Tom Boring",
     "clubImage":"../img/logoAsso/soon.png",
   },
   {
@@ -266,7 +266,7 @@ clubData =[
     "parrent": "BDA",
     "facebook": "N/A",
     "insta": "N/A",
-    "clubDescription":"soirées. C’est avant tout, un club de passionnés de musique. Ici, on apprend à monter de A à Z la Sono, de la platine jusqu’aux enceintes, en passant par les lights, et bien sûr on apprend aussi aux fillots à mixer ! Le but du club est donc de faire danser un maximum de gens pendant nos soirées grâce à nos musiques, nos DJs et notre matos de qualité !",
+    "clubDescription":"Le club Sono est le club qui s’occupe de mettre une musique de qualité pendant les soirées. C’est avant tout, un club de passionnés de musique. Ici, on apprend à monter de A à Z la Sono, de la platine jusqu’aux enceintes, en passant par les lights, et bien sûr on apprend aussi aux fillots à mixer ! Le but du club est donc de faire danser un maximum de gens pendant nos soirées grâce à nos musiques, nos DJs et notre matos de qualité !",
     "clubImage":"../img/logoAsso/parkin_son.png",
   },
   {
@@ -275,7 +275,7 @@ clubData =[
     "parrent": "BDS",
     "facebook": "N/A",
     "insta": "N/A",
-    "clubDescription":"Envie de t’évader et découvrir des sports de glisse ? Alors IMT Lille Maurice est là pour toi ! Viens t’éclater avec tes potes pour découvrir de nombreuses disciplines sur mer comme sur terre! Ici on aime le surf, le kite, la voile, le char à voile et on raffole de skate, roller et de patinage sur glace ! <br />Au cours de l’année, de nombreuses sorties seront organisées afin de bien faire vivre l’asso. Il te suffit seulement d’être cotisant BDS pour pouvoir y participer. D’autre part, les activités qui nécessitent moins de logistique comme le roller ou le skate, se feront quant à elles dans notre chère ville de Douai, et seront quotidiennes si il y a des motivés. <br />Si cette présentation t’a convaincue, n’hésite pas à rejoindre nos réseaux sociaux ( IMT-LilleMaurice) sur facebook et instagram, afin d’être tenu au courant des prochains événements et découvrir notre équipe de folie! <br />À bientôt pour des aventures, <br />Gliss’kiss !",
+    "clubDescription":"Envie de t’évader et découvrir des sports de glisse ? Alors IMT Lille Maurice est là pour toi ! Viens t’éclater avec tes potes pour découvrir de nombreuses disciplines sur mer comme sur terre! Ici on aime le surf, le kite, la voile, le char à voile et on raffole de skate, roller et de patinage sur glace ! <br />Au cours de l’année, de nombreuses sorties seront organisées afin de bien faire vivre l’asso. Il te suffit seulement d’être cotisant BDS pour pouvoir y participer. D’autre part, les activités qui nécessitent moins de logistique comme le roller ou le skate, se feront quant à elles dans notre chère ville de Douai, et seront quotidiennes s'il y a des motivés. <br />Si cette présentation t’a convaincue,  n’hésite pas à rejoindre nos réseaux sociaux ( IMT-LilleMaurice) sur facebook et instagram, afin d’être tenu au courant des prochains événements et découvrir notre équipe de folie! <br />À bientôt pour des aventures, <br />Gliss’kiss !",
     "clubImage":"../img/logoAsso/maurice.jpg",
   },
   {
@@ -329,7 +329,7 @@ clubData =[
     "parrent": "BDE",
     "facebook": "N/A",
     "insta": "N/A",
-    "clubDescription":"Posons la situation : tu viens d’intégrer ta nouvelle école, tu arpentes les couloirs de la résidence Lavoisier. Alors que tu erres alors dans le quatrième étage, ton regard est rapidement attiré par le fond de celui-ci. Ce n'était pas un trou déplaisant, sale et humide, rempli de bouts de vers et d'une atmosphère suintante, c’était une Mine remplie de trésors divers et variés. Ton regard se fixe d’abord sur une étagère où trône une multitude de jeux de sociétés. Tu remarques ensuite une large bibliothèque débordant de bandes dessinées et de mangas. Tendant l’oreille, tu te rends compte que la Mine est remplie d’autres chasseurs de trésors qui, eux-aussi, profitent des différentes richesses offertes par ce lieu, un peu en dehors de la réalité de la Meud.<br />Pour parler plus simplement, la Mine aux Merveilles est l’association de jeux de sociétés, jeux de rôles et BD/Manga du site de Douai. Que tu sois vétéran ou débutant, que tu veuilles emprunter des jeux pour jouer entre potes ou juste lire une BD dans un coin, que tu cherches simplement à jouer un soir au local ou bien organiser des parties de jeu de rôle au sein de la Meud, chacun saura trouver sa pépite d’or dans la Mine.<br />Ludiquement vôtre,<br />Le bureau de La Mine aux Merveilles",
+    "clubDescription":"Fillote, Fillot, <br/> Cette année tu découvriras Le Gala IMT Lille Douai et ce sera l'événement le plus prestigieux que tu vas vivre ici ! Pendant une soirée qui t’emmènera jusqu’au bout de la nuit, près de 1000 personnes vont se réunir dans un cadre éblouissant pour faire la fête et célébrer tous les talents de l’école.<br> Ce moment est l’occasion de réunir plus de six générations d’étudiants autour du traditionnel dîner-spectacle avant de profiter d’une soirée unique portée par les meilleurs DJs de l’école mais aussi par des professionnels.<br> Garde bien l’œil ouvert sur le Gala, car c’est l'événement que tu ne veux pas manquer ! Que tu sois un/une artiste des campus de Douai, Lille, Valenciennes, Alençon ou Dunkerque qui souhaite faire briller ses talents pendant le spectacle ; un(e) fetard(e) à qui les soirées en grandes pompes manquent tant ; ou si tu souhaites rentrer dans les coulisses d’une organisation exceptionnelle, le Gala saura de toute façon répondre à tes attentes !<br> Les nombreux élèves du comité Gala seront là pour t’accompagner, répondre à tes questions et te révéler le thème de l’année (encore tenu secret pour l’instant) alors n’hésite surtout pas à te rapprocher d’eux",
     "clubImage":"../img/logoAsso/gala.png",
   },
   {
@@ -339,7 +339,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Posons la situation : tu viens d’intégrer ta nouvelle école, tu arpentes les couloirs de la résidence Lavoisier. Alors que tu erres alors dans le quatrième étage, ton regard est rapidement attiré par le fond de celui-ci. Ce n'était pas un trou déplaisant, sale et humide, rempli de bouts de vers et d'une atmosphère suintante, c’était une Mine remplie de trésors divers et variés. Ton regard se fixe d’abord sur une étagère où trône une multitude de jeux de sociétés. Tu remarques ensuite une large bibliothèque débordant de bandes dessinées et de mangas. Tendant l’oreille, tu te rends compte que la Mine est remplie d’autres chasseurs de trésors qui, eux-aussi, profitent des différentes richesses offertes par ce lieu, un peu en dehors de la réalité de la Meud.<br />Pour parler plus simplement, la Mine aux Merveilles est l’association de jeux de sociétés, jeux de rôles et BD/Manga du site de Douai. Que tu sois vétéran ou débutant, que tu veuilles emprunter des jeux pour jouer entre potes ou juste lire une BD dans un coin, que tu cherches simplement à jouer un soir au local ou bien organiser des parties de jeu de rôle au sein de la Meud, chacun saura trouver sa pépite d’or dans la Mine.<br />Ludiquement vôtre,<br />Le bureau de La Mine aux Merveilles",
-    "clubImage":"../img/logoAsso/merveille.gif",
+    "clubImage":"../img/logoAsso/merveille.png",
   },
   {
     "clubName": "Club cirque",
@@ -385,5 +385,24 @@ clubData =[
     "insta": "N/A",
     "clubDescription":"À toi amoureux des bonnes choses, passionné du goût, magicien des fourneaux. Tu l’auras compris, dans cette association on sait se faire plaisir, et on profite ! Débutant, amateur, expert, chef : tout le monde est le bienvenu (oui même toi qui veut juste déguster des somptueux mets sans te salir les mains). Cette année, nous vous partegerons des recettes écrites et des vidéos, il y en aura pour tous les goûts, amateurs de viandes ou de poisson, végétarien ou bien végan, sucré ou salé, novice ou expérimenté. Suivez-nous sur les réseaux pour vous régaler toute l’année. Si tout se passe bien, nous assurerons des ateliers de cuisines pour ceux qui souhaitent maîtriser davantage de techniques culinaires. Vous pourrez emprunter à votre guise du matériel de cuisine fraîchement acheté cet été. Nous  préparerons des repas de À à Z en collaboration du club œno et brasseurs et tous les meudiens y seront conviés ! Il va sans dire que nous prônons la cuisine du goût, local, bio et de saison ! Vous verrez que même avec une bourse d’étudiant, on peut vraiment se faire plaisir. Pour les plus expérimentés d’entres vous, il y aura un concours de cuisine inter-écoles. Et comme vous êtes des petits gourmands, il y aura encore plein de surprises, mais ça, vous les découvrirez au fil de l’année. <br />Bisous mielleux les maxi bg !<br />Pedro et la brigade Cuis’mines",
     "clubImage":"../img/logoAsso/soon.png",
+  },
+  { 
+    "clubName": "Festival", 
+    "clubID": 44, 
+    "parrent": "BDA",
+    "facebook": "N/A", 
+    "insta": "N/A", 
+    "clubDescription": "Bienvenue dans l’association qui ne regroupe que des passionnés de musique, de festivals, de frissons et de pur kiff. <br> Notre objectif ? Organiser la première édition d’un festival de musique en plein air, autour de Lille.<br> Notre ambition ? Pas des moindres : 2 scènes, 7 artistes professionnels, autant d’artistes amateurs, un public de 3000 personnes, des stands à gogo et potentiellement le plus gros événement de l’école. Rien que ça.<br> Si tu es motivé, entreprenant (car oui on parle bien de la première édition, donc de la création de ce festival), passionné par la même chose que nous et que tu vois les choses en grand, cette association est faite pour toi !<br> Nous ne te divulguerons pas encore le nom ni le logo de notre festival, mais surtout ne t’inquiète pas fillot, ils arriveront très bientôt <br> On a hâte de te faire connaître la programmation de ce festival, qui rivalisera on l’espère bientôt avec les plus grands festivals étudiants de France de Navarre !",
+     "clubImage":"../img/logoAsso/soon.png", 
+  },
+
+  { 
+    "clubName": "Eurotandem", 
+    "clubID": 45, 
+    "parrent": "BDH", 
+    "facebook": "N/A", 
+    "insta": "N/A", 
+    "clubDescription":"Salut à toi fillot(e) ! <br> T’as peut-être déjà croisé ces étudiants beaux, forts et vaillants pédalant plus de quinze jours durant en tandem, contre le vent, le soleil ou la pluie, pour promouvoir le don du sang aux quatre coins de la France ? Ces étudiants font partie de l’Eurotandem ! Mais l'Eurotandem c'est quoi ? C'est une asso unique à l'école de trente-deux étudiants qui existe depuis 1991. Cette belle bande de trente potes formée de 1A et de 2A, part faire un tour de France sur leurs fidèles destriers, leurs magnifiques tandems, pendant plus de quinze jours durant les vacances d'avril pour  promouvoir le don du sang.  Avec cette expérience de folie, tu vas te surpasser autant humainement que physiquement.  On te promet que t'en ressortiras totalement transformé ! D'abord tes fesses auront très  très mal, t'auras des cuissots dignes des plus grand sportifs, mais surtout t'auras des  souvenirs inoubliables plein la tête. Tu vas découvrir et profiter de paysages magnifiques  en masse, plus grandioses les uns que les autres. Tu vas aussi rencontrer beaucoup de  bénévoles du don du sang après avoir récolté des promesses de don et avec qui on va  passer des moments chaleureux.  Mais l'Eurotandem c'est avant tout une famille, trente personnes avec qui tu vas passer  deux semaines à profiter, pédaler, se motiver, se surpasser, rencontrer, partager, déguster,  rigoler... Tu l'as compris, tu vas lier des liens forts pendant l'euro. Alors si tu veux  participer à une aventure sportive et humaine unique, viens enfourcher un tandem avec  nous !  N’hésite pas à venir nous poser des questions, tu nous reconnaîtras sans doute grâce à nos  maillots de cyclistes un peu sales.  <br>Bisous sur tes fesses,  <br>Euro’love", 
+    "clubImage":"../img/logoAsso/eurotandem.jpg",
   }
 ];
