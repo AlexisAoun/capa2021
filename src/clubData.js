@@ -33,7 +33,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Fillotte, Fillot,<br>Le club théâtre t'invite à venir partager tes talents de comédien, peut-être cachés, au sein d'une troupe exceptionnelle ! Que tu sois un vétéran comme un complet débutant, un fan d'impro ou un adepte du théâtre classique, le meilleur club de la meud te souhaite la bienvenue !<br>Cette année, tu auras l'honneur de dévoiler tout l'étendu de ton talent sur scène lors de nos différentes représentations et de nos matchs d'impros. Tu pourras également parfaire ta culture théâtrale en allant voir  des représentations dans nos superbes théâtres douaisiens et surtout passer d'excellentes soirées en notre compagnie !<br>En espérant te voir dans la troupe le plus tôt possible,<br>Le club théâtre",
-    "clubImage":"../img/logoAsso/theatre.jpg",
+    "clubImage":"../img/logoAsso/theatre.png",
   },
   {
     "clubName": "IMT'ERNATIONAL",
@@ -51,7 +51,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Chœur d’Arti-show n’a pas d’autre vocation que de te faire vibrer ! <br>Que tu sois néophyte, soliste confirmé ou choriste occasionnel, les portes de ce club fantastique te sont grandes ouvertes. Nous serons là pour t’accompagner avec bienveillance dans ton envie de prendre ton envol, seul sur scène, ou au cœur du chœur douaisien…<br>N’aie pas peur de te lancer, nous n’attendons que toi ! Notre ambition est de t’aider, et de t’accompagner sur les évènements très sympas tels que le Gala, le Cabaret, les Jams. Une séance est prévue chaque semaine pour des répétitions en chœur sur les morceaux choisis.<br>Si tu as envie de chanter, que ce soit en groupe ou en solo, n’hésite pas et rejoins-nous !<br>Amandine et Guillaume",
-    "clubImage":"../img/logoAsso/choral.jpg",
+    "clubImage":"../img/logoAsso/choral.png",
   },
   {
     "clubName": "La fanfare",
@@ -132,7 +132,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Le club de l'Art'elier permet à tous les étudiants de révéler l'artiste qui est en eux et de partager leurs idées créatives. Toujours dans la bienveillance, le but est d'apprendre les arts plastiques ensemble, en touchant à toutes les techniques, dessin, peinture, sculpture..  Le club organise des ateliers découverte, des soirées dessin et d'autres défis créatifs tels que inktober !<br />En espérant que vous viendrez vous colorer les mains et le cœur avec nous... on vous fait plein d'artisti'kiss !",
-    "clubImage":"../img/logoAsso/dessin.jpg",
+    "clubImage":"../img/logoAsso/dessin.png",
   },
   {
     "clubName": "Téléthon",
@@ -141,7 +141,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Fillote, Fillot,<br />Comme son nom l'indique, le comité téléthon est en charge ... DU TELETHON ! Cette association soutient la recherche contre les maladies rares et aide les malades dans leur combat.<br />Au cours d'une semaine complète riche en évènement qui se déroule début Décembre, tu pourras rejoindre notre équipe pour rapporter un maximum de pepettes à la cause !<br />Nous avons besoin de bras pour nous aider en kitch pour préparer des petits-déjeuners, ou pour peindre de jolies décorations pour nos soirées ! Toutes les excuses sont bonnes pour nous rejoindre.<br />Ce sera aussi une occasion formidable de t'initier à l'associatif de l'école. Quelques semaines avant les campagnes BDX, tu profiteras d'un avant-goût de cette aventure extraordinaire !<br />Ta motivation est la bienvenue pour nous soutenir dans ce beau projet et nous t'accueillerons avec grand plaisir.<br />Le comité téléthon",
-    "clubImage":"../img/logoAsso/telethon.jpg",
+    "clubImage":"../img/logoAsso/telethon.png",
   },
   {
     "clubName": "Cousu’mines",
@@ -168,7 +168,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Amateur d’alcool en tout genre : bière, p’tit jaune, vodka ? Tu ne pourras rien déguster de cela. Et oui, le club œnologie c’est la dégustation de bon vin !<br />Tu seras convié à nos séances de dégustation (dégages le covid). Tu pourras régaler tes papilles avec du vin, du fromage et de la charcuterie de qualité ! Mais surtout, tu partageras un moment convivial avec le comité et tu en apprendras plus sur le vin.<br />Ne loupe pas nos événements sinon tu risques de le regretter !",
-    "clubImage":"../img/logoAsso/oeno.jpg",
+    "clubImage":"../img/logoAsso/oeno.png",
   },
   {
     "clubName": "Popcorn Club",
@@ -186,7 +186,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Salut à toi jeune mineur ! Alors si aujourd'hui tu lis ces lignes c'est pour une raison très simple : j'ai une grosse opportunité pour toi pour financer tes bières. En effet, l'association de poker de l'IMT t'ouvre ses potes avec de grands joueurs prêts à jouer avec toi dans la bonne ambiance. Que tu sois un total débutant  ou bien un de ces fameux 'sharks', une chaise et des jetons seront là à t'attendre. Si tu hésites toujours à nous rejoindre, et bien sache que pour moi, la question elle est vite répondue.",
-    "clubImage":"../img/logoAsso/poker.jpg",
+    "clubImage":"../img/logoAsso/poker.png",
   },
   {
     "clubName": "Junior-Entreprise ARTEMIS",
@@ -276,7 +276,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Envie de t’évader et découvrir des sports de glisse ? Alors IMT Lille Maurice est là pour toi ! Viens t’éclater avec tes potes pour découvrir de nombreuses disciplines sur mer comme sur terre! Ici on aime le surf, le kite, la voile, le char à voile et on raffole de skate, roller et de patinage sur glace ! <br />Au cours de l’année, de nombreuses sorties seront organisées afin de bien faire vivre l’asso. Il te suffit seulement d’être cotisant BDS pour pouvoir y participer. D’autre part, les activités qui nécessitent moins de logistique comme le roller ou le skate, se feront quant à elles dans notre chère ville de Douai, et seront quotidiennes s'il y a des motivés. <br />Si cette présentation t’a convaincue,  n’hésite pas à rejoindre nos réseaux sociaux ( IMT-LilleMaurice) sur facebook et instagram, afin d’être tenu au courant des prochains événements et découvrir notre équipe de folie! <br />À bientôt pour des aventures, <br />Gliss’kiss !",
-    "clubImage":"../img/logoAsso/maurice.jpg",
+    "clubImage":"../img/logoAsso/maurice.png",
   },
   {
     "clubName": "Chess’Mate",
@@ -285,7 +285,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Salut à toi jeune fillot/fillote,<br />Tu as vu The Queen's Gambit sur Netflix et cela t'a donné envie d'y jouer ?<br />On a la solution pour toi ! <br />Chess'Mate est le club d'échecs de l'école, tout fraîchement créé pour réunir les nombreux joueurs de la meud. Viens donc nous rejoindre pour vivre une année en noir et blanc<br />Tu es débutant ? Aucun problème ! Nous serons là pour t'aider à progresser, et tu trouveras sûrement des gens dans le même cas que toi  <br />Au contraire tu es un expert ? Viens donc le démontrer au cours des tournois que nous organiserons tout au long de l'année <br />N'hésite plus, nous t'attendons",
-    "clubImage":"../img/logoAsso/echec.jpg",
+    "clubImage":"../img/logoAsso/echec.png",
   },
   {
     "clubName": "Pompoms",
@@ -294,7 +294,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Mon cher fillot, ma chère fillote,<br />Bientôt toi aussi tu pourrais être acclamé par le fameux chant : « LIBEREZ LES POMPOMS ! »<br />Pompons, chorées rythmées et sourires à tomber, tu retrouveras les pompoms à divers évènements tout au long de l’année (Gala, Cartel et bien plus encore !)<br />Que tu sois homme ou femme, danseur, pro du salto arrière ou tout simplement plein d’énergie et de bonne humeur, il y a une place pour toi dans cette famille pleine d’amour et une tenue à tomber pour hommes et femmes !<br />Parés de nos pompons violets et argentés, les pompoms seront là pour représenter les couleurs de ta magnifique école et faire tomber les concurrents par notre charme !",
-    "clubImage":"../img/logoAsso/pompom.jpg",
+    "clubImage":"../img/logoAsso/pompom.png",
   },
   {
     "clubName": "IMTalks",
@@ -321,7 +321,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Salut fillot.e,<br />Ça t’intéresse de participer à l’un des plus gros évènements de l’école ? Alors viens nous rejoindre dans une grande station de ski pour nous montrer tes talents de skieur ou de snowboardeur !<br />Ton comité Weski va t’organiser une semaine de dingue avec soirées, journée de skis et after-skis ! Tu auras aussi la possibilité d’avoir des cours de ski et de snow tous les matins grâce à ta team Weski qui sera encore plus fraîche que la neige !<br />N’oublie pas de réserver ta semaine du 12 au 19 février.<br />On aura le temps de se croiser aux soirées Weski autour de bons plats des montagnes pour répondre à toutes tes questions ! Mais rappelle-toi que les places sont limitées et au shotgun…",
-    "clubImage":"../img/logoAsso/weski.jpg",
+    "clubImage":"../img/logoAsso/weski.png",
   },
   {
     "clubName": "Gala",
@@ -403,7 +403,7 @@ clubData =[
     "facebook": "N/A", 
     "insta": "N/A", 
     "clubDescription":"Salut à toi fillot(e) ! <br> T’as peut-être déjà croisé ces étudiants beaux, forts et vaillants pédalant plus de quinze jours durant en tandem, contre le vent, le soleil ou la pluie, pour promouvoir le don du sang aux quatre coins de la France ? Ces étudiants font partie de l’Eurotandem ! Mais l'Eurotandem c'est quoi ? C'est une asso unique à l'école de trente-deux étudiants qui existe depuis 1991. Cette belle bande de trente potes formée de 1A et de 2A, part faire un tour de France sur leurs fidèles destriers, leurs magnifiques tandems, pendant plus de quinze jours durant les vacances d'avril pour  promouvoir le don du sang.  Avec cette expérience de folie, tu vas te surpasser autant humainement que physiquement.  On te promet que t'en ressortiras totalement transformé ! D'abord tes fesses auront très  très mal, t'auras des cuissots dignes des plus grand sportifs, mais surtout t'auras des  souvenirs inoubliables plein la tête. Tu vas découvrir et profiter de paysages magnifiques  en masse, plus grandioses les uns que les autres. Tu vas aussi rencontrer beaucoup de  bénévoles du don du sang après avoir récolté des promesses de don et avec qui on va  passer des moments chaleureux.  Mais l'Eurotandem c'est avant tout une famille, trente personnes avec qui tu vas passer  deux semaines à profiter, pédaler, se motiver, se surpasser, rencontrer, partager, déguster,  rigoler... Tu l'as compris, tu vas lier des liens forts pendant l'euro. Alors si tu veux  participer à une aventure sportive et humaine unique, viens enfourcher un tandem avec  nous !  N’hésite pas à venir nous poser des questions, tu nous reconnaîtras sans doute grâce à nos  maillots de cyclistes un peu sales.  <br>Bisous sur tes fesses,  <br>Euro’love", 
-    "clubImage":"../img/logoAsso/eurotandem.jpg",
+    "clubImage":"../img/logoAsso/eurotandem.png",
   },
   { 
     "clubName": "Air", 
