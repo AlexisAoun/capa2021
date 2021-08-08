@@ -182,7 +182,7 @@ clubData =[
   {
     "clubName": "Club Poker",
     "clubID": 21,
-    "parrent": "BDS",
+    "parrent": "BDA",
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Salut à toi jeune mineur ! Alors si aujourd'hui tu lis ces lignes c'est pour une raison très simple : j'ai une grosse opportunité pour toi pour financer tes bières. En effet, l'association de poker de l'IMT t'ouvre ses potes avec de grands joueurs prêts à jouer avec toi dans la bonne ambiance. Que tu sois un total débutant  ou bien un de ces fameux 'sharks', une chaise et des jetons seront là à t'attendre. Si tu hésites toujours à nous rejoindre, et bien sache que pour moi, la question elle est vite répondue.",
