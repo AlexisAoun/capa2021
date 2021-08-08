@@ -72,17 +72,32 @@
   transform: translateY(-5px);
 }
 
+#content .joinUs{
+  background-color: var(--thirdColor);
+  width: 70%;
+  margin-left: 15%;
+  border: 0px;
+  border-radius: 3px;
+  padding: 2%;
+  cursor: pointer;
+}
+
+#content .joinUs:hover{
+  transform: translateY(-5px);
+}
+
 #content .bigLogo {
   margin-top: 5%;
   width: 60%;
 }
+
 #content .bigLogo img{
   width: 100%;
   justify-self: flex-start;
   height: auto;
   margin-left: 15%;
-
 }
+
 #content .vid{
   display: flex;
   flex-direction: column;
@@ -103,12 +118,38 @@
   padding-bottom: 39.375%; /* 16:9 */
   height: 0;
 }
+
 #content iframe{
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+#content .planning {
+  margin-top: 5%;
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+
+#content .planning h2{
+  color: var(--thirdColor);
+  font-size: clamp(2em, 2vw, 1000em);
+  font-weight: bold;
+}
+
+#content .planning p{
+  margin-top: 1%;
+  color: white;
+  font-size: clamp(1em, 1.2vw, 1000em);
+}
+
+#content .planning img {
+  margin-top: 2%;
+  width: 80%;
+  height: auto;
 }
 
 #content .quiSommesNous{
@@ -130,7 +171,7 @@
   flex-direction: column;
   width: 100%;
   position: absolute;
-  bottom: 8%;
+  bottom: 12%;
 }
 
 #content .quiSommesNous-content h1{
@@ -142,7 +183,7 @@
 #content .quiSommesNous-content h3 {
   color: white;
   width: 50%;
-  margin-top: 3%;
+  margin-top: 2%;
   margin-left: 25%;
   text-align: center;
   font-weight: 500;
@@ -161,21 +202,6 @@
 }
 
 #content .whoAreWe:hover{
-  transform: translateY(-5px);
-}
-
-#content .joinUs{
-  background-color: var(--secondaryColor);
-  border: 0px;
-  border-radius: 3px;
-  margin: auto; 
-  margin-top: 2%;
-  padding: 1%;
-  font-size: clamp(0.8em, 1vw, 1000em);
-  cursor: pointer;
-}
-
-#content .joinUs:hover{
   transform: translateY(-5px);
 }
 
@@ -234,9 +260,8 @@
     padding: 3%;
   }
 
-  #content .quiSommesNous-content .joinUs{
-    margin-bottom: 5%;
-    background-color: var(--mainColor);
-    padding: 3%;
+  #content .joinUs{
+    width: 100%;
+    margin: 10% 0 0 0 ;
   }
 }
