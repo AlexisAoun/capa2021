@@ -6,7 +6,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Salut à toi fillote ou fillot !!<br>Si tu désires bricoler ou si tu es juste intéressé(e) par la mécanique, n'hésite pas à passer au club méca ! Nous réparons pour l'instant principalement de vélos abandonnés pour les louer aux habitants de la MEUD donc si tu as un problème avec ton vélo, notre équipe sera là pour t'aider à le faire rouler à nouveau ! On a également d'autres projets plein la tête et on attend les tiens avec impatience ! Notre équipe de passionnés t'aidera sûrement à les réaliser !<br>Notre local se situe dans le garage de Lavoisier derrière l'entrée depuis l'escalier.<br>À très bientôt et bonne intégration !",
-    "clubImage":"../img/logoAsso/meca.png",
+    "clubImage":"../../img/logoAsso/meca.png",
   },
   {
     "clubName": "Club vidéo",
@@ -15,7 +15,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Le club vidéo est une association du BDA de l’IMT Lille Douai. Son rôle principal est de retracer tous les évènements de la vie associative de l’école et d’archiver les meilleurs souvenirs de l’année actuelle. Ces moments sont partagés aux étudiants de l’école sous forme de “JT” que nous projetons 3 à 4 fois dans l’année dans la salle Nicolas. Nous possédons une salle au troisième étage de la petite aile de la résidence Lavoisier. Celle-ci nous permet d’y laisser notre matériel (caméras, drône, fond vert...) et de réaliser certaines vidéos.",
-    "clubImage":"../img/logoAsso/video.png",
+    "clubImage":"../../img/logoAsso/video.png",
   },
   {
     "clubName": "Dance with mines",
@@ -24,7 +24,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Fillotte, Fillot,<br>Cela fait 2, voire 3 ans que tu passes tes journées le cul vissé sur une chaise ? Ce temps est révolu, car cette année, tu vas danser. Que tu sois débutant.e, motivé.e à enflammer le dancefloor, ou bien confirmé.e, rejoins Dance With Mines, le club de danse de l’école !<br>Cette année, des cours de rock sont proposés. Nous t’apprendrons nos passes les plus classes, que tu pourras caler dans tes meilleures soirées.<br>Cependant Dance With Mines c’est bien plus que ça : c’est le comité qui t’accompagnera dans ta pratique, quel que soit ton style de danse.<br>D'ailleurs, Dance With Mines veut de la diversité ! Si tu es féru.e de tango, de street, de salsa, de modern jazz, de … menuet (pourquoi pas) ou de tout autre danse, le club t'accueillera avec plaisir pour que tu puisses partager avec tous ta passion !<br>Enfin bref t’as compris, Dance With Mines c’est de la danse et de la bonne humeur.<br>Hâte de te voir<br>Colin & Amandine",
-    "clubImage":"../img/logoAsso/dance.png",
+    "clubImage":"../../img/logoAsso/dance.png",
   },
   {
     "clubName": "Club théâtre",
@@ -33,7 +33,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Fillotte, Fillot,<br>Le club théâtre t'invite à venir partager tes talents de comédien, peut-être cachés, au sein d'une troupe exceptionnelle ! Que tu sois un vétéran comme un complet débutant, un fan d'impro ou un adepte du théâtre classique, le meilleur club de la meud te souhaite la bienvenue !<br>Cette année, tu auras l'honneur de dévoiler tout l'étendu de ton talent sur scène lors de nos différentes représentations et de nos matchs d'impros. Tu pourras également parfaire ta culture théâtrale en allant voir  des représentations dans nos superbes théâtres douaisiens et surtout passer d'excellentes soirées en notre compagnie !<br>En espérant te voir dans la troupe le plus tôt possible,<br>Le club théâtre",
-    "clubImage":"../img/logoAsso/theatre.png",
+    "clubImage":"../../img/logoAsso/theatre.png",
   },
   {
     "clubName": "IMT'ERNATIONAL",
@@ -42,7 +42,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Coucou les fillots !<br>C'est super de vous voir sur le campus ! IMT’ERNATIONAL vous souhaite la bienvenue ! <br>IMT’ERNATIONAL, c’est quoi ? C’est tout simplement le comité des étudiants internationaux de l’École. SI tu viens d’autre part et que tu brûles d’envie de t’installer en France au plus vite, nous sommes là pour toi !<br>Chaque année, nous accueillons une centaine d'étudiants internationaux du monde entier, qui apportent avec eux toute une palette de compétences et de talents qui enrichissent notre communauté à l’IMT. Pendant ta rentrée, c’est nous ton contact privilégié pour toutes les démarches administratives pour commencer ta vie étudiante !<br>Mais on s’arrête pas là ! Pendant l’année scolaire, nous organisons des événements avec les autres clubs qui seront à thème international, où ils peuvent mieux se connaître et rencontrer d'autres étudiants d’autres cultures, en parallèle de découvrir toute la culture française qui nous entoure !<br>Si tout ça te tente, n’hésite pas à nous rejoindre, on vous attend avec impatience !<br>IMTER’Kiss",
-    "clubImage":"../img/logoAsso/imternational.png",
+    "clubImage":"../../img/logoAsso/imternational.png",
   },
   {
     "clubName": "Chorale",
@@ -51,7 +51,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Chœur d’Arti-show n’a pas d’autre vocation que de te faire vibrer ! <br>Que tu sois néophyte, soliste confirmé ou choriste occasionnel, les portes de ce club fantastique te sont grandes ouvertes. Nous serons là pour t’accompagner avec bienveillance dans ton envie de prendre ton envol, seul sur scène, ou au cœur du chœur douaisien…<br>N’aie pas peur de te lancer, nous n’attendons que toi ! Notre ambition est de t’aider, et de t’accompagner sur les évènements très sympas tels que le Gala, le Cabaret, les Jams. Une séance est prévue chaque semaine pour des répétitions en chœur sur les morceaux choisis.<br>Si tu as envie de chanter, que ce soit en groupe ou en solo, n’hésite pas et rejoins-nous !<br>Amandine et Guillaume",
-    "clubImage":"../img/logoAsso/choral.png",
+    "clubImage":"../../img/logoAsso/choral.png",
   },
   {
     "clubName": "La fanfare",
@@ -60,7 +60,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"De la trompette à l’accordéon, en passant par le pipeau ou le violon, la fanfare c’est une bande de joyeux lurons de tous niveaux et de tous horizons qui rythme les grands évènements de la MEUD (cabaret, gala, l’art’scene… ).<br>Tu veux jouer en groupe sans te prendre la tête ? Sortir tes meilleurs solos ou simplement monter des morceaux qui en jettent ? Alors ne tergiverse pas plus longtemps, rejoins nos rangs !<br>Pour y participer ? Rien de plus simple, il te suffit de venir avec un peu de bonne humeur, on te fournira le reste ! (l’apport d’un instrument constitue un plus)",
-    "clubImage":"../img/logoAsso/fanfar.png",
+    "clubImage":"../../img/logoAsso/fanfar.png",
   },
   {
     "clubName": "Supporters",
@@ -69,7 +69,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Un match se joue sur et en dehors du terrain, ainsi ce n’est qu’une fois joueurs et supporters rassemblés que la magie opérera et Douai triomphera. Alors si le son des filets te fait vibrer, qu’à chaque action ton cœur peut chavirer, n’hésite plus, rejoins nous et viens t’enivrer de la ferveur du kop de Douai. En rejoignant nos rangs, tu te déplaceras où qu’aillent les délégations de l’école pour défendre nos couleurs, clamer ton amour à l’arbitre et aux joueurs adverses.<br />Munis toi de ta voix et nous ferons de toi un vrai ultra.<br />Fumigène’kiss<br />Clément Dohollou",
-    "clubImage":"../img/logoAsso/supporter.png",
+    "clubImage":"../../img/logoAsso/supporter.png",
   },
   {
     "clubName": "Cotrad",
@@ -78,7 +78,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"L’IMT Lille Douai, c’est une école à l’ambiance unique avec plus de 150 ans d’histoire. Autant te dire que niveau traditions, on en a un sacré paquet. Des drôles, des solennelles et des étranges.. Il y a donc un club pour gérer tout ça : le CoTrad ou Comité Tradition pour les non-flemmards !<br />Et puis on a un autre rôle : celui de s’occuper des relations avec les Alumnis (donc le bon plan si tu veux te trouver un stage rapidos) avec lesquels on organise de nombreux événements toute l’année avec pas mal de nouvelles idées (quand y’a pas de Coco) !<br />On gère aussi toutes les archives de la vie à l’école et crois moi il y en a eu des conneries.<br />Donc cher(e) fillot(e), ramènes-toi vite au CoTrad où réu rime avec apéro et chill.<br />Tradi’kiss",
-    "clubImage":"../img/logoAsso/cotrad.png",
+    "clubImage":"../../img/logoAsso/cotrad.png",
   },
   {
     "clubName": "Club Rugby",
@@ -87,7 +87,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Salut à toi, amoureux(se) du ballon ovale ou de sa 3ème mi-temps, il est temps pour moi de te présenter le XV des gueules noires ! <br />Avant tout sache que les qualités physiques ne sont clairement pas primordiales, petit tip : c’est pas pour mes 2m10 et 120 kgs qu’on m’appelle « Crevette » <br />La seule chose importante, un franc esprit de camaraderie et un bonne pinte après chaque match, pour la récupération c’est TRÈS important, bref chez nous pas de prise de tête ! <br />Sache que nous ne brille pas par nos résultats (1 essai marqué seulement en 2018-2019 et oui j’ai fait partie de l’équipe…) MAIS nous en sommes en perpétuel progression mais grâce aux 3A nous avons pu mettre 2-3 fessés depuis ! Nous alors donc avoir besoin de toi fillot(e) pour cette saison que tu aies joué au plus haut niveau ou que tu aies deux mains gauches !<br />La grande famille du XV des gueules noires t’ouvre les bras !",
-    "clubImage":"../img/logoAsso/rugby.png",
+    "clubImage":"../../img/logoAsso/rugby.png",
   },
   {
     "clubName": "Imterlude",
@@ -96,7 +96,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Imterlude, c’est le club radio de l’école ! C’est une asso encore toute jeune où il y a tout à créer et imaginer. Toutes les idées sont bonnes à prendre alors que tu sois<br />connaisseur ou pas, que tu aimes tchatcher derrière le micro ou que tu aies un sujet de podcast qui te tient à coeur, n’hésite pas à nous rejoindre ! Notre petite asso a l’ambition de créer une vraie famille prête à animer les ondes de la MEUD <3",
-    "clubImage":"../img/logoAsso/imterlude.png",
+    "clubImage":"../../img/logoAsso/imterlude.png",
   },
   {
     "clubName": "Comité musique",
@@ -105,7 +105,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Fillote, fillot,<br />La musique fait partie de ta vie ? Tu es en manque de concerts ? Tu as délaissé ton instrument pendant tes deux ou trois années de prépa ? Alors le comité musique te permettra de retrouver cette saveur oubliée et d’exprimer tes talents à l’aide de nos deux salles de musique et de nos instruments !<br />Que tu joues du jazz, du rock, du métal, du classique ou que tu sois rap ou pop, tu seras le bienvenue et tu pourras profiter des deux salles à n’importe quelle heure du jour ou de la nuit ! Guitares, pianos, batterie, amplis et micros… Peu importe ton style, seul ou en groupe, tu pourras exprimer ton âme d’artiste et libérer ta créativité!<br />Le comité se fera un plaisir de te rencontrer et de discuter musique avec toi… et pourquoi pas te retrouver pendant les différents concerts et Jams de l’année où tu pourras exprimer ton talent !<br />Amnéziki’kiss<br />Théo",
-    "clubImage":"../img/logoAsso/amnezik.png",
+    "clubImage":"../../img/logoAsso/amnezik.png",
   },
   {
     "clubName": "ZeGreenPeas",
@@ -114,7 +114,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Chère fillote, cher fillot,<br />Avec la team de ZeGreenPeas, on est fans de notre petite planète bleue (sans qui on ne serait pas grand chose) et on veut la préserver pour en faire profiter un max de monde ! Quoi de mieux donc pour sensibiliser à la protection de l’environnement que de commencer par la superbe ville de Douai, traversée par la Scarpe, abritant un vaste écosystème de matelas et autres poissons exotiques… si tu cherches bien, tu pourrais même y rencontrer des petits esprits de la forêt (“kodoma” pour les spécialistes de Miyazaki).<br />Notre premier objectif est de sensibiliser tous les élèves (pas seulement les petits meudiens qui ne trient pas leurs poubelles). On organise aussi bien des conférences que des clean walks, ou encore des petits ateliers DIY pour apprendre à faire ses produits maison. On établit des partenariats avec des commerçants éco-responsables ce qui nous permet également de proposer des paniers Bio et plein d’autres choses dont tu pourrais avoir besoin :)<br />En plus de cela, (et oui, nettoyer la Scarpe c’est sympa mais ça ne suffit pas) on met en place des événements inter-écoles et on essaie d’avoir un plus grand impact en participant à plein de groupes de travail différents qui pourront surement t'intéresser.<br />Si toi aussi tu rêves d’être une super patate douce et de sauver la planète, ou bien si t’as simplement envie de faire des petits gestes cool pour contribuer à la transition écologique, n'hésite pas à rejoindre notre team !<br />GreenKiss’ les petits pois,<br />Clélia et Rose, co-prez des patates douces",
-    "clubImage":"../img/logoAsso/greenpeas.png",
+    "clubImage":"../../img/logoAsso/greenpeas.png",
   },
   {
     "clubName": "Club Sépia",
@@ -123,7 +123,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Hey fillot(e),<br />Je suis très heureux de te présenter le club Sépia, c’est le club photo de l’école. <br />Il est là pour immortaliser tes soirées souvent oubliées. Plus sérieusement, notre but est de capturer les moments marquants de la vie à IMT Lille-Douai, comme le gala ou le cabaret. <br />Le club est ouvert aux photographes de tout niveau, que tu sois débutant ou expert, même si tu ne possèdes pas d’appareil photo tu pourras emprunter celui du club. <br />Dans l'année, on va immortaliser les nombreux événements associatifs de l’école. Des soirées aux évènements sportifs rien ne va échapper à nos objectifs. Pour les débutants, des ateliers seront organisés dans l'année, notamment comment utiliser le mode manuel. Mais aussi des sorties dans Douai ou Lille ouvertes à tous !<br />Viens développer et partager ta passion !A vos appareils !",
-    "clubImage":"../img/logoAsso/photo.png",
+    "clubImage":"../../img/logoAsso/photo.png",
   },
   {
     "clubName": "L’Artelier",
@@ -132,7 +132,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Le club de l'Art'elier permet à tous les étudiants de révéler l'artiste qui est en eux et de partager leurs idées créatives. Toujours dans la bienveillance, le but est d'apprendre les arts plastiques ensemble, en touchant à toutes les techniques, dessin, peinture, sculpture..  Le club organise des ateliers découverte, des soirées dessin et d'autres défis créatifs tels que inktober !<br />En espérant que vous viendrez vous colorer les mains et le cœur avec nous... on vous fait plein d'artisti'kiss !",
-    "clubImage":"../img/logoAsso/dessin.png",
+    "clubImage":"../../img/logoAsso/dessin.png",
   },
   {
     "clubName": "Téléthon",
@@ -141,7 +141,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Fillote, Fillot,<br />Comme son nom l'indique, le comité téléthon est en charge ... DU TELETHON ! Cette association soutient la recherche contre les maladies rares et aide les malades dans leur combat.<br />Au cours d'une semaine complète riche en évènement qui se déroule début Décembre, tu pourras rejoindre notre équipe pour rapporter un maximum de pepettes à la cause !<br />Nous avons besoin de bras pour nous aider en kitch pour préparer des petits-déjeuners, ou pour peindre de jolies décorations pour nos soirées ! Toutes les excuses sont bonnes pour nous rejoindre.<br />Ce sera aussi une occasion formidable de t'initier à l'associatif de l'école. Quelques semaines avant les campagnes BDX, tu profiteras d'un avant-goût de cette aventure extraordinaire !<br />Ta motivation est la bienvenue pour nous soutenir dans ce beau projet et nous t'accueillerons avec grand plaisir.<br />Le comité téléthon",
-    "clubImage":"../img/logoAsso/telethon.png",
+    "clubImage":"../../img/logoAsso/telethon.png",
   },
   {
     "clubName": "Cousu’mines",
@@ -150,7 +150,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Le club Cousumines est le club mode de l’école, rattaché au Bureau Des Arts. Ce club a pour objectif de promouvoir la créativité à la Maison Des Élèves en mettant en place notamment des ateliers artistiques création, retouche, etc..<br />Cette année nous avons beaucoup de projets comme organiser un vide dressing à la MEUD, ou encore des défilés lors du GALA...",
-    "clubImage":"../img/logoAsso/cousu.png",
+    "clubImage":"../../img/logoAsso/cousu.png",
   },
   {
     "clubName": "Egal’IMT",
@@ -159,7 +159,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Bienvenue à tout·e·s !<br />A travers le comité Egal’IMT, les étudiant·e·s ingénieur·e·s célèbrent la diversité, encouragent la libre expression de soi et contribuent à faire de notre école, l’IMT Lille Douai, un espace d’ouverture et de tolérance. En collaboration directe avec l'administration ainsi que le réseau des écoles de l’IMT, notre comité sollicite les élèves à travers des projets, des ateliers et tables rondes afin de sensibiliser et prendre conscience des discriminations ordinaires, du sexisme, du racisme, de la LGBTphobie ... Nous nous engageons à accompagner et soutenir les élèves. Le comité est ouvert à tous et avec l’aide de chacun d’entre vous, nous aspirons à évoluer vers un environnement toujours plus sain et tolérant, pour contribuer à l’ouverture des ingénieurs de demain.<br />Alors, fillot·e, sans plus attendre, viens te joindre au comité pour construire une société plus juste et inclusive.",
-    "clubImage":"../img/logoAsso/egalimt.png",
+    "clubImage":"../../img/logoAsso/egalimt.png",
   },
   {
     "clubName": "Club oenologie",
@@ -168,7 +168,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Amateur d’alcool en tout genre : bière, p’tit jaune, vodka ? Tu ne pourras rien déguster de cela. Et oui, le club œnologie c’est la dégustation de bon vin !<br />Tu seras convié à nos séances de dégustation (dégages le covid). Tu pourras régaler tes papilles avec du vin, du fromage et de la charcuterie de qualité ! Mais surtout, tu partageras un moment convivial avec le comité et tu en apprendras plus sur le vin.<br />Ne loupe pas nos événements sinon tu risques de le regretter !",
-    "clubImage":"../img/logoAsso/oeno.png",
+    "clubImage":"../../img/logoAsso/oeno.png",
   },
   {
     "clubName": "Popcorn Club",
@@ -177,7 +177,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Salut futur.es fillot.es ! <br />Le club ciné de Douai fait peau neuve cette année pour vous accueillir nombreux.se dans notre toute nouvelle salle de projection, entièrement rénovée pendant l’été (du moins on l’espère au moment où on écrit ça…).<br />Finie ou non, vous êtes les bienvenu.es dans cette salle où se tiendront des projections hebdomadaires, suivies de débats sur le film pour les intéressé.es. Que vous soyez cinéphiles ou juste curieux.ses, amateurices de films d’auteur ou gros fans de blockbusters, n’hésitez pas à faire un tour au club. Nous serons même ravies de projeter vos propositions.<br />Popcorn Club a également de nombreux projets pour cette année, le plus ambitieux étant la réalisation d’un Festival du Cinéma à Douai. On aura besoin de fillot.es motivé.es pour mener à bien ce projet donc venez nombreux.se !<br />Et si les séances hebdo ne suffisent pas à étancher votre soif de film, le Cinéma Tandem se trouve à 10min à pied de la Meud et propose un programme très varié, pas cher et entièrement en VO pour les puristes.<br />On espère vous voir vite !<br />Ciné’kiss<br />Héléna et Marine<br />PS : on a du popcorn <3",
-    "clubImage":"../img/logoAsso/popcorn.png",
+    "clubImage":"../../img/logoAsso/popcorn.png",
   },
   {
     "clubName": "Club Poker",
@@ -186,7 +186,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Salut à toi jeune mineur ! Alors si aujourd'hui tu lis ces lignes c'est pour une raison très simple : j'ai une grosse opportunité pour toi pour financer tes bières. En effet, l'association de poker de l'IMT t'ouvre ses potes avec de grands joueurs prêts à jouer avec toi dans la bonne ambiance. Que tu sois un total débutant  ou bien un de ces fameux 'sharks', une chaise et des jetons seront là à t'attendre. Si tu hésites toujours à nous rejoindre, et bien sache que pour moi, la question elle est vite répondue.",
-    "clubImage":"../img/logoAsso/poker.png",
+    "clubImage":"../../img/logoAsso/poker.png",
   },
   {
     "clubName": "Junior-Entreprise ARTEMIS",
@@ -195,7 +195,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Fillote, Fillot, <br />Tu as l'envie de faire partie d’un projet qui a du sens ? Tu as de l’ambition ? Tu veux booster ton CV tout en rejoignant une équipe soudée et dynamique ? Alors ARTEMIS est faite pour toi ! Association fonctionnant comme une entreprise, la Junior de l’école te mettra au contact du monde professionnel et t’aidera à développer tes compétences. Prospection, Suivi de missions, Com’, Informatique, Secrétariat-Ressources Humaines, Trésorerie, Qualité… Il y en a pour tous les goûts ! ARTEMIS te permettra aussi de rejoindre le plus grand mouvement étudiant de France et de participer à des congrès régionaux et nationaux de folie ! Rejoindre ARTEMIS, c’est avant tout intégrer une équipe solidaire et ultra motivée au service des étudiants de l’école. Missions, formations, afterworks, Semaine ARTEMIS, activités de team-building et bien plus encore ! <br />Si tu veux prendre des responsabilités et te professionnaliser, le tout dans la bonne humeur, n’attends plus et rejoins-nous !",
-    "clubImage":"../img/logoAsso/artemis.png",
+    "clubImage":"../../img/logoAsso/artemis.png",
   },
   {
     "clubName": "Le Caméléon déchaîné",
@@ -204,7 +204,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Vivant dans l'ombre, le Caméléon déchaîné est un animal dur à observer.<br />Une fois par mois, il sort au grand jour pour livrer à la Meud les histoires qui s'y passent pour ceux qui auraient raté les différents évènements, ou encore pour ceux qui souhaitent les re-découvrir autrement.<br />Mais son rôle n'est pas seulement limité à cela. Chaque mois, il vous fera découvrir une thématique sous de nombreux aspects, éveillant votre curiosité.<br />Mais le Caméléon ne sort jamais seul, son fidèle acolyte, le GeckoZen, vivant sur la toile, contiendra tout ce qu'il pourraitmanquer au Caméléon : articles supplémentaires, interview intégrale, archives ...<br />Si tu souhaites découvrir la conception d'un journal, alors tu es le bienvenu ! Tu pourras participer à une foule de choses intéressantes :<br />l'écriture, la correction, le maquettage, le dessin ou même la communication !<br />Bien sûr, le Caméléon c'est avant tout du partage aussi, alors nous te faisons une place pour que tu puisses nous faire découvrir tes passions !N'hésite plus alors et rejoins le Caméléon Déchainé !<br />Cyprien",
-    "clubImage":"../img/logoAsso/cameleon.png",
+    "clubImage":"../../img/logoAsso/cameleon.png",
   },
   {
     "clubName": "Douai Moustache Club",
@@ -213,7 +213,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Ce message s’adresse à quelques jeunes qui n’ont pas oublié ce qu’était la vraie classe. En effet j’ai l’honneur de te présenter le Douai Moustache Club ou encore DMC pour les intimes. L’association la plus importante et ce de très loin, celle qui te donnera l’occasion d’arborer ta plus belle moustache au cours du mois de novembre dans le cadre du Movember afin de lutter contre le cancer des testicules, de la prostate et d’autres encore.<br />Ce sera là l’occasion de séduire de belles demoiselles grâce à cette fringante moustache que tu porteras fièrement, l’occasion de voir qui est un gentleman comme on en fait plus, l’occasion de rire en se moquant (gentiment ou non selon affinités) des quelques jeunes garçons totalement imberbes qui osent se montrer en novembre. <br />Ainsi, prépare ton rasoir, ta mousse et ton meilleur après rasage car si tu n’es pas impeccablement rasé lors de cette période magique, affichant donc ton mépris de cette noble cause, quelques esthéticiennes et esthéticiens amateurs s’occuperont de toi. <br />Pour résumer, pense à ton père et fait ça pour lui, pour ses testicules et sa prostate, et participe au Movember avec le DMC.",
-    "clubImage":"../img/logoAsso/moustache.png",
+    "clubImage":"../../img/logoAsso/moustache.png",
   },
   {
     "clubName": "Bar",
@@ -222,7 +222,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Salut à toi fillot ! J’ai l’honneur de te présenter le bar. Un lieu de vie incontournable de la meud qui nous a beaucoup manqué l’année dernière dans lequel tu auras l’occasion de passer des moments mémorables que tu oublieras aussi parfois. La bière y coule à flot et elle est servie par une équipe d’une vingtaine d’abrutis ayant traversé des moments flous et parfois sombres mais surtout très fun.<br />Peu importe qui tu es, tu y trouveras ton bonheur, tu y feras des rencontres et peut-être même que tu tomberas amoureux de ce comptoir. <br />Tu souhaites déjà en faire partie ? Chaque chose en son temps. Tu verras au cours de l’année comment passer de l’autre côté du bar si jamais tu le désires.<br />Mais cette petite présentation ne peut pas réellement te montrer ce qu’est le bar, alors on compte sur toi pour venir te payer quelques bières et voir par toi-même ce que bar signifie réellement à la meud.",
-    "clubImage":"../img/logoAsso/soon.png",
+    "clubImage":"../../img/logoAsso/soon.png",
   },
   {
     "clubName": "IMTLD E-sport",
@@ -231,7 +231,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Si vous cherchez le meilleur moyen de meubler votre confinement, si vous êtes fans de jeux vidéos, d'esport ou juste aficionado des consoles de canapé, n'attendez plus, le club IMTLD E-Sport est là pour vous !<br />Nous vous proposons de faire le lien entre les différents sites de l'IMT au travers du jeu vidéo, afin de permettre aux joueurs de se rencontrer et d'organiser des sessions de jeu IRL ou en ligne.<br />En plus de vous proposer la participation à différents tournois inter-écoles à l'échelle nationale, nous organisons aussi nos propres évènements centrés autour du jeu vidéo.<br />Nous sommes actifs sur la plateforme twitch où nous commentons les matchs de nos équipes afin de permettre à tous d'entrer dans le monde de l'esport et d'en partager l'ambiance.<br />Que vous soyez un joueur hardcore de CS:GO, expert de la Domingo sur League of Legends, ou que vous voulez juste faire un bon vieux Mario Kart ou Smash Bros entre potes, le club E-Sport est fait pour vous !<br />Alors n'attendez plus et venez rejoindre IMTLD E-Sport !",
-    "clubImage":"../img/logoAsso/esport.png",
+    "clubImage":"../../img/logoAsso/esport.png",
   },
   {
     "clubName": "Comité CCE",
@@ -240,7 +240,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Ohé fillot !<br />Tu veux passer une semaine au bord de mer, dans la plus grande compétition sportive étudiante d’Europe ? Mais aussi faire des apéros et des grosses soirées avec tes potes, le tout ponctué de moments assez 'chill' ? Alors embarque pour la 54ème Course Croisière EDHEC !<br />La CCE c'est 3200 étudiants, 9 jours de sport et de soirées en plein mois d'avril. Que tu sois sportif aguerri ou plutôt fêtard, la CCE saura te combler. En effet, même si la renommée de cet évènement est due à sa semaine de régate appelé le Trophée Mer, il y a d'autres choses à découvrir ! Que tu sois plutôt 'tranquille' avec le Trophée Sable, qui regroupe des sports d'équipe en mode 'beach' avec sa sympathique buvette... Ou téméraire avec le Trophée Terre, des parcours militaires qui testeront ton endurance avec de l'escalade, des trails, du VTT et d'autres. Ce trophée est fait pour ceux qui veulent se donner à fond, le tout avec un fort esprit d'équipe.<br />La CCE est une super expérience qui permet de tester (toutes) tes limites. Rendez-vous les pieds dans l'eau !<br />Bisous salés, Pierrick aka Pipi pour les intimes",
-    "clubImage":"../img/logoAsso/cce.png",
+    "clubImage":"../../img/logoAsso/cce.png",
   },
   {
     "clubName": "IMTremplin",
@@ -249,7 +249,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Hello fillot, fillote!<br />Tu découvriras dans ces quelques lignes le meilleur club BDA de cette année à savoir l’IMTremplin !<br />« Mais l’IMTremplin c’est quoi ?»<br />C’est un tremplin musical composé de groupes de musiciens de l’école. Notre rôle est de former les groupes, de vous coacher ainsi que de vous faire produire dans des bars extérieurs. Nous avons prévu de donner aux gagnants une belle récompense ainsi que de jouer au festival du comité festoch  lors de leur évènement rassemblant 3000 personnes. Cette année l’édition se fera avec le site de Lille, finissant sur une magnifique finale commune qui ne manquera pas d’être caliente ;))<br />Si tu as raccroché ton instrument ou ta voix pendant ta prépa ou bien que tu souhaites à nouveau vivre des concerts incroyables, n’hésite pas et viens à l’IMTremplin !<br />De plus c’est l’occasion d’apprendre un nouvel instrument ! Nos coachs seront là pour t’aider !<br />Si tu as des interrogations n’hésite à me contacter (Pierrick secrétaire au Capa) ainsi que les autres membres du staff.<br />On vous attend nombreux et chauds pour participer aux évènements en tant que musicien et membre du public.<br />IMTremplin’kiss, Pierrick aka Pipi pour les intimes",
-    "clubImage":"../img/logoAsso/tremplin.png",
+    "clubImage":"../../img/logoAsso/tremplin.png",
   },
   {
     "clubName": "Comité Cartel",
@@ -258,7 +258,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"3 PAS EN AVANT ! 3 PAS EN ARRIÈRE !<br />C’EST LES MINES DE DOUAI QUI SONT AU CARTEL<br />Fillote, Fillot, prépare-toi car le cartel est le plus grand événement de ta première année. Que tu aies le sport dans le sang ou supporter-trice dans l’âme, viens défendre les couleurs de ton école pendant 4 jours de compétitions et de soirées.<br />Regroupant toutes les écoles du réseau des Mines Télécom de France et de l’étranger, cette compétition se déroulera cette année à Saint-Etienne. On ne saurait se contenter de notre troisième place de l’avant dernière édition, notre but est d’atteindre la première ! Alors entraînez-vous toute l’année pour être sélectionné(e) et venir vivre le meilleur week-end de votre vie !<br />Le programme : la journée tu seras soit sur le terrain à tout donner dans plus d’une dizaine de disciplines, soit dans les gradins pour scander avec vigueur le Paillardier et encourager l’école ! Le tout sera agrémenté de soirées où il faudra mettre une ambiance de feu pour décrocher le prix de l’ambiance !<br />En plus de passer 4 jours de folies, le cartel c’est aussi l’occasion de revoir tes potes qui ont intégré des écoles participantes et de t’éclater avec eux ! Alors venez, on vous attend bouillant-es !!<br />Pour finir on va organiser plusieurs petits évènements dans l’année et recruter des fillot-es pour nous aider et passer le relai. N’hésitez pas à rejoindre l’asso !<br />Brice",
-    "clubImage":"../img/logoAsso/cartel.png",
+    "clubImage":"../../img/logoAsso/cartel.png",
   },
   {
     "clubName": "Club Sono Parkin’Son",
@@ -267,7 +267,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Le club Sono est le club qui s’occupe de mettre une musique de qualité pendant les soirées. C’est avant tout, un club de passionnés de musique. Ici, on apprend à monter de A à Z la Sono, de la platine jusqu’aux enceintes, en passant par les lights, et bien sûr on apprend aussi aux fillots à mixer ! Le but du club est donc de faire danser un maximum de gens pendant nos soirées grâce à nos musiques, nos DJs et notre matos de qualité !",
-    "clubImage":"../img/logoAsso/parkin_son.png",
+    "clubImage":"../../img/logoAsso/parkin_son.png",
   },
   {
     "clubName": "IMT Lille Maurice",
@@ -276,7 +276,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Envie de t’évader et découvrir des sports de glisse ? Alors IMT Lille Maurice est là pour toi ! Viens t’éclater avec tes potes pour découvrir de nombreuses disciplines sur mer comme sur terre! Ici on aime le surf, le kite, la voile, le char à voile et on raffole de skate, roller et de patinage sur glace ! <br />Au cours de l’année, de nombreuses sorties seront organisées afin de bien faire vivre l’asso. Il te suffit seulement d’être cotisant BDS pour pouvoir y participer. D’autre part, les activités qui nécessitent moins de logistique comme le roller ou le skate, se feront quant à elles dans notre chère ville de Douai, et seront quotidiennes s'il y a des motivés. <br />Si cette présentation t’a convaincue,  n’hésite pas à rejoindre nos réseaux sociaux ( IMT-LilleMaurice) sur facebook et instagram, afin d’être tenu au courant des prochains événements et découvrir notre équipe de folie! <br />À bientôt pour des aventures, <br />Gliss’kiss !",
-    "clubImage":"../img/logoAsso/maurice.png",
+    "clubImage":"../../img/logoAsso/maurice.png",
   },
   {
     "clubName": "Chess’Mate",
@@ -285,7 +285,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Salut à toi jeune fillot/fillote,<br />Tu as vu The Queen's Gambit sur Netflix et cela t'a donné envie d'y jouer ?<br />On a la solution pour toi ! <br />Chess'Mate est le club d'échecs de l'école, tout fraîchement créé pour réunir les nombreux joueurs de la meud. Viens donc nous rejoindre pour vivre une année en noir et blanc<br />Tu es débutant ? Aucun problème ! Nous serons là pour t'aider à progresser, et tu trouveras sûrement des gens dans le même cas que toi  <br />Au contraire tu es un expert ? Viens donc le démontrer au cours des tournois que nous organiserons tout au long de l'année <br />N'hésite plus, nous t'attendons",
-    "clubImage":"../img/logoAsso/echec.png",
+    "clubImage":"../../img/logoAsso/echec.png",
   },
   {
     "clubName": "Pompoms",
@@ -294,7 +294,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Mon cher fillot, ma chère fillote,<br />Bientôt toi aussi tu pourrais être acclamé par le fameux chant : « LIBEREZ LES POMPOMS ! »<br />Pompons, chorées rythmées et sourires à tomber, tu retrouveras les pompoms à divers évènements tout au long de l’année (Gala, Cartel et bien plus encore !)<br />Que tu sois homme ou femme, danseur, pro du salto arrière ou tout simplement plein d’énergie et de bonne humeur, il y a une place pour toi dans cette famille pleine d’amour et une tenue à tomber pour hommes et femmes !<br />Parés de nos pompons violets et argentés, les pompoms seront là pour représenter les couleurs de ta magnifique école et faire tomber les concurrents par notre charme !",
-    "clubImage":"../img/logoAsso/pompom.png",
+    "clubImage":"../../img/logoAsso/pompom.png",
   },
   {
     "clubName": "IMTalks",
@@ -303,7 +303,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Salutations à toi, très cher.e Fillot.te !<br />Tu souhaites participer au partage d’idées et de connaissances sur pleeeins de thèmes variés comme l’art, les sciences, ou la culture ? IMTalks est là pour toi !<br />J’ai l’honneur de te présenter le club qui organise le TEDx IMT Nord Europe. Et oui, l’école accueille depuis maintenant 5 ans son propre TEDx. La classe hein ? L’année dernière, à cause de la situation sanitaire, le TEDx IMT Lille Douai n’a pu avoir lieu… Mais ce n’est que partie remise pour cette année !<br />On est tellement chaud bouillant pour faire venir des conférenciers jusqu’au fin fond du nord de la France qu’on a décidé d’organiser pour la première fois des conférences en plus du TEDx IMT Nord Europe. On a besoin de toi pour que la première édition de nos conférences soit parfaite, et pour que le TEDx IMT Nord Europe soit aussi cool et intéressant que les années précédentes.<br />Alors n’attends plus, rejoins notre équipe !<br />À très vite,<br />Colin",
-    "clubImage":"../img/logoAsso/talks.png",
+    "clubImage":"../../img/logoAsso/talks.png",
   },
   {
     "clubName": "Club robotique",
@@ -312,7 +312,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Fillote, Fillot,<br />Le Club Robotique de l’école est l’endroit rêvé de tous les bricoleurs, bidouilleurs et électroniciens du dimanche. Que tu souhaites juste découvrir la robotique dans une bonne ambiance, te perfectionner dans des domaines comme l’électronique, la programmation, l’impression 3D ou encore l’intelligence artificielle (si t’es vraiment déter), tu trouveras ton bonheur au club que ce soit parmi les projets en cours ou en préparation. Tu pourrais même lancer ton propre projet ! T’accompagner dans sa réalisation en te donnant accès aux outils du club ou du FabLab est aussi une de nos missions.<br />Pour cette année, nous comptons beaucoup sur ton imagination pour la relance post Covid du club alors n’hésite pas à faire le plein de bonnes idées et à nous rejoindre pour des projets toujours plus fous et toujours plus ambitieux. Tu pourras bien sûr aussi nous rejoindre dans nos projets de réparation de matériel endommagé ou de création de petits robots autonomes et autres machines farfelues.<br />Alors n’hésite plus, si ces quelques lignes ont titillé quelque chose en toi (on veut pas savoir quoi) passe nous voir au 2 PA et viens découvrir le club de l’intérieur !",
-    "clubImage":"../img/logoAsso/robot.png",
+    "clubImage":"../../img/logoAsso/robot.png",
   },
   {
     "clubName": "Weski",
@@ -321,7 +321,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Salut fillot.e,<br />Ça t’intéresse de participer à l’un des plus gros évènements de l’école ? Alors viens nous rejoindre dans une grande station de ski pour nous montrer tes talents de skieur ou de snowboardeur !<br />Ton comité Weski va t’organiser une semaine de dingue avec soirées, journée de skis et after-skis ! Tu auras aussi la possibilité d’avoir des cours de ski et de snow tous les matins grâce à ta team Weski qui sera encore plus fraîche que la neige !<br />N’oublie pas de réserver ta semaine du 12 au 19 février.<br />On aura le temps de se croiser aux soirées Weski autour de bons plats des montagnes pour répondre à toutes tes questions ! Mais rappelle-toi que les places sont limitées et au shotgun…",
-    "clubImage":"../img/logoAsso/weski.png",
+    "clubImage":"../../img/logoAsso/weski.png",
   },
   {
     "clubName": "Gala",
@@ -330,7 +330,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Fillote, Fillot, <br/> Cette année tu découvriras Le Gala IMT Lille Douai et ce sera l'événement le plus prestigieux que tu vas vivre ici ! Pendant une soirée qui t’emmènera jusqu’au bout de la nuit, près de 1000 personnes vont se réunir dans un cadre éblouissant pour faire la fête et célébrer tous les talents de l’école.<br> Ce moment est l’occasion de réunir plus de six générations d’étudiants autour du traditionnel dîner-spectacle avant de profiter d’une soirée unique portée par les meilleurs DJs de l’école mais aussi par des professionnels.<br> Garde bien l’œil ouvert sur le Gala, car c’est l'événement que tu ne veux pas manquer ! Que tu sois un/une artiste des campus de Douai, Lille, Valenciennes, Alençon ou Dunkerque qui souhaite faire briller ses talents pendant le spectacle ; un(e) fetard(e) à qui les soirées en grandes pompes manquent tant ; ou si tu souhaites rentrer dans les coulisses d’une organisation exceptionnelle, le Gala saura de toute façon répondre à tes attentes !<br> Les nombreux élèves du comité Gala seront là pour t’accompagner, répondre à tes questions et te révéler le thème de l’année (encore tenu secret pour l’instant) alors n’hésite surtout pas à te rapprocher d’eux",
-    "clubImage":"../img/logoAsso/gala.png",
+    "clubImage":"../../img/logoAsso/gala.png",
   },
   {
     "clubName": "La Mine aux merveilles",
@@ -339,7 +339,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Posons la situation : tu viens d’intégrer ta nouvelle école, tu arpentes les couloirs de la résidence Lavoisier. Alors que tu erres alors dans le quatrième étage, ton regard est rapidement attiré par le fond de celui-ci. Ce n'était pas un trou déplaisant, sale et humide, rempli de bouts de vers et d'une atmosphère suintante, c’était une Mine remplie de trésors divers et variés. Ton regard se fixe d’abord sur une étagère où trône une multitude de jeux de sociétés. Tu remarques ensuite une large bibliothèque débordant de bandes dessinées et de mangas. Tendant l’oreille, tu te rends compte que la Mine est remplie d’autres chasseurs de trésors qui, eux-aussi, profitent des différentes richesses offertes par ce lieu, un peu en dehors de la réalité de la Meud.<br />Pour parler plus simplement, la Mine aux Merveilles est l’association de jeux de sociétés, jeux de rôles et BD/Manga du site de Douai. Que tu sois vétéran ou débutant, que tu veuilles emprunter des jeux pour jouer entre potes ou juste lire une BD dans un coin, que tu cherches simplement à jouer un soir au local ou bien organiser des parties de jeu de rôle au sein de la Meud, chacun saura trouver sa pépite d’or dans la Mine.<br />Ludiquement vôtre,<br />Le bureau de La Mine aux Merveilles",
-    "clubImage":"../img/logoAsso/merveille.png",
+    "clubImage":"../../img/logoAsso/merveille.png",
   },
   {
     "clubName": "Club cirque",
@@ -348,7 +348,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Tu rêves de t'envoler dans les airs et réaliser des figures vertigineuses ? Le club cirque est fait pour toi ! Ce club en renaissance sera ravi de t'accueillir pour partager avec toi la passion du cirque. Que tu sois amateur ou débutant curieux, tu pourras venir disposer de notre matériel (trapèze, tissu et d'autres à venir) dans une des salles de gym de Douai. L'objectif : découvrir les arts du cirque et préparer un numéro pour briller à la soirée de l'année : le gala !",
-    "clubImage":"../img/logoAsso/cirque.png",
+    "clubImage":"../../img/logoAsso/cirque.png",
   },
   {
     "clubName": "Club débats",
@@ -357,7 +357,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Salut la meud Tu penses être un fin orateur ? Tu aimes argumenter ou tu es simplement curieux ? Le club débat est fait pour toi !<br />On organise régulièrement des discussions sur des thèmes divers, et tu es le bienvenu pour partager ton point de vue et - surtout - le défendre devant celui des autres, mais toujours dans la bonne humeur !<br />Donc si tu as un sujet qui te tient à cœur, ou si tu veux mettre à l'épreuve tes talents, Passe nous faire coucou !",
-    "clubImage":"../img/logoAsso/debat.png",
+    "clubImage":"../../img/logoAsso/debat.png",
   },
   {
     "clubName": "4L trophy",
@@ -366,7 +366,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Le club 4L Trophy de l’IMT Lille Douai rassemble les élèves voulant participer au 4L Trophy, qui est le plus grand rallye étudiant au monde avec plus de 1.200 équipages, soit plus de 2.400 participants ! Ce raid démarre à Biarritz pour arriver à Marrakech en traversant l’Espagne et le désert marocain, et le tout en Renault 4L évidemment !",
-    "clubImage":"../img/logoAsso/4L.png",
+    "clubImage":"../../img/logoAsso/4L.png",
   },
   {
     "clubName": "Club des brasseurs",
@@ -375,7 +375,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"Qui dit nord de la France dit amour de la bière...oui le raccourci est rapide mais véridique ! Si tu aimes la boire alors tu adoreras la brasser. Le club des brasseurs des mines c’est le club qui t’apprendra tous les rouages qui se cachent derrière la préparation de ce doux nectar qui peut prendre de multiples formes ! Avec nous pas de pression sauf dans ton verre...Brassage, dégustation et apéro sont au programme donc viens passer un bon moment avec nous, convivialité et partage seront au rendez-vous et tu deviendras un vrai pro du malt et du houblon ! <br />Bis’houbloneux",
-    "clubImage":"../img/logoAsso/brasseur.png",
+    "clubImage":"../../img/logoAsso/brasseur.png",
   },
   {
     "clubName": "Cuis’mines",
@@ -384,34 +384,34 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription":"À toi amoureux des bonnes choses, passionné du goût, magicien des fourneaux. Tu l’auras compris, dans cette association on sait se faire plaisir, et on profite ! Débutant, amateur, expert, chef : tout le monde est le bienvenu (oui même toi qui veut juste déguster des somptueux mets sans te salir les mains). Cette année, nous vous partegerons des recettes écrites et des vidéos, il y en aura pour tous les goûts, amateurs de viandes ou de poisson, végétarien ou bien végan, sucré ou salé, novice ou expérimenté. Suivez-nous sur les réseaux pour vous régaler toute l’année. Si tout se passe bien, nous assurerons des ateliers de cuisines pour ceux qui souhaitent maîtriser davantage de techniques culinaires. Vous pourrez emprunter à votre guise du matériel de cuisine fraîchement acheté cet été. Nous  préparerons des repas de À à Z en collaboration du club œno et brasseurs et tous les meudiens y seront conviés ! Il va sans dire que nous prônons la cuisine du goût, local, bio et de saison ! Vous verrez que même avec une bourse d’étudiant, on peut vraiment se faire plaisir. Pour les plus expérimentés d’entres vous, il y aura un concours de cuisine inter-écoles. Et comme vous êtes des petits gourmands, il y aura encore plein de surprises, mais ça, vous les découvrirez au fil de l’année. <br />Bisous mielleux les maxi bg !<br />Pedro et la brigade Cuis’mines",
-    "clubImage":"../img/logoAsso/soon.png",
+    "clubImage":"../../img/logoAsso/soon.png",
   },
-  { 
-    "clubName": "Festival", 
-    "clubID": 44, 
+  {
+    "clubName": "Festival",
+    "clubID": 44,
     "parrent": "BDA",
-    "facebook": "N/A", 
-    "insta": "N/A", 
+    "facebook": "N/A",
+    "insta": "N/A",
     "clubDescription": "Bienvenue dans l’association qui ne regroupe que des passionnés de musique, de festivals, de frissons et de pur kiff. <br> Notre objectif ? Organiser la première édition d’un festival de musique en plein air, autour de Lille.<br> Notre ambition ? Pas des moindres : 2 scènes, 7 artistes professionnels, autant d’artistes amateurs, un public de 3000 personnes, des stands à gogo et potentiellement le plus gros événement de l’école. Rien que ça.<br> Si tu es motivé, entreprenant (car oui on parle bien de la première édition, donc de la création de ce festival), passionné par la même chose que nous et que tu vois les choses en grand, cette association est faite pour toi !<br> Nous ne te divulguerons pas encore le nom ni le logo de notre festival, mais surtout ne t’inquiète pas fillot, ils arriveront très bientôt <br> On a hâte de te faire connaître la programmation de ce festival, qui rivalisera on l’espère bientôt avec les plus grands festivals étudiants de France de Navarre !",
-     "clubImage":"../img/logoAsso/soon.png", 
+     "clubImage":"../../img/logoAsso/soon.png", 
   },
 
-  { 
-    "clubName": "Eurotandem", 
-    "clubID": 45, 
-    "parrent": "BDH", 
-    "facebook": "N/A", 
-    "insta": "N/A", 
-    "clubDescription":"Salut à toi fillot(e) ! <br> T’as peut-être déjà croisé ces étudiants beaux, forts et vaillants pédalant plus de quinze jours durant en tandem, contre le vent, le soleil ou la pluie, pour promouvoir le don du sang aux quatre coins de la France ? Ces étudiants font partie de l’Eurotandem ! Mais l'Eurotandem c'est quoi ? C'est une asso unique à l'école de trente-deux étudiants qui existe depuis 1991. Cette belle bande de trente potes formée de 1A et de 2A, part faire un tour de France sur leurs fidèles destriers, leurs magnifiques tandems, pendant plus de quinze jours durant les vacances d'avril pour  promouvoir le don du sang.  Avec cette expérience de folie, tu vas te surpasser autant humainement que physiquement.  On te promet que t'en ressortiras totalement transformé ! D'abord tes fesses auront très  très mal, t'auras des cuissots dignes des plus grand sportifs, mais surtout t'auras des  souvenirs inoubliables plein la tête. Tu vas découvrir et profiter de paysages magnifiques  en masse, plus grandioses les uns que les autres. Tu vas aussi rencontrer beaucoup de  bénévoles du don du sang après avoir récolté des promesses de don et avec qui on va  passer des moments chaleureux.  Mais l'Eurotandem c'est avant tout une famille, trente personnes avec qui tu vas passer  deux semaines à profiter, pédaler, se motiver, se surpasser, rencontrer, partager, déguster,  rigoler... Tu l'as compris, tu vas lier des liens forts pendant l'euro. Alors si tu veux  participer à une aventure sportive et humaine unique, viens enfourcher un tandem avec  nous !  N’hésite pas à venir nous poser des questions, tu nous reconnaîtras sans doute grâce à nos  maillots de cyclistes un peu sales.  <br>Bisous sur tes fesses,  <br>Euro’love", 
-    "clubImage":"../img/logoAsso/eurotandem.png",
+  {
+    "clubName": "Eurotandem",
+    "clubID": 45,
+    "parrent": "BDH",
+    "facebook": "N/A",
+    "insta": "N/A",
+    "clubDescription":"Salut à toi fillot(e) ! <br> T’as peut-être déjà croisé ces étudiants beaux, forts et vaillants pédalant plus de quinze jours durant en tandem, contre le vent, le soleil ou la pluie, pour promouvoir le don du sang aux quatre coins de la France ? Ces étudiants font partie de l’Eurotandem ! Mais l'Eurotandem c'est quoi ? C'est une asso unique à l'école de trente-deux étudiants qui existe depuis 1991. Cette belle bande de trente potes formée de 1A et de 2A, part faire un tour de France sur leurs fidèles destriers, leurs magnifiques tandems, pendant plus de quinze jours durant les vacances d'avril pour  promouvoir le don du sang.  Avec cette expérience de folie, tu vas te surpasser autant humainement que physiquement.  On te promet que t'en ressortiras totalement transformé ! D'abord tes fesses auront très  très mal, t'auras des cuissots dignes des plus grand sportifs, mais surtout t'auras des  souvenirs inoubliables plein la tête. Tu vas découvrir et profiter de paysages magnifiques  en masse, plus grandioses les uns que les autres. Tu vas aussi rencontrer beaucoup de  bénévoles du don du sang après avoir récolté des promesses de don et avec qui on va  passer des moments chaleureux.  Mais l'Eurotandem c'est avant tout une famille, trente personnes avec qui tu vas passer  deux semaines à profiter, pédaler, se motiver, se surpasser, rencontrer, partager, déguster,  rigoler... Tu l'as compris, tu vas lier des liens forts pendant l'euro. Alors si tu veux  participer à une aventure sportive et humaine unique, viens enfourcher un tandem avec  nous !  N’hésite pas à venir nous poser des questions, tu nous reconnaîtras sans doute grâce à nos  maillots de cyclistes un peu sales.  <br>Bisous sur tes fesses,  <br>Euro’love",
+    "clubImage":"../../img/logoAsso/eurotandem.png",
   },
-  { 
-    "clubName": "Air", 
-    "clubID": 46, 
-    "parrent": "BDE", 
-    "facebook": "N/A", 
-    "insta": "N/A", 
-    "clubDescription":"Que ce soit dans vos chambres, ou au sous-sol de la MEUD, l’AIR est partout. <br>Qui sommes-nous ? Nous sommes une association passionnée par l’informatique en général. Nous touchons aux nouvelles technologies, à la programmation, aux serveurs, à la cybersécurité, aux  sciences des données, etc. <br>Que faisons-nous ? Nous nous occupons et hébergeons les sites associatifs avec le hacklab (« l’AIR »  de Lille). Mais ce n’est pas tout ! Nous sommes le principal interlocuteur entre les étudiants et la  Direction des Infrastructures et Système d'Information (Vous crierez souvent son nom pendant vos DS  en distanciel). À ce titre, nous gérons les alias des différents bureaux, de l’hébergement d’un Gitlab et  de la maintenance de différents services. Nous aidons les étudiants en cas de problème informatique. <br>Pendant l’inté, nous organisons la vente de câbles et adaptateur RJ45 à prix réduits, et pendant  l’année, nous jouons, découvrons et codons, tout en nous amusant ! Avec nos serveurs, nous pouvons  aussi organiser des LAN avec le club esport, et nous pouvons aussi à des compétitions de code pour les  plus téméraires. <br>Qui peut nous rejoindre ? Que tu sois expert·e en Shell, graphiste, programmeur·se à tes heures  perdues, ou simplement intéressé·e par l’informatique, tu es le·a bienvenu·e à l’AIR. Nous te ferons  découvrir les joies et secrets du monde informatique. <br>Bref, toutes les raisons sont bonnes pour que nous te retrouvions avec nous pour une année", 
-    "clubImage":"../img/logoAsso/air.png",
+  {
+    "clubName": "Air",
+    "clubID": 46,
+    "parrent": "BDE",
+    "facebook": "N/A",
+    "insta": "N/A",
+    "clubDescription":"Que ce soit dans vos chambres, ou au sous-sol de la MEUD, l’AIR est partout. <br>Qui sommes-nous ? Nous sommes une association passionnée par l’informatique en général. Nous touchons aux nouvelles technologies, à la programmation, aux serveurs, à la cybersécurité, aux  sciences des données, etc. <br>Que faisons-nous ? Nous nous occupons et hébergeons les sites associatifs avec le hacklab (« l’AIR »  de Lille). Mais ce n’est pas tout ! Nous sommes le principal interlocuteur entre les étudiants et la  Direction des Infrastructures et Système d'Information (Vous crierez souvent son nom pendant vos DS  en distanciel). À ce titre, nous gérons les alias des différents bureaux, de l’hébergement d’un Gitlab et  de la maintenance de différents services. Nous aidons les étudiants en cas de problème informatique. <br>Pendant l’inté, nous organisons la vente de câbles et adaptateur RJ45 à prix réduits, et pendant  l’année, nous jouons, découvrons et codons, tout en nous amusant ! Avec nos serveurs, nous pouvons  aussi organiser des LAN avec le club esport, et nous pouvons aussi à des compétitions de code pour les  plus téméraires. <br>Qui peut nous rejoindre ? Que tu sois expert·e en Shell, graphiste, programmeur·se à tes heures  perdues, ou simplement intéressé·e par l’informatique, tu es le·a bienvenu·e à l’AIR. Nous te ferons  découvrir les joies et secrets du monde informatique. <br>Bref, toutes les raisons sont bonnes pour que nous te retrouvions avec nous pour une année",
+    "clubImage":"../../img/logoAsso/air.png",
   }
 ];
