@@ -6,12 +6,12 @@ class MenuHome extends HTMLElement {
           <li>
             <a href="index.html"><i class="fa fa-home" aria-hidden="true"></i></a>
           </li>
-          <li><a href="html/information.html">Informations</a></li>
-          <li><a href="html/videos.html">Vidéos</a></li>
-          <li><a href="html/equipe.html">L'équipe</a></li>
-          <li><a href="html/vieDouai.html">La vie à Douai</a></li>
-          <li><a href="html/associations.html">Associations</a></li>
-          <li><a href="html/contactezNous.html">Contactez-nous</a></li>
+          <li><a href="html/en/information.html">Information</a></li>
+          <li><a href="html/en/videos.html">Videos</a></li>
+          <li><a href="html/en/equipe.html">The team</a></li>
+          <li><a href="html/en/vieDouai.html">Life in Douai</a></li>
+          <li><a href="html/en/associations.html">Associations</a></li>
+          <li><a href="html/en/contactezNous.html">Contact us</a></li>
         </ul>
     `;
   }
@@ -23,14 +23,14 @@ class MenuPage extends HTMLElement {
     this.innerHTML = `
         <ul class="menu">
           <li>
-            <a href="../index.html"><i class="fa fa-home" aria-hidden="true"></i></a>
+            <a href="../../index-en.html"><i class="fa fa-home" aria-hidden="true"></i></a>
           </li>
-          <li><a href="information.html">Informations</a></li>
-          <li><a href="videos.html">Vidéos</a></li>
-          <li><a href="equipe.html">L'équipe</a></li>
-          <li><a href="vieDouai.html">La vie à Douai</a></li>
+          <li><a href="information.html">Information</a></li>
+          <li><a href="videos.html">Videos</a></li>
+          <li><a href="team.html">The team</a></li>
+          <li><a href="lifeDouai.html">Life in Douai</a></li>
           <li><a href="associations.html">Associations</a></li>
-          <li><a href="contactezNous.html">Contactez-nous</a></li>
+          <li><a href="contactUs.html">Contact us</a></li>
         </ul>
     `;
   }
@@ -43,7 +43,7 @@ class Footer extends HTMLElement {
     <div id="footer">
       <div class="col1">
         <div class="logoTitle">
-          <img src="../img/logo.png" alt="logo capa 2021" />
+          <img src="../../img/logo.png" alt="logo capa 2021" />
           <h1>CAPA 2021</h1>
         </div>
         <div class="aPropos">
@@ -79,7 +79,7 @@ class Footer extends HTMLElement {
         </div>
       </div>
     </div>
-    
+
     `;
   }
 }
@@ -127,7 +127,7 @@ class FooterHome extends HTMLElement {
         </div>
       </div>
     </div>
-    
+
     `;
   }
 }
@@ -157,4 +157,3 @@ customElements.define("menu-page", MenuPage);
 customElements.define("pied-de-page", Footer);
 customElements.define("pied-de-page-home", FooterHome);
 customElements.define("social-icons", SocialIcons);
-
