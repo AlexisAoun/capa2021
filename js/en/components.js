@@ -47,20 +47,20 @@ class Footer extends HTMLElement {
           <h1>CAPA 2021</h1>
         </div>
         <div class="aPropos">
-          <h3>A propos</h3>
+          <h3>About us</h3>
           <p>
-            Le CAPA c'est le Comité d'Accueil des Premiers Arrivants de IMT
-            Lille Douai. Tous les membres de l'équipe sont là pour préparer ton
-            arrivée à Douai et te faire kiffer ton intégration !
+            CAPA is the Welcome Committee for First Arrivals of IMT Lille Douai.
+            All the members of the team are there to prepare your arrival in
+            Douai and make sure you enjoy your integration!
           </p>
         </div>
       </div>
       <div class="col2">
         <div class="joinUs">
-          <h3>Rejoins-nous</h3>
+          <h3>Come and join the party</h3>
           <p>
-            Sur Facebook, Instagram et YouTube tu auras accès à toutes les
-            informations utiles et tu pourras voir nos vidéos.
+            On Facebook, Instagram and YouTube you will have access to all
+            the useful information and you will be able to see our videos.
           </p>
         </div>
         <div class="socialIcons">
@@ -95,20 +95,20 @@ class FooterHome extends HTMLElement {
           <h1>CAPA 2021</h1>
         </div>
         <div class="aPropos">
-          <h3>A propos</h3>
+          <h3>About us</h3>
           <p>
-            Le CAPA c'est le Comité d'Accueil des Premiers Arrivants de IMT
-            Lille Douai. Tous les membres de l'équipe sont là pour préparer ton
-            arrivée à Douai et te faire kiffer ton intégration !
+            CAPA is the Welcome Committee for First Arrivals of IMT Lille Douai.
+            All the members of the team are there to prepare your arrival in
+            Douai and make sure you enjoy your integration!
           </p>
         </div>
       </div>
       <div class="col2">
         <div class="joinUs">
-          <h3>Rejoins-nous</h3>
+          <h3>Come and join the party</h3>
           <p>
-            Sur Facebook, Instagram et YouTube tu auras accès à toutes les
-            informations utiles et tu pourras voir nos vidéos.
+            On Facebook, Instagram and YouTube you will have access to all
+            the useful information and you will be able to see our videos.
           </p>
         </div>
         <div class="socialIcons">
