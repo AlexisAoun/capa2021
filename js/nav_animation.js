@@ -15,8 +15,8 @@ var page = path.split("/").pop();
 
 if(page == "index.html" || page == "")
   var logoImage = '<img id="logoImage" src="img/logo.jpg" alt="logo capa">';
-else 
-  var logoImage = '<img id="logoImage" src="../img/logo.jpg" alt="logo capa">';
+else
+  var logoImage = '<img id="logoImage" src="../../img/logo.jpg" alt="logo capa">';
 
 var logoText = '<h1 id="logoText">CAPA 2021</h1>';
 
