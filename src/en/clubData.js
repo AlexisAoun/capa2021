@@ -68,7 +68,7 @@ clubData =[
     "parrent": "BDS",
     "facebook": "N/A",
     "insta": "N/A",
-    "clubDescription":"Un match se joue sur et en dehors du terrain, ainsi ce n’est qu’une fois joueurs et supporters rassemblés que la magie opérera et Douai triomphera. Alors si le son des filets te fait vibrer, qu’à chaque action ton cœur peut chavirer, n’hésite plus, rejoins nous et viens t’enivrer de la ferveur du kop de Douai. En rejoignant nos rangs, tu te déplaceras où qu’aillent les délégations de l’école pour défendre nos couleurs, clamer ton amour à l’arbitre et aux joueurs adverses.<br />Munis toi de ta voix et nous ferons de toi un vrai ultra.<br />Fumigène’kiss<br />Clément Dohollou",
+    "clubDescription":"A match is played on and off the field, so it is only when players and supporters are together that the magic will happen and Douai will triumph. So if the sound of the nets makes you vibrate, if at each action your heart can capsize, don't hesitate any more, come and join us, get drunk with the fervor of the Douai’s kop. By joining our ranks, you will move wherever our school’s delegations are sent to defend our colors, proclaim your love to the referee and to the opposing players.<br />Unite your voice and we will make you a true supporter.<br />Fumigene'kiss<br />",
     "clubImage":"../../img/logoAsso/supporter.png",
   },
   {
@@ -77,7 +77,7 @@ clubData =[
     "parrent": "BDE",
     "facebook": "N/A",
     "insta": "N/A",
-    "clubDescription":"L’IMT Lille Douai, c’est une école à l’ambiance unique avec plus de 150 ans d’histoire. Autant te dire que niveau traditions, on en a un sacré paquet. Des drôles, des solennelles et des étranges.. Il y a donc un club pour gérer tout ça : le CoTrad ou Comité Tradition pour les non-flemmards !<br />Et puis on a un autre rôle : celui de s’occuper des relations avec les Alumnis (donc le bon plan si tu veux te trouver un stage rapidos) avec lesquels on organise de nombreux événements toute l’année avec pas mal de nouvelles idées (quand y’a pas de Coco) !<br />On gère aussi toutes les archives de la vie à l’école et crois moi il y en a eu des conneries.<br />Donc cher(e) fillot(e), ramènes-toi vite au CoTrad où réu rime avec apéro et chill.<br />Tradi’kiss",
+    "clubDescription":"IMT Lille Douai is a school with a unique atmosphere and over 150 years of history. I might as well tell you that we have a lot of traditions. Some funny, some solemn and some strange. So here is a club to manage all that: the CoTrad or Tradition Committee.<br />And then we have another role: that of taking care of the relations with the Alumnis (thus it’s a good plan if you want to find an internship) with whom we organize numerous events all year long, with quite a lot of new ideas ! <br />We also manage all the archives of the school life and believe me, the school has seen a lot of strange things over the years.<br />So, boys or girls, come and join the CoTrad soon, where meetings rhyme with “aperitif”.<br />Tradi'kiss",
     "clubImage":"../../img/logoAsso/cotrad.png",
   },
   {
@@ -86,7 +86,7 @@ clubData =[
     "parrent": "BDS",
     "facebook": "N/A",
     "insta": "N/A",
-    "clubDescription":"Salut à toi, amoureux(se) du ballon ovale ou de sa 3ème mi-temps, il est temps pour moi de te présenter le XV des gueules noires ! <br />Avant tout sache que les qualités physiques ne sont clairement pas primordiales, petit tip : c’est pas pour mes 2m10 et 120 kgs qu’on m’appelle « Crevette » <br />La seule chose importante, un franc esprit de camaraderie et un bonne pinte après chaque match, pour la récupération c’est TRÈS important, bref chez nous pas de prise de tête ! <br />Sache que nous ne brille pas par nos résultats (1 essai marqué seulement en 2018-2019 et oui j’ai fait partie de l’équipe…) MAIS nous en sommes en perpétuel progression mais grâce aux 3A nous avons pu mettre 2-3 fessés depuis ! Nous alors donc avoir besoin de toi fillot(e) pour cette saison que tu aies joué au plus haut niveau ou que tu aies deux mains gauches !<br />La grande famille du XV des gueules noires t’ouvre les bras !",
+    "clubDescription":"Welcome you lovers of the oval ball or of its 3rd half time, I’m proud to present to you the XV of the black faces! <br />First of all know that the physical qualities are clearly not of the essence has it is not with my 2m10 and 120kgs that they call the "Shrimp" <br />The most important thing is a frank spirit of teamwork and a good beer after every match. It is ESSENTIAL for the recovery, as it assures us no headaches! <br />Know that we stand out by our results (only 1 try scored in 2018-2019 and yes I was part of the team ...) Nevertheless we are progressing. Thanks to the 3A we have been able to put 2-3 spankings since! But now we need you fillot(e) for this season whether you played at the highest level or that you have two left hands!<br />The big family of the XV of the black faces welcomes you!",
     "clubImage":"../../img/logoAsso/rugby.png",
   },
   {
