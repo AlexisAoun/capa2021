@@ -5,7 +5,7 @@ clubData =[
     "parrent": "BDE",
     "facebook": "N/A",
     "insta": "N/A",
-    "clubDescription":"Salut à toi fillote ou fillot !!<br>Si tu désires bricoler ou si tu es juste intéressé(e) par la mécanique, n'hésite pas à passer au club méca ! Nous réparons pour l'instant principalement de vélos abandonnés pour les louer aux habitants de la MEUD donc si tu as un problème avec ton vélo, notre équipe sera là pour t'aider à le faire rouler à nouveau ! On a également d'autres projets plein la tête et on attend les tiens avec impatience ! Notre équipe de passionnés t'aidera sûrement à les réaliser !<br>Notre local se situe dans le garage de Lavoisier derrière l'entrée depuis l'escalier.<br>À très bientôt et bonne intégration !",
+    "clubDescription":"Hello Fillot !!! <br>If you want to tinker or are just interested in mechanics, feel free to come to the mechanical club! We currently repair most of the abandoned bikes that are put for rent at the MEUD residents. So if you have a problem with your bike, our team will be there to help you get it running again! We also have other projects in mind and look forward to hear yours! Our team of enthusiasts will surely help you make them reality! <br>Our space is located in the Lavoisier garage behind the entrance by the stairs. <br>See you soon and have a great time!",
     "clubImage":"../../img/logoAsso/meca.png",
   },
   {
@@ -393,7 +393,7 @@ clubData =[
     "facebook": "N/A",
     "insta": "N/A",
     "clubDescription": "Bienvenue dans l’association qui ne regroupe que des passionnés de musique, de festivals, de frissons et de pur kiff. <br> Notre objectif ? Organiser la première édition d’un festival de musique en plein air, autour de Lille.<br> Notre ambition ? Pas des moindres : 2 scènes, 7 artistes professionnels, autant d’artistes amateurs, un public de 3000 personnes, des stands à gogo et potentiellement le plus gros événement de l’école. Rien que ça.<br> Si tu es motivé, entreprenant (car oui on parle bien de la première édition, donc de la création de ce festival), passionné par la même chose que nous et que tu vois les choses en grand, cette association est faite pour toi !<br> Nous ne te divulguerons pas encore le nom ni le logo de notre festival, mais surtout ne t’inquiète pas fillot, ils arriveront très bientôt <br> On a hâte de te faire connaître la programmation de ce festival, qui rivalisera on l’espère bientôt avec les plus grands festivals étudiants de France de Navarre !",
-     "clubImage":"../../img/logoAsso/soon.png", 
+     "clubImage":"../../img/logoAsso/soon.png",
   },
 
   {
