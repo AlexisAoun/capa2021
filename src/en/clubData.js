@@ -54,12 +54,12 @@ clubData =[
     "clubImage":"../../img/logoAsso/choral.png",
   },
   {
-    "clubName": "La fanfare",
+    "clubName": "The fanfare",
     "clubID": 7,
     "parrent": "BDA",
     "facebook": "N/A",
     "insta": "N/A",
-    "clubDescription":"De la trompette à l’accordéon, en passant par le pipeau ou le violon, la fanfare c’est une bande de joyeux lurons de tous niveaux et de tous horizons qui rythme les grands évènements de la MEUD (cabaret, gala, l’art’scene… ).<br>Tu veux jouer en groupe sans te prendre la tête ? Sortir tes meilleurs solos ou simplement monter des morceaux qui en jettent ? Alors ne tergiverse pas plus longtemps, rejoins nos rangs !<br>Pour y participer ? Rien de plus simple, il te suffit de venir avec un peu de bonne humeur, on te fournira le reste ! (l’apport d’un instrument constitue un plus)",
+    "clubDescription":"From the trumpet to the accordion, passing by the pipe or the violin, the brass band is a band of merry students of all levels and all horizons which give rhythm to the big events of the MEUD (cabaret, gala, art'scene...)..<br> Do you want to play in a group with no stress ? Do you want to play your best solos or simply put together some tracks that will blow our minds away? Then don't hesitate and join our ranks! Nothing could be simpler, you just have to come with a good mood and we will provide the rest! (bringing an instrument is a plus)",
     "clubImage":"../../img/logoAsso/fanfar.png",
   },
   {
