@@ -45,12 +45,12 @@ clubData =[
     "clubImage":"../../img/logoAsso/imternational.png",
   },
   {
-    "clubName": "Chorale",
+    "clubName": "Choir",
     "clubID": 6,
     "parrent": "BDA",
     "facebook": "N/A",
     "insta": "N/A",
-    "clubDescription":"Chœur d’Arti-show n’a pas d’autre vocation que de te faire vibrer ! <br>Que tu sois néophyte, soliste confirmé ou choriste occasionnel, les portes de ce club fantastique te sont grandes ouvertes. Nous serons là pour t’accompagner avec bienveillance dans ton envie de prendre ton envol, seul sur scène, ou au cœur du chœur douaisien…<br>N’aie pas peur de te lancer, nous n’attendons que toi ! Notre ambition est de t’aider, et de t’accompagner sur les évènements très sympas tels que le Gala, le Cabaret, les Jams. Une séance est prévue chaque semaine pour des répétitions en chœur sur les morceaux choisis.<br>Si tu as envie de chanter, que ce soit en groupe ou en solo, n’hésite pas et rejoins-nous !<br>Amandine et Guillaume",
+    "clubDescription":"Chœur d'Arti-show has no other vocation than to make you vibrate! <br>Whether you are a neophyte, an experienced soloist or an occasional chorister, the doors of this fantastic club are wide open to you. We will be there to accompany you with kindness in your desire to take flight, alone on stage, or in the heart of the Douai choir... <br>Don't be afraid to launch yourself forward, we're only waiting for you! Our ambition is to help you, and to accompany you on the very nice events such as the Gala, the Cabaret, the Jams. A session is planned every week for choir rehearsals on chosen pieces. <br>If you want to sing, whether in group or solo, stop hesitating and join us!",
     "clubImage":"../../img/logoAsso/choral.png",
   },
   {
