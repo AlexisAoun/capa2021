@@ -1,6 +1,6 @@
 clubData =[
   {
-    "clubName": "Club méca",
+    "clubName": "Mechanical club",
     "clubID": 1,
     "parrent": "BDE",
     "facebook": "N/A",
@@ -9,12 +9,12 @@ clubData =[
     "clubImage":"../../img/logoAsso/meca.png",
   },
   {
-    "clubName": "Club vidéo",
+    "clubName": "Video club",
     "clubID": 2,
     "parrent": "BDA",
     "facebook": "N/A",
     "insta": "N/A",
-    "clubDescription":"Le club vidéo est une association du BDA de l’IMT Lille Douai. Son rôle principal est de retracer tous les évènements de la vie associative de l’école et d’archiver les meilleurs souvenirs de l’année actuelle. Ces moments sont partagés aux étudiants de l’école sous forme de “JT” que nous projetons 3 à 4 fois dans l’année dans la salle Nicolas. Nous possédons une salle au troisième étage de la petite aile de la résidence Lavoisier. Celle-ci nous permet d’y laisser notre matériel (caméras, drône, fond vert...) et de réaliser certaines vidéos.",
+    "clubDescription":"The video club is part of the BDA of IMT Lille Douai. Its main role is to retrace all the events of the school's associative life and to archive the best memories of the current year. These moments are shared with the students threw the "JT" that we air 3 to 4 times a year in the Nicolas’ room. A room on the third floor of the Lavoisier residence is dedicated to our club. This room allows us to leave our equipment (cameras, drone, green background...) and to make our videos.",
     "clubImage":"../../img/logoAsso/video.png",
   },
   {
