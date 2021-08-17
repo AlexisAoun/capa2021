@@ -14,7 +14,7 @@ clubData =[
     "parrent": "BDA",
     "facebook": "N/A",
     "insta": "N/A",
-    "clubDescription":"The video club is part of the BDA of IMT Lille Douai. Its main role is to retrace all the events of the school's associative life and to archive the best memories of the current year. These moments are shared with the students threw the "JT" that we air 3 to 4 times a year in the Nicolas’ room. A room on the third floor of the Lavoisier residence is dedicated to our club. This room allows us to leave our equipment (cameras, drone, green background...) and to make our videos.",
+    "clubDescription":"The video club is part of the BDA of IMT Lille Douai. Its main role is to retrace all the events of the school's associative life and to archive the best memories of the current year. These moments are shared with the students threw the “JT” that we air 3 to 4 times a year in the Nicolas’ room. A room on the third floor of the Lavoisier residence is dedicated to our club. This room allows us to leave our equipment (cameras, drone, green background...) and to make our videos.",
     "clubImage":"../../img/logoAsso/video.png",
   },
   {
@@ -81,12 +81,12 @@ clubData =[
     "clubImage":"../../img/logoAsso/cotrad.png",
   },
   {
-    "clubName": "Club Rugby",
+    "clubName": "Rugby club",
     "clubID": 10,
     "parrent": "BDS",
     "facebook": "N/A",
     "insta": "N/A",
-    "clubDescription":"Welcome you lovers of the oval ball or of its 3rd half time, I’m proud to present to you the XV of the black faces! <br />First of all know that the physical qualities are clearly not of the essence has it is not with my 2m10 and 120kgs that they call the "Shrimp" <br />The most important thing is a frank spirit of teamwork and a good beer after every match. It is ESSENTIAL for the recovery, as it assures us no headaches! <br />Know that we stand out by our results (only 1 try scored in 2018-2019 and yes I was part of the team ...) Nevertheless we are progressing. Thanks to the 3A we have been able to put 2-3 spankings since! But now we need you fillot(e) for this season whether you played at the highest level or that you have two left hands!<br />The big family of the XV of the black faces welcomes you!",
+    "clubDescription":"Welcome you lovers of the oval ball or of its 3rd half time, I’m proud to present to you the XV of the black faces! <br />First of all know that the physical qualities are clearly not of the essence has it is not with my 2m10 and 120kgs that they call the “Shrimp” <br />The most important thing is a frank spirit of teamwork and a good beer after every match. It is ESSENTIAL for the recovery, as it assures us no headaches! <br />Know that we stand out by our results (only 1 try scored in 2018-2019 and yes I was part of the team ...) Nevertheless we are progressing. Thanks to the 3A we have been able to put 2-3 spankings since! But now we need you fillot(e) for this season whether you played at the highest level or that you have two left hands!<br />The big family of the XV of the black faces welcomes you!",
     "clubImage":"../../img/logoAsso/rugby.png",
   },
   {
