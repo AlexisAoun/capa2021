@@ -67,13 +67,15 @@ body::after {
 }
 
 #header .title .lang {
-  display: none;
   width: 5%;
   font-size: clamp(12px, 1vw, 1000px);
   justify-content: space-around;
   position: absolute;
+  display: flex;
+  flex-direction: row;
   left: 7%;
   top: 40%;
+
 }
 
 #header .title .lang a:hover {
