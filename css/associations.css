@@ -26,6 +26,11 @@
   width: 70%;
 }
 
+.what {
+  color: var(--mainColor);
+  font-size: 15px;
+}
+
 .content-body {
   display: none; /*temporaire, was flex*/
   flex-direction: column;
